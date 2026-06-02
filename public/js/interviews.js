@@ -1,4 +1,4 @@
-const DATA_URL = "../data/interview_data.json";
+const DATA_URL = "data/interview_data.json";
 
 const state = {
   rows: [],

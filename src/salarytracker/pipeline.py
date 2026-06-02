@@ -8,7 +8,14 @@ import time
 from pathlib import Path
 from typing import Any
 
-from salarytracker import DASHBOARD_FILE, DATA_DIR, PARSED_FILE, POSTS_FILE
+from salarytracker import (
+    DASHBOARD_FILE,
+    DATA_DIR,
+    PARSED_FILE,
+    POSTS_FILE,
+    PUBLIC_DASHBOARD_FILE,
+)
+from salarytracker.export_utils import write_dashboard_json
 from salarytracker.config import REQUEST_DELAY_SEC, Settings
 from salarytracker.fetch import BATCH_SIZE, COMPENSATION_TAG, _to_record, enrich_posts, fetch_post_page
 from salarytracker.normalize import to_dashboard_row
@@ -155,8 +162,7 @@ def parse_all(settings: Settings | None = None) -> tuple[int, int]:
 def export_dashboard() -> int:
     rows: list[dict[str, Any]] = []
     if not PARSED_FILE.exists():
-        with DASHBOARD_FILE.open("w", encoding="utf-8") as handle:
-            json.dump(rows, handle, indent=2)
+        write_dashboard_json(DASHBOARD_FILE, PUBLIC_DASHBOARD_FILE, [])
         return 0
 
     with PARSED_FILE.open("r", encoding="utf-8") as handle:
@@ -173,9 +179,10 @@ def export_dashboard() -> int:
             )
 
     rows.sort(key=lambda row: row["date"], reverse=True)
-    with DASHBOARD_FILE.open("w", encoding="utf-8") as handle:
-        json.dump(rows, handle, indent=2, ensure_ascii=False)
-    return len(rows)
+    if not rows:
+        write_dashboard_json(DASHBOARD_FILE, PUBLIC_DASHBOARD_FILE, [])
+        return 0
+    return write_dashboard_json(DASHBOARD_FILE, PUBLIC_DASHBOARD_FILE, rows)
 
 
 async def run_sync(max_posts: int = 500, settings: Settings | None = None) -> None:

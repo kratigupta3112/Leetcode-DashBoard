@@ -13,7 +13,9 @@ from salarytracker import (
     INTERVIEW_DATA_FILE,
     INTERVIEW_PARSED_FILE,
     INTERVIEW_POSTS_FILE,
+    PUBLIC_INTERVIEW_DATA_FILE,
 )
+from salarytracker.export_utils import write_dashboard_json
 from salarytracker.config import REQUEST_DELAY_SEC
 from salarytracker.fetch import BATCH_SIZE, INTERVIEW_TAG, _to_record, enrich_posts, fetch_post_page
 from salarytracker.interview_parse import parse_interview_post
@@ -116,9 +118,7 @@ def export_interview_data() -> int:
                 rows.append(rec)
 
     rows.sort(key=lambda r: r.get("date") or "", reverse=True)
-    with INTERVIEW_DATA_FILE.open("w", encoding="utf-8") as handle:
-        json.dump(rows, handle, indent=2, ensure_ascii=False)
-    return len(rows)
+    return write_dashboard_json(INTERVIEW_DATA_FILE, PUBLIC_INTERVIEW_DATA_FILE, rows)
 
 
 async def run_interview_sync(max_posts: int = 500) -> None:

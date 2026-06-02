@@ -1,0 +1,1412 @@
+[
+  {
+    "id": 8307856,
+    "date": "2026-06-02T05:12:00.377026+00:00",
+    "location": "",
+    "company": "Career Journey",
+    "role": "Principal Engineer",
+    "yoe": null,
+    "base": 60.0,
+    "total": 60.0
+  },
+  {
+    "id": 8305858,
+    "date": "2026-06-01T06:40:14.880560+00:00",
+    "location": "",
+    "company": "Amazon",
+    "role": "SDE 1",
+    "yoe": null,
+    "base": 1.0,
+    "total": 6.0
+  },
+  {
+    "id": 8305078,
+    "date": "2026-05-31T19:37:25.448024+00:00",
+    "location": "Bengaluru",
+    "company": "Walmart",
+    "role": "SSE",
+    "yoe": 8.9,
+    "base": 45.0,
+    "total": 33.0
+  },
+  {
+    "id": 8302483,
+    "date": "2026-05-30T10:45:05.990758+00:00",
+    "location": "",
+    "company": "Sumo Logic -",
+    "role": "SSE",
+    "yoe": null,
+    "base": 1.0,
+    "total": 4.0
+  },
+  {
+    "id": 8301835,
+    "date": "2026-05-30T02:22:26.766224+00:00",
+    "location": "Bengaluru",
+    "company": "Microsoft Compensastion For",
+    "role": "SSE",
+    "yoe": null,
+    "base": 55.0,
+    "total": 55.0
+  },
+  {
+    "id": 8300936,
+    "date": "2026-05-29T13:04:54.674885+00:00",
+    "location": "",
+    "company": "Previously Working As An",
+    "role": "Staff Engineer",
+    "yoe": 7.0,
+    "base": 7.0,
+    "total": 60.0
+  },
+  {
+    "id": 8299587,
+    "date": "2026-05-28T18:40:39.178796+00:00",
+    "location": "",
+    "company": "Walmart",
+    "role": "Sse(In4)",
+    "yoe": 8.5,
+    "base": 4.0,
+    "total": 2.0
+  },
+  {
+    "id": 8299107,
+    "date": "2026-05-28T13:38:35.614735+00:00",
+    "location": "",
+    "company": "Silicon Engineering",
+    "role": "L3",
+    "yoe": null,
+    "base": 1.0,
+    "total": 25.0
+  },
+  {
+    "id": 8298815,
+    "date": "2026-05-28T10:13:29.438586+00:00",
+    "location": "",
+    "company": "SSE",
+    "role": "In4",
+    "yoe": null,
+    "base": 4.0,
+    "total": 5.0
+  },
+  {
+    "id": 8296943,
+    "date": "2026-05-27T10:19:00.177667+00:00",
+    "location": "Remote",
+    "company": "Alteryx",
+    "role": "N/A",
+    "yoe": 0.0,
+    "base": 1.0,
+    "total": 73.0
+  },
+  {
+    "id": 8296568,
+    "date": "2026-05-27T07:20:19.375297+00:00",
+    "location": "",
+    "company": "Amazon",
+    "role": "SDE2",
+    "yoe": null,
+    "base": 62.0,
+    "total": 62.0
+  },
+  {
+    "id": 8295640,
+    "date": "2026-05-26T18:31:17.982837+00:00",
+    "location": "Bengaluru",
+    "company": "Titan (directi)",
+    "role": "N/A",
+    "yoe": 0.0,
+    "base": 1.0,
+    "total": 22.0
+  },
+  {
+    "id": 8293033,
+    "date": "2026-05-25T15:23:46.424033+00:00",
+    "location": "",
+    "company": "Walmart",
+    "role": "SDE 3",
+    "yoe": 3.0,
+    "base": 18.0,
+    "total": 18.0
+  },
+  {
+    "id": 8292668,
+    "date": "2026-05-25T11:50:58.787434+00:00",
+    "location": "",
+    "company": "Ier 1 College And Currently Working As A",
+    "role": "SDE2",
+    "yoe": null,
+    "base": 3.0,
+    "total": 6.5
+  },
+  {
+    "id": 8286166,
+    "date": "2026-05-22T11:16:30.141798+00:00",
+    "location": "",
+    "company": "Searce",
+    "role": "Machine Learning Engineer",
+    "yoe": null,
+    "base": 23.0,
+    "total": 4.0
+  },
+  {
+    "id": 8284627,
+    "date": "2026-05-21T17:22:11.343922+00:00",
+    "location": "Bengaluru",
+    "company": "Product Base",
+    "role": "MTS",
+    "yoe": 2.0,
+    "base": 27.4,
+    "total": 41.4
+  },
+  {
+    "id": 8284079,
+    "date": "2026-05-21T12:58:21.616314+00:00",
+    "location": "",
+    "company": "Product Based Mid-size MNC",
+    "role": "Bangalore",
+    "yoe": 7.0,
+    "base": 38.0,
+    "total": 45.0
+  },
+  {
+    "id": 8278327,
+    "date": "2026-05-19T16:35:34.538838+00:00",
+    "location": "Bengaluru",
+    "company": "Rippling",
+    "role": "N/A",
+    "yoe": 2.5,
+    "base": 63.0,
+    "total": 63.0
+  },
+  {
+    "id": 8277729,
+    "date": "2026-05-19T13:25:39.639415+00:00",
+    "location": "Bengaluru",
+    "company": "Postman",
+    "role": "N/A",
+    "yoe": 3.0,
+    "base": 3.0,
+    "total": 8.0
+  },
+  {
+    "id": 8249205,
+    "date": "2026-05-16T10:41:41.306419+00:00",
+    "location": "",
+    "company": "Seed-funded Startup In Voice AI Agent Domain",
+    "role": "Senior Ai Engineer",
+    "yoe": null,
+    "base": 3.0,
+    "total": 17.0
+  },
+  {
+    "id": 8245638,
+    "date": "2026-05-16T04:47:04.137146+00:00",
+    "location": "Bangalore (4 Days Wfo)",
+    "company": "JP Morgan Chase",
+    "role": "Sde 2 (Grade 601)",
+    "yoe": 4.0,
+    "base": 29.0,
+    "total": 32.0
+  },
+  {
+    "id": 8240755,
+    "date": "2026-05-15T13:02:57.654790+00:00",
+    "location": "",
+    "company": "Netapp",
+    "role": "MTS 3",
+    "yoe": 7.5,
+    "base": 41.0,
+    "total": 50.0
+  },
+  {
+    "id": 8234198,
+    "date": "2026-05-15T06:21:39.358391+00:00",
+    "location": "Noida, India (Hybrid)",
+    "company": "Microsoft",
+    "role": "Software Engineer - 2 (L61)",
+    "yoe": 5.0,
+    "base": 63.0,
+    "total": 63.0
+  },
+  {
+    "id": 8215066,
+    "date": "2026-05-13T13:39:40.515422+00:00",
+    "location": "",
+    "company": "Product-based Startup",
+    "role": "N/A",
+    "yoe": 6.0,
+    "base": 3.0,
+    "total": 2.0
+  },
+  {
+    "id": 8195901,
+    "date": "2026-05-11T19:27:06.770517+00:00",
+    "location": "",
+    "company": "Kotak 811",
+    "role": "SDE 2",
+    "yoe": 4.0,
+    "base": 2.0,
+    "total": 5.0
+  },
+  {
+    "id": 8179144,
+    "date": "2026-05-09T15:42:29.007836+00:00",
+    "location": "",
+    "company": "Walmart",
+    "role": "N/A",
+    "yoe": null,
+    "base": 29.0,
+    "total": 29.0
+  },
+  {
+    "id": 8173950,
+    "date": "2026-05-08T21:09:19.549083+00:00",
+    "location": "",
+    "company": "Uniphore",
+    "role": "N/A",
+    "yoe": 10.0,
+    "base": 60.0,
+    "total": 60.0
+  },
+  {
+    "id": 8170184,
+    "date": "2026-05-08T12:13:05.451145+00:00",
+    "location": "",
+    "company": "Goldman Sachs",
+    "role": "Analyst",
+    "yoe": 1.8,
+    "base": 26.0,
+    "total": 32.85
+  },
+  {
+    "id": 8155664,
+    "date": "2026-05-06T20:40:25.605332+00:00",
+    "location": "",
+    "company": "Tesco",
+    "role": "SDE 2",
+    "yoe": null,
+    "base": 2.0,
+    "total": 29.0
+  },
+  {
+    "id": 8154463,
+    "date": "2026-05-06T17:24:14.022543+00:00",
+    "location": "Bengaluru",
+    "company": "Product Based MNC",
+    "role": "L3",
+    "yoe": 1.0,
+    "base": 3.0,
+    "total": 4.0
+  },
+  {
+    "id": 8154343,
+    "date": "2026-05-06T17:01:28.183161+00:00",
+    "location": "",
+    "company": "US Based Product Company",
+    "role": "N/A",
+    "yoe": 3.8,
+    "base": 23.0,
+    "total": 23.0
+  },
+  {
+    "id": 8147790,
+    "date": "2026-05-05T17:52:59.937674+00:00",
+    "location": "",
+    "company": "Paytm",
+    "role": "SSE",
+    "yoe": null,
+    "base": 24.0,
+    "total": 17.0
+  },
+  {
+    "id": 8137362,
+    "date": "2026-05-04T10:08:21.061314+00:00",
+    "location": "Bangalore, India",
+    "company": "Arm",
+    "role": "N/A",
+    "yoe": 3.1,
+    "base": 30.0,
+    "total": 30.0
+  },
+  {
+    "id": 8131115,
+    "date": "2026-05-02T18:31:33.869340+00:00",
+    "location": "Bangalore, India",
+    "company": "Amazon",
+    "role": "N/A",
+    "yoe": 0.0,
+    "base": 1.0,
+    "total": 84.0
+  },
+  {
+    "id": 8124896,
+    "date": "2026-05-01T15:55:11.930503+00:00",
+    "location": "",
+    "company": "CWAN",
+    "role": "SDE2",
+    "yoe": null,
+    "base": 2.0,
+    "total": 2.0
+  },
+  {
+    "id": 8114232,
+    "date": "2026-04-29T17:12:30.246359+00:00",
+    "location": "",
+    "company": "EU Based Product Based MNC",
+    "role": "Data Engineer",
+    "yoe": 2.8,
+    "base": 2.8,
+    "total": 3.0
+  },
+  {
+    "id": 8112539,
+    "date": "2026-04-29T11:01:49.137186+00:00",
+    "location": "",
+    "company": "How Does This Compare With Typical",
+    "role": "SDE2",
+    "yoe": 4.0,
+    "base": 18.0,
+    "total": 32.0
+  },
+  {
+    "id": 8098504,
+    "date": "2026-04-26T06:10:50.017895+00:00",
+    "location": "Bengaluru",
+    "company": "SAP Labs",
+    "role": "Business Process Consultant - T2",
+    "yoe": null,
+    "base": 21.0,
+    "total": 21.0
+  },
+  {
+    "id": 8088654,
+    "date": "2026-04-24T05:58:45.577683+00:00",
+    "location": "",
+    "company": "1.5 Months",
+    "role": "N/A",
+    "yoe": null,
+    "base": 42.27,
+    "total": 51.0
+  },
+  {
+    "id": 8076680,
+    "date": "2026-04-23T13:41:00.519031+00:00",
+    "location": "Bangalore, India",
+    "company": "Okta",
+    "role": "N/A",
+    "yoe": 11.0,
+    "base": 52.0,
+    "total": 80.0
+  },
+  {
+    "id": 8067326,
+    "date": "2026-04-23T08:08:09.328323+00:00",
+    "location": "",
+    "company": "Amazon",
+    "role": "SDE 2",
+    "yoe": null,
+    "base": 2.0,
+    "total": 40.0
+  },
+  {
+    "id": 8046146,
+    "date": "2026-04-22T08:20:53.437039+00:00",
+    "location": "",
+    "company": "Airbnb G9 Vs Microsoft",
+    "role": "L63",
+    "yoe": 7.8,
+    "base": 9.0,
+    "total": 7.8
+  },
+  {
+    "id": 8030174,
+    "date": "2026-04-21T11:40:09.552687+00:00",
+    "location": "",
+    "company": "Microsoft",
+    "role": "SDE 2",
+    "yoe": null,
+    "base": 2.0,
+    "total": 27.0
+  },
+  {
+    "id": 8029202,
+    "date": "2026-04-21T11:06:51.873515+00:00",
+    "location": "Bengaluru",
+    "company": "Amazon",
+    "role": "Sde-1 (L4)",
+    "yoe": 1.0,
+    "base": 19.0,
+    "total": 19.0
+  },
+  {
+    "id": 8017515,
+    "date": "2026-04-20T18:11:58.468047+00:00",
+    "location": "",
+    "company": "Interviewed For",
+    "role": "SDE2",
+    "yoe": null,
+    "base": 2.0,
+    "total": 1.5
+  },
+  {
+    "id": 8015907,
+    "date": "2026-04-20T16:40:28.600890+00:00",
+    "location": "",
+    "company": "Support Role At Faang",
+    "role": "SDE 2",
+    "yoe": 2.0,
+    "base": 29.0,
+    "total": 29.0
+  },
+  {
+    "id": 8013860,
+    "date": "2026-04-20T14:55:41.984434+00:00",
+    "location": "Hyderabad",
+    "company": "Qualcomm",
+    "role": "N/A",
+    "yoe": 2.0,
+    "base": 1.0,
+    "total": 5.0
+  },
+  {
+    "id": 7994010,
+    "date": "2026-04-19T11:11:44.282989+00:00",
+    "location": "",
+    "company": "Amazon",
+    "role": "SDE2",
+    "yoe": 6.0,
+    "base": 43.0,
+    "total": 43.0
+  },
+  {
+    "id": 7984978,
+    "date": "2026-04-18T17:11:51.335818+00:00",
+    "location": "Banglore",
+    "company": "JPMC",
+    "role": "SDE 2",
+    "yoe": 3.0,
+    "base": 2.0,
+    "total": 16.5
+  },
+  {
+    "id": 7980642,
+    "date": "2026-04-18T12:38:09.504459+00:00",
+    "location": "",
+    "company": "Cisco",
+    "role": "N/A",
+    "yoe": null,
+    "base": 1.9,
+    "total": 2.0
+  },
+  {
+    "id": 7969222,
+    "date": "2026-04-17T19:15:18.494923+00:00",
+    "location": "Bengaluru",
+    "company": "Gurugram-based Fintech Startup (laid Off In January)",
+    "role": "Software Development Engineer (2)",
+    "yoe": 7.0,
+    "base": 2.0,
+    "total": 3.0
+  },
+  {
+    "id": 7968573,
+    "date": "2026-04-17T18:23:32.333983+00:00",
+    "location": "",
+    "company": "Banking Enterprise Setup",
+    "role": "N/A",
+    "yoe": 4.5,
+    "base": 2.0,
+    "total": 3.0
+  },
+  {
+    "id": 7936499,
+    "date": "2026-04-16T08:36:18.067988+00:00",
+    "location": "Bengaluru",
+    "company": "Mcafee",
+    "role": "Bangalore",
+    "yoe": 8.0,
+    "base": 2.0,
+    "total": 30.0
+  },
+  {
+    "id": 7936497,
+    "date": "2026-04-16T08:36:07.062954+00:00",
+    "location": "",
+    "company": "Walmart",
+    "role": "Flipkart",
+    "yoe": 2.9,
+    "base": 2.0,
+    "total": 3.0
+  },
+  {
+    "id": 7935212,
+    "date": "2026-04-16T06:52:59.338445+00:00",
+    "location": "Hyderabad",
+    "company": "Salesforce",
+    "role": "N/A",
+    "yoe": 2.8,
+    "base": 27.0,
+    "total": 27.0
+  },
+  {
+    "id": 7934351,
+    "date": "2026-04-16T06:03:37.822117+00:00",
+    "location": "",
+    "company": "Flipkart",
+    "role": "Kotak Mahindra",
+    "yoe": 2.9,
+    "base": 2.0,
+    "total": 2.0
+  },
+  {
+    "id": 7911311,
+    "date": "2026-04-14T16:41:22.451366+00:00",
+    "location": "Bengaluru",
+    "company": "Linkedin",
+    "role": "N/A",
+    "yoe": 4.0,
+    "base": 29.0,
+    "total": 75.0
+  },
+  {
+    "id": 7910016,
+    "date": "2026-04-14T15:17:52.196588+00:00",
+    "location": "",
+    "company": "Amazon",
+    "role": "SDE2",
+    "yoe": null,
+    "base": 46.0,
+    "total": 46.0
+  },
+  {
+    "id": 7901539,
+    "date": "2026-04-14T07:17:54.105689+00:00",
+    "location": "",
+    "company": "Recruiter Gave Me The Rough Numbers For",
+    "role": "SSE",
+    "yoe": 4.0,
+    "base": 30.0,
+    "total": 54.0
+  },
+  {
+    "id": 7878487,
+    "date": "2026-04-12T07:18:32.030657+00:00",
+    "location": "",
+    "company": "Amazon",
+    "role": "SDE2",
+    "yoe": 3.8,
+    "base": 44.0,
+    "total": 44.0
+  },
+  {
+    "id": 7877753,
+    "date": "2026-04-12T05:52:41.596183+00:00",
+    "location": "",
+    "company": "Senior Associate Technology",
+    "role": "L1",
+    "yoe": null,
+    "base": 1.0,
+    "total": 5.0
+  },
+  {
+    "id": 7875182,
+    "date": "2026-04-11T19:04:31.662422+00:00",
+    "location": "",
+    "company": "Frontend",
+    "role": "1 Yoe",
+    "yoe": null,
+    "base": 23.0,
+    "total": 23.0
+  },
+  {
+    "id": 7845735,
+    "date": "2026-04-09T15:17:04.301802+00:00",
+    "location": "",
+    "company": "Both Are",
+    "role": "SDE2",
+    "yoe": null,
+    "base": 23.0,
+    "total": 2.8
+  },
+  {
+    "id": 7840961,
+    "date": "2026-04-09T10:29:50.798055+00:00",
+    "location": "Hyderabad",
+    "company": "SMTS",
+    "role": "- Smts In Well Known Giant Product Company",
+    "yoe": 9.0,
+    "base": 3.0,
+    "total": 6.0
+  },
+  {
+    "id": 7780033,
+    "date": "2026-04-04T17:24:25.266583+00:00",
+    "location": "",
+    "company": "One Of The Major Cloud Provider",
+    "role": "N/A",
+    "yoe": 5.0,
+    "base": 75.0,
+    "total": 1.4
+  },
+  {
+    "id": 7772042,
+    "date": "2026-04-04T06:09:24.095349+00:00",
+    "location": "Bengaluru",
+    "company": "- Currently Working As An",
+    "role": "Senior Software Engineer",
+    "yoe": null,
+    "base": 55.0,
+    "total": 55.0
+  },
+  {
+    "id": 7772007,
+    "date": "2026-04-04T06:06:40.968586+00:00",
+    "location": "Gurugram",
+    "company": "- Currently Working As An",
+    "role": "Swe3",
+    "yoe": null,
+    "base": 49.0,
+    "total": 49.0
+  },
+  {
+    "id": 7770540,
+    "date": "2026-04-03T21:24:11.353793+00:00",
+    "location": "Hyderabad",
+    "company": "Microsoft",
+    "role": "L62",
+    "yoe": null,
+    "base": 42.0,
+    "total": 42.0
+  },
+  {
+    "id": 7766903,
+    "date": "2026-04-03T14:30:03.666317+00:00",
+    "location": "Bangalore, India",
+    "company": "Salesforce",
+    "role": "Bangalore",
+    "yoe": 7.5,
+    "base": 53.0,
+    "total": 53.0
+  },
+  {
+    "id": 7760060,
+    "date": "2026-04-03T07:21:16.683956+00:00",
+    "location": "",
+    "company": "Amazon",
+    "role": "SDE 2",
+    "yoe": null,
+    "base": 43.0,
+    "total": 43.0
+  },
+  {
+    "id": 7754949,
+    "date": "2026-04-02T16:34:10.374018+00:00",
+    "location": "",
+    "company": "Amazon",
+    "role": "L5",
+    "yoe": null,
+    "base": 5.0,
+    "total": 40.0
+  },
+  {
+    "id": 7748592,
+    "date": "2026-04-02T08:45:08.499250+00:00",
+    "location": "Gurugram, India",
+    "company": "Sprinklr",
+    "role": "Sde-I → Sde-Ii → Senior Sde → Lead Sde",
+    "yoe": 4.0,
+    "base": 4.0,
+    "total": 3.0
+  },
+  {
+    "id": 7744514,
+    "date": "2026-04-01T18:17:36.934290+00:00",
+    "location": "Hyderabad",
+    "company": "Salesforce",
+    "role": "Hyderabad",
+    "yoe": 2.7,
+    "base": 32.0,
+    "total": 32.0
+  },
+  {
+    "id": 7743334,
+    "date": "2026-04-01T15:41:39.339548+00:00",
+    "location": "Hyderabad",
+    "company": "Salesforce",
+    "role": "MTS",
+    "yoe": null,
+    "base": 30.0,
+    "total": 30.0
+  },
+  {
+    "id": 7727298,
+    "date": "2026-03-31T09:45:05.107051+00:00",
+    "location": "",
+    "company": "Google",
+    "role": "L3",
+    "yoe": null,
+    "base": 3.0,
+    "total": 2.0
+  },
+  {
+    "id": 7698150,
+    "date": "2026-03-26T13:54:18.440266+00:00",
+    "location": "",
+    "company": "Microsoft",
+    "role": "L62",
+    "yoe": null,
+    "base": 62.0,
+    "total": 5.0
+  },
+  {
+    "id": 7693516,
+    "date": "2026-03-25T19:13:17.441820+00:00",
+    "location": "",
+    "company": "Kotak Mahindra Bank",
+    "role": "SDE 1",
+    "yoe": 1.9,
+    "base": 26.0,
+    "total": 26.0
+  },
+  {
+    "id": 7692915,
+    "date": "2026-03-25T16:13:05.054598+00:00",
+    "location": "",
+    "company": "Capgemini",
+    "role": "N/A",
+    "yoe": 2.4,
+    "base": 3.0,
+    "total": 18.5
+  },
+  {
+    "id": 7692689,
+    "date": "2026-03-25T14:57:46.673868+00:00",
+    "location": "",
+    "company": "Microsoft Compensation SDE II -",
+    "role": "L61",
+    "yoe": null,
+    "base": 29.0,
+    "total": 24.0
+  },
+  {
+    "id": 7692439,
+    "date": "2026-03-25T13:46:17.909946+00:00",
+    "location": "Hyderabad",
+    "company": "Linkedin SWE Vs Amazon",
+    "role": "SDE2",
+    "yoe": 4.7,
+    "base": 2.0,
+    "total": 40.0
+  },
+  {
+    "id": 7692389,
+    "date": "2026-03-25T13:34:06.710406+00:00",
+    "location": "",
+    "company": "Famous PBC",
+    "role": "SSE",
+    "yoe": 9.0,
+    "base": 53.0,
+    "total": 53.0
+  },
+  {
+    "id": 7686688,
+    "date": "2026-03-24T06:33:30.890238+00:00",
+    "location": "",
+    "company": "Microsoft",
+    "role": "L62",
+    "yoe": null,
+    "base": 63.0,
+    "total": 63.0
+  },
+  {
+    "id": 7685204,
+    "date": "2026-03-23T17:15:37.313978+00:00",
+    "location": "",
+    "company": "Google",
+    "role": "L3",
+    "yoe": null,
+    "base": 3.0,
+    "total": 2.7
+  },
+  {
+    "id": 7684775,
+    "date": "2026-03-23T15:33:13.529053+00:00",
+    "location": "Bangkok",
+    "company": "Agoda",
+    "role": "SSE",
+    "yoe": 4.8,
+    "base": 4.8,
+    "total": 30.0
+  },
+  {
+    "id": 7684327,
+    "date": "2026-03-23T13:46:01.697831+00:00",
+    "location": "Chennai",
+    "company": "Freshworks Senior Backend Role",
+    "role": "N/A",
+    "yoe": 3.5,
+    "base": 17.5,
+    "total": 17.5
+  },
+  {
+    "id": 7683411,
+    "date": "2026-03-23T10:29:56.856395+00:00",
+    "location": "Bengaluru",
+    "company": "Visa",
+    "role": "SSE",
+    "yoe": 2.8,
+    "base": 33.0,
+    "total": 33.0
+  },
+  {
+    "id": 7678645,
+    "date": "2026-03-21T18:12:42.433757+00:00",
+    "location": "Bengaluru",
+    "company": "Payu",
+    "role": "N/A",
+    "yoe": 2.2,
+    "base": 3.0,
+    "total": 16.5
+  },
+  {
+    "id": 7677150,
+    "date": "2026-03-21T08:33:58.139889+00:00",
+    "location": "",
+    "company": "Tesco",
+    "role": "SDE3",
+    "yoe": 8.0,
+    "base": 67.0,
+    "total": 80.0
+  },
+  {
+    "id": 7676794,
+    "date": "2026-03-21T06:14:08.605752+00:00",
+    "location": "Bengaluru",
+    "company": "Salesforce",
+    "role": "Offer",
+    "yoe": 3.5,
+    "base": 30.0,
+    "total": 30.0
+  },
+  {
+    "id": 7675318,
+    "date": "2026-03-20T15:20:51.356721+00:00",
+    "location": "",
+    "company": "Offer I Recenlty Got From Microsoft For",
+    "role": "SDE 1",
+    "yoe": null,
+    "base": 1.0,
+    "total": 6.0
+  },
+  {
+    "id": 7670203,
+    "date": "2026-03-19T19:03:22.022915+00:00",
+    "location": "Bengaluru",
+    "company": "Amazon",
+    "role": "N/A",
+    "yoe": 3.8,
+    "base": 44.0,
+    "total": 18.0
+  },
+  {
+    "id": 7666780,
+    "date": "2026-03-19T12:41:36.684334+00:00",
+    "location": "Bengaluru",
+    "company": "Google",
+    "role": "L5",
+    "yoe": 6.5,
+    "base": 63.0,
+    "total": 1.02
+  },
+  {
+    "id": 7664555,
+    "date": "2026-03-19T09:15:29.321555+00:00",
+    "location": "",
+    "company": "I Got A Verbal Offer For",
+    "role": "L60",
+    "yoe": null,
+    "base": 60.0,
+    "total": 46.0
+  },
+  {
+    "id": 7664036,
+    "date": "2026-03-19T07:35:59.612239+00:00",
+    "location": "",
+    "company": "Qualcomm (associate Engineer)",
+    "role": "L5",
+    "yoe": 1.8,
+    "base": 1.0,
+    "total": 1.5
+  },
+  {
+    "id": 7655464,
+    "date": "2026-03-18T03:26:49.255247+00:00",
+    "location": "",
+    "company": "T Get",
+    "role": "L62",
+    "yoe": null,
+    "base": 4.0,
+    "total": 4.0
+  },
+  {
+    "id": 7654507,
+    "date": "2026-03-17T15:19:18.020916+00:00",
+    "location": "",
+    "company": "Microsoft",
+    "role": "L63",
+    "yoe": 8.0,
+    "base": 54.0,
+    "total": 54.0
+  },
+  {
+    "id": 7652784,
+    "date": "2026-03-16T19:01:41.641055+00:00",
+    "location": "",
+    "company": "PBC (edtech)",
+    "role": "Engineer",
+    "yoe": 1.0,
+    "base": 23.0,
+    "total": 40.4
+  },
+  {
+    "id": 7652163,
+    "date": "2026-03-16T14:09:22.184472+00:00",
+    "location": "",
+    "company": "SDE2",
+    "role": "Bglr",
+    "yoe": 2.9,
+    "base": 30.0,
+    "total": 30.0
+  },
+  {
+    "id": 7651615,
+    "date": "2026-03-16T09:00:22.294841+00:00",
+    "location": "Bengaluru",
+    "company": "Microsoft",
+    "role": "L63",
+    "yoe": 7.6,
+    "base": 50.0,
+    "total": 50.0
+  },
+  {
+    "id": 7647652,
+    "date": "2026-03-14T13:41:26.190354+00:00",
+    "location": "",
+    "company": "Level -",
+    "role": "L61",
+    "yoe": 3.7,
+    "base": 2.0,
+    "total": 44.0
+  },
+  {
+    "id": 7646255,
+    "date": "2026-03-13T19:18:49.398694+00:00",
+    "location": "",
+    "company": "Salesforce",
+    "role": "Mts (Sde-2)",
+    "yoe": 3.7,
+    "base": 29.0,
+    "total": 43.5
+  },
+  {
+    "id": 7645754,
+    "date": "2026-03-13T14:41:52.337783+00:00",
+    "location": "",
+    "company": "Microsoft Vs Amazon",
+    "role": "SDE 2",
+    "yoe": 3.8,
+    "base": 2.0,
+    "total": 3.8
+  },
+  {
+    "id": 7645675,
+    "date": "2026-03-13T14:02:44.507007+00:00",
+    "location": "Bangkok",
+    "company": "Gartner",
+    "role": "Sr. Sde",
+    "yoe": 6.0,
+    "base": 180.0,
+    "total": 2.0
+  },
+  {
+    "id": 7645233,
+    "date": "2026-03-13T09:34:23.737576+00:00",
+    "location": "",
+    "company": "Big 4 – Joined Recently",
+    "role": "Data Engineer",
+    "yoe": 4.2,
+    "base": 4.0,
+    "total": 4.0
+  },
+  {
+    "id": 7644825,
+    "date": "2026-03-13T05:30:55.865438+00:00",
+    "location": "",
+    "company": "Amazon",
+    "role": "Sde Ii (L5)",
+    "yoe": 4.5,
+    "base": 4.5,
+    "total": 64.0
+  },
+  {
+    "id": 7644113,
+    "date": "2026-03-12T17:55:48.108439+00:00",
+    "location": "",
+    "company": "Microsoft",
+    "role": "L61",
+    "yoe": 3.0,
+    "base": 61.0,
+    "total": 65.32
+  },
+  {
+    "id": 7644078,
+    "date": "2026-03-12T17:40:57.298828+00:00",
+    "location": "Work From Anywhere(India)",
+    "company": "Amazon",
+    "role": "SDE 1",
+    "yoe": 2.0,
+    "base": 24.0,
+    "total": 26.41
+  },
+  {
+    "id": 7643995,
+    "date": "2026-03-12T17:02:44.934132+00:00",
+    "location": "",
+    "company": "Service Based MNC",
+    "role": "Senior Software Engineer",
+    "yoe": 7.5,
+    "base": 42.0,
+    "total": 30.0
+  },
+  {
+    "id": 7643854,
+    "date": "2026-03-12T16:10:14.980903+00:00",
+    "location": "Pune",
+    "company": "IT Services MNC",
+    "role": "Frontend Lead",
+    "yoe": null,
+    "base": 35.0,
+    "total": 35.0
+  },
+  {
+    "id": 7643062,
+    "date": "2026-03-12T08:30:37.101111+00:00",
+    "location": "Bengaluru",
+    "company": "Role -",
+    "role": "Sde 2(Backend)",
+    "yoe": 4.6,
+    "base": 4.6,
+    "total": 2.0
+  },
+  {
+    "id": 7643062,
+    "date": "2026-03-12T08:30:37.101111+00:00",
+    "location": "Bengaluru",
+    "company": "SAP Labs India",
+    "role": "Developer T2 (Sap Commerce Cloud Team. Java, Cloud)",
+    "yoe": null,
+    "base": 25.0,
+    "total": 25.0
+  },
+  {
+    "id": 7643062,
+    "date": "2026-03-12T08:30:37.101111+00:00",
+    "location": "Bengaluru",
+    "company": "Morgan Stanley",
+    "role": "Associate (Java Backend, Tax Team)",
+    "yoe": null,
+    "base": 25.0,
+    "total": 25.0
+  },
+  {
+    "id": 7641489,
+    "date": "2026-03-11T14:45:15.113067+00:00",
+    "location": "",
+    "company": "Amazon",
+    "role": "L5",
+    "yoe": 3.0,
+    "base": 31.0,
+    "total": 31.0
+  },
+  {
+    "id": 7635649,
+    "date": "2026-03-08T19:44:33.274052+00:00",
+    "location": "Bengaluru",
+    "company": "Cleartax",
+    "role": "N/A",
+    "yoe": 3.6,
+    "base": 2.0,
+    "total": 2.0
+  },
+  {
+    "id": 7633075,
+    "date": "2026-03-07T18:41:29.733007+00:00",
+    "location": "",
+    "company": "Top PBC",
+    "role": "N/A",
+    "yoe": 3.5,
+    "base": 3.5,
+    "total": 19.0
+  },
+  {
+    "id": 7630025,
+    "date": "2026-03-06T13:27:27.107934+00:00",
+    "location": "",
+    "company": "Amazon",
+    "role": "SDE 1",
+    "yoe": null,
+    "base": 19.0,
+    "total": 19.0
+  },
+  {
+    "id": 7629337,
+    "date": "2026-03-06T08:19:10.735928+00:00",
+    "location": "Chennai",
+    "company": "Amazon",
+    "role": "Sdet Ii (L5)",
+    "yoe": null,
+    "base": 5.0,
+    "total": 7.0
+  },
+  {
+    "id": 7627919,
+    "date": "2026-03-05T18:47:04.069869+00:00",
+    "location": "Hyderabad",
+    "company": "Service Based MNC",
+    "role": "MTS",
+    "yoe": 3.0,
+    "base": 32.0,
+    "total": 46.0
+  },
+  {
+    "id": 7627694,
+    "date": "2026-03-05T16:54:40.059501+00:00",
+    "location": "",
+    "company": "TCS",
+    "role": "N/A",
+    "yoe": null,
+    "base": 2.5,
+    "total": 6.0
+  },
+  {
+    "id": 7626962,
+    "date": "2026-03-05T10:33:10.859884+00:00",
+    "location": "",
+    "company": "1Y 6M",
+    "role": "N/A",
+    "yoe": 3.0,
+    "base": 15.5,
+    "total": 15.5
+  },
+  {
+    "id": 7625363,
+    "date": "2026-03-04T17:34:22.890011+00:00",
+    "location": "",
+    "company": "EY",
+    "role": "Senior Consultant",
+    "yoe": 4.0,
+    "base": 26.0,
+    "total": 26.0
+  },
+  {
+    "id": 7622110,
+    "date": "2026-03-03T10:15:41.561513+00:00",
+    "location": "Bengaluru",
+    "company": "One Of The Top Product Based Company",
+    "role": "N/A",
+    "yoe": 4.0,
+    "base": 23.0,
+    "total": 23.0
+  },
+  {
+    "id": 7620403,
+    "date": "2026-03-02T16:27:38.544166+00:00",
+    "location": "Hyderabad",
+    "company": "Goldman Sachs",
+    "role": "N/A",
+    "yoe": 2.8,
+    "base": 23.0,
+    "total": 29.85
+  },
+  {
+    "id": 7620230,
+    "date": "2026-03-02T15:02:50.381835+00:00",
+    "location": "Bengaluru",
+    "company": "Setu",
+    "role": "N/A",
+    "yoe": 3.0,
+    "base": 20.0,
+    "total": 21.0
+  },
+  {
+    "id": 7620196,
+    "date": "2026-03-02T14:48:24.982415+00:00",
+    "location": "",
+    "company": "This Is Their Maximum Budget For",
+    "role": "SDE2",
+    "yoe": null,
+    "base": 5.5,
+    "total": 34.0
+  },
+  {
+    "id": 7619181,
+    "date": "2026-03-02T06:22:57.440229+00:00",
+    "location": "Chennai",
+    "company": "Top Product Company At Chennai (saas Based)",
+    "role": "Senior Java Backend Engineer",
+    "yoe": 3.0,
+    "base": 3.0,
+    "total": 5.0
+  },
+  {
+    "id": 7618891,
+    "date": "2026-03-02T03:48:41.394517+00:00",
+    "location": "Bengaluru",
+    "company": "Uber",
+    "role": "L4",
+    "yoe": 3.7,
+    "base": 43.5,
+    "total": 1.0
+  },
+  {
+    "id": 7616697,
+    "date": "2026-03-01T06:13:44.743308+00:00",
+    "location": "Bengaluru",
+    "company": "Oracle",
+    "role": "MTS",
+    "yoe": null,
+    "base": 32.0,
+    "total": 32.0
+  },
+  {
+    "id": 7614792,
+    "date": "2026-02-28T10:30:44.638054+00:00",
+    "location": "",
+    "company": "Super.money",
+    "role": "Site Reliability Engineer 1 (Platform Team)",
+    "yoe": 1.5,
+    "base": 22.0,
+    "total": 22.0
+  },
+  {
+    "id": 7614785,
+    "date": "2026-02-28T10:25:02.039917+00:00",
+    "location": "",
+    "company": "I Interviewed For The",
+    "role": "SDE 1",
+    "yoe": null,
+    "base": 15.0,
+    "total": 4.0
+  },
+  {
+    "id": 7614226,
+    "date": "2026-02-28T06:14:43.667580+00:00",
+    "location": "Hyderabad (Open To Bangalore)",
+    "company": "Ntly Completed The Interview Process For",
+    "role": "SDE 2",
+    "yoe": null,
+    "base": 2.0,
+    "total": 2.0
+  },
+  {
+    "id": 7613124,
+    "date": "2026-02-27T14:10:51.506297+00:00",
+    "location": "Gurugram",
+    "company": "ZS Associates",
+    "role": "N/A",
+    "yoe": 0.0,
+    "base": 16.0,
+    "total": 16.0
+  },
+  {
+    "id": 7612459,
+    "date": "2026-02-27T06:39:27.670978+00:00",
+    "location": "Remote",
+    "company": "Service Based MNC",
+    "role": "SSE",
+    "yoe": 7.5,
+    "base": 30.0,
+    "total": 7.5
+  },
+  {
+    "id": 7611869,
+    "date": "2026-02-26T21:18:00.552290+00:00",
+    "location": "",
+    "company": "Microsoft",
+    "role": "L61",
+    "yoe": 3.0,
+    "base": 31.0,
+    "total": 58.0
+  },
+  {
+    "id": 7610008,
+    "date": "2026-02-26T06:28:58.325127+00:00",
+    "location": "Noida",
+    "company": "Offer",
+    "role": "Delhi Ncr",
+    "yoe": 2.0,
+    "base": 18.0,
+    "total": 18.0
+  },
+  {
+    "id": 7609297,
+    "date": "2026-02-25T21:47:22.332569+00:00",
+    "location": "",
+    "company": "Microsoft",
+    "role": "L60",
+    "yoe": null,
+    "base": 19.0,
+    "total": 19.0
+  },
+  {
+    "id": 7607545,
+    "date": "2026-02-25T07:31:01.031606+00:00",
+    "location": "",
+    "company": "SRE 2",
+    "role": "India",
+    "yoe": null,
+    "base": 26.0,
+    "total": 26.0
+  },
+  {
+    "id": 7606481,
+    "date": "2026-02-24T20:07:29.153748+00:00",
+    "location": "",
+    "company": "Microsoft",
+    "role": "L61",
+    "yoe": 2.8,
+    "base": 29.0,
+    "total": 29.0
+  },
+  {
+    "id": 7606141,
+    "date": "2026-02-24T17:26:29.248321+00:00",
+    "location": "Remote",
+    "company": "Stealth Startup",
+    "role": "Full Stack Ai Engineer (Independent Contractor)",
+    "yoe": 1.5,
+    "base": 60.0,
+    "total": 80.0
+  },
+  {
+    "id": 7605632,
+    "date": "2026-02-24T14:18:21.014102+00:00",
+    "location": "Bangalore (5 Days Wfo)",
+    "company": "Acko",
+    "role": "SDE 2",
+    "yoe": 3.0,
+    "base": 35.0,
+    "total": 35.0
+  },
+  {
+    "id": 7605427,
+    "date": "2026-02-24T12:49:51.857941+00:00",
+    "location": "Noida",
+    "company": "Google",
+    "role": "L3",
+    "yoe": 3.0,
+    "base": 24.0,
+    "total": 24.0
+  }
+]

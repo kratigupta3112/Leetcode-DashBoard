@@ -826,7 +826,7 @@
         /* ── Load ────────────────────────────────────────────────── */
         async function loadData() {
             try {
-                const response = await fetch('../data/dashboard_data.json');
+                const response = await fetch('data/dashboard_data.json');
                 allData     = await response.json();
                 displayData = [...allData];
                 totalPages  = Math.ceil(displayData.length / itemsPerPage);
