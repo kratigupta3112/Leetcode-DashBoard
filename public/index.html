@@ -1,0 +1,1393 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Software Engineer Salaries India — LeetCode Compensation Dashboard</title>
+    <meta name="description" content="Software engineer salaries in India from LeetCode compensation posts. Filter by company, role, experience, and location.">
+    <meta name="keywords" content="software engineer salaries india, SDE salary india, software developer compensation, leetcode compensation, tech salaries india, SDE 1 salary, SDE 2 salary, FAANG salary india, fresher salary india, IT salary dashboard">
+    <!-- Open Graph -->
+    <meta property="og:title" content="Software Engineer Salaries India — LeetCode Compensation Dashboard">
+    <meta property="og:description" content="Software engineer salaries in India from LeetCode compensation posts.">
+    <meta property="og:type" content="website">
+    <meta property="og:site_name" content="LeetCode Compensation Dashboard">
+
+    <!-- Twitter Card -->
+    <meta name="twitter:card" content="summary">
+    <meta name="twitter:title" content="Software Engineer Salaries India — LeetCode Compensation Dashboard">
+    <meta name="twitter:description" content="Software engineer salaries in India from LeetCode compensation posts.">
+
+    <!-- JSON-LD Structured Data -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "WebApplication",
+        "name": "LeetCode Compensation Dashboard",
+        "description": "Software engineer salaries in India sourced from LeetCode compensation posts. Filter by company, role, experience, and location.",
+        "applicationCategory": "UtilityApplication",
+        "operatingSystem": "Web",
+        "offers": {
+            "@type": "Offer",
+            "price": "0",
+            "priceCurrency": "INR"
+        },
+        "license": "https://opensource.org/licenses/MIT"
+    }
+    </script>
+
+    <link rel="icon" type="image/x-icon" href="assets/favicon.ico">
+    <link rel="icon" type="image/png" sizes="48x48" href="assets/favicon.png">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Rajdhani:wght@600&display=swap" rel="stylesheet">
+    <script>
+        (function() {
+            var t = localStorage.getItem('leetcomp-theme') || 'light';
+            document.documentElement.setAttribute('data-theme', t);
+        })();
+    </script>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        /* ── Theme Variables ────────────────────────────────────── */
+        :root, [data-theme="light"] {
+            /* LeetCode-ish light */
+            --bg: #ffffff;
+            --bg-secondary: #f7f8fa;
+            --bg-hover: #eef0f3;
+            --text-primary: #262626;
+            --text-secondary: #3a3a3a;
+            --text-muted: #6b6f76;
+            --text-dimmed: #8b9097;
+            --text-faint: #9aa0a6;
+            --text-ghost: #b7bcc3;
+            --border: #e5e6e8;
+            --border-light: #eceef1;
+            --border-lighter: #f2f3f5;
+            --accent: #ffa116; /* LeetCode orange */
+            --chart-bg: #ffffff;
+            --chart-grid: #eef0f3;
+            --chart-data-label: #6b6f76;
+            --q-op: #ffa116;
+            --q-field: #0a84ff;
+            --q-colon: #9aa0a6;
+            --q-str: #262626;
+            --q-num: #6f42c1;
+            --q-unknown: #d73a49;
+        }
+
+        [data-theme="dark"] {
+            /* LeetCode-ish dark */
+            --bg: #1a1a1a;
+            --bg-secondary: #232323;
+            --bg-hover: #2a2a2a;
+            --text-primary: #e7e7e7;
+            --text-secondary: #d0d0d0;
+            --text-muted: #a6abb3;
+            --text-dimmed: #8b9097;
+            --text-faint: #8b9097;
+            --text-ghost: #5c6168;
+            --border: #2f2f2f;
+            --border-light: #3a3a3a;
+            --border-lighter: #2a2a2a;
+            --accent: #ffa116;
+            --chart-bg: #1a1a1a;
+            --chart-grid: #2f2f2f;
+            --chart-data-label: #a6abb3;
+            --q-op: #ffa116;
+            --q-field: #4ea1ff;
+            --q-colon: #5c6168;
+            --q-str: #e7e7e7;
+            --q-num: #b392f0;
+            --q-unknown: #ff6b6b;
+        }
+
+        body {
+            font-family: ui-sans-serif, system-ui, -apple-system, "Segoe UI", Roboto, Helvetica, Arial, "Apple Color Emoji", "Segoe UI Emoji";
+            background: var(--bg);
+            color: var(--text-primary);
+            min-height: 100vh;
+            position: relative;
+        }
+
+        /* Side rail lines */
+        body::before,
+        body::after {
+            content: '';
+            position: fixed;
+            top: 0;
+            bottom: 0;
+            width: 1px;
+            background: var(--border);
+            z-index: 1000;
+        }
+        body::before { left: calc(50% - 632.5px); }
+        body::after  { right: calc(50% - 632.5px); }
+
+        /* ── Header ──────────────────────────────────────────────── */
+        header {
+            max-width: 1265px;
+            margin: 0 auto;
+            padding: 12px 40px;
+            border-bottom: 1px solid var(--border-light);
+            margin-bottom: 32px;
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            gap: 20px;
+        }
+
+        .header-left {
+            display: flex;
+            align-items: center;
+        }
+
+        .header-right {
+            display: flex;
+            align-items: center;
+            gap: 32px;
+        }
+
+        h1 {
+            margin: 0;
+            padding: 0;
+            display: flex;
+            align-items: center;
+            line-height: 1;
+        }
+
+        h1 pre {
+            margin: 0;
+            padding: 0;
+            font-family: "Berkeley Mono", "IBM Plex Mono", ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace;
+            font-size: 10px;
+            font-weight: 400;
+            line-height: 1.1;
+            letter-spacing: 0;
+            color: var(--text-primary);
+        }
+
+        .stats {
+            font-size: 12px;
+            color: var(--text-dimmed);
+            text-transform: uppercase;
+            letter-spacing: 0.5px;
+            line-height: 1.6;
+        }
+        .stats-link {
+            color: var(--text-dimmed);
+            text-decoration: none;
+            border-bottom: 1px dotted var(--text-ghost);
+            padding-bottom: 1px;
+            transition: color 0.15s, border-color 0.15s;
+        }
+        .stats-link:hover { color: var(--text-primary); border-color: var(--text-primary); }
+
+        .github-link {
+            color: var(--text-muted);
+            text-decoration: none;
+            font-size: 12px;
+            text-transform: uppercase;
+            letter-spacing: 0.5px;
+            border-bottom: 1px dotted var(--text-ghost);
+            padding-bottom: 1px;
+            transition: color 0.15s, border-color 0.15s;
+        }
+        .github-link:hover { color: var(--text-primary); border-color: var(--text-primary); }
+
+        .github-stars {
+            font-size: 11px;
+            color: var(--text-ghost);
+            margin-top: 2px;
+            letter-spacing: 0.5px;
+        }
+
+        /* ── Theme Toggle ───────────────────────────────────────── */
+        .theme-toggle {
+            background: none;
+            border: none;
+            cursor: pointer;
+            font-size: 18px;
+            line-height: 1;
+            padding: 4px;
+            color: var(--text-muted);
+            transition: color 0.15s;
+            display: flex;
+            align-items: center;
+        }
+        .theme-toggle:hover { color: var(--text-primary); }
+        .theme-toggle .icon-sun,
+        .theme-toggle .icon-moon { display: none; }
+        [data-theme="dark"] .theme-toggle .icon-sun { display: inline; }
+        [data-theme="light"] .theme-toggle .icon-moon { display: inline; }
+
+        /* ── Container ───────────────────────────────────────────── */
+        .container {
+            max-width: 1265px;
+            margin: 0 auto;
+            padding: 0 40px 60px 40px;
+        }
+
+        /* ── Charts ──────────────────────────────────────────────── */
+        .charts-section {
+            margin-bottom: 32px;
+        }
+
+        .section-label {
+            font-size: 10px;
+            font-weight: 600;
+            text-transform: uppercase;
+            letter-spacing: 1.5px;
+            color: var(--text-faint);
+            margin-bottom: 20px;
+        }
+
+        .charts-grid {
+            display: flex;
+            gap: 15px;
+            margin-bottom: 15px;
+        }
+
+        .chart-container {
+            background: var(--bg);
+            min-height: 300px;
+        }
+        .chart-container.wide   { flex: 0 0 65%; }
+        .chart-container.narrow { flex: 0 0 calc(35% - 15px); }
+
+        /* ── Query Bar ───────────────────────────────────────────── */
+        .query-bar-section {
+            margin-bottom: 8px;
+        }
+
+        .query-bar-wrap {
+            background: var(--bg-secondary);
+            border: none;
+            border-bottom: 2px solid var(--border);
+            display: flex;
+            align-items: center;
+            gap: 10px;
+            padding: 0 4px;
+            height: 52px;
+            transition: border-color 0.2s;
+        }
+        .query-bar-wrap:focus-within {
+            border-bottom-color: var(--text-primary);
+        }
+
+        .query-icon {
+            color: var(--text-ghost);
+            font-size: 18px;
+            flex-shrink: 0;
+            user-select: none;
+        }
+
+        .query-editor {
+            flex: 1;
+            position: relative;
+            height: 100%;
+            display: flex;
+            align-items: center;
+            overflow: hidden;
+        }
+
+        .query-hl {
+            position: absolute;
+            inset: 0;
+            display: flex;
+            align-items: center;
+            pointer-events: none;
+            overflow: hidden;
+        }
+        .query-hl-inner {
+            white-space: pre;
+            font-size: 15px;
+            font-family: "Berkeley Mono", "IBM Plex Mono", ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+            display: inline-block;
+        }
+
+        .query-input {
+            position: relative;
+            z-index: 1;
+            width: 100%;
+            height: 100%;
+            background: transparent;
+            border: none;
+            outline: none;
+            color: transparent;
+            caret-color: var(--text-primary);
+            font-size: 15px;
+            font-family: "Berkeley Mono", "IBM Plex Mono", ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+        }
+        .query-input::placeholder { color: var(--text-ghost); }
+
+        .query-right {
+            display: flex;
+            align-items: center;
+            gap: 14px;
+            flex-shrink: 0;
+        }
+
+        .query-meta {
+            font-size: 11px;
+            color: var(--text-dimmed);
+            text-transform: uppercase;
+            letter-spacing: 0.5px;
+            white-space: nowrap;
+        }
+
+        .query-clear-btn {
+            background: none;
+            border: none;
+            padding: 4px 0;
+            font-family: "Berkeley Mono", "IBM Plex Mono", ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+            font-size: 11px;
+            color: var(--text-ghost);
+            cursor: pointer;
+            text-transform: uppercase;
+            letter-spacing: 0.5px;
+            border-bottom: 1px dotted transparent;
+            transition: color 0.15s, border-color 0.15s;
+        }
+        .query-clear-btn:hover { color: var(--text-primary); border-color: var(--text-primary); }
+
+        /* query token colors */
+        .q-op      { color: var(--q-op); font-weight: 600; }
+        .q-field   { color: var(--q-field); }
+        .q-colon   { color: var(--q-colon); }
+        .q-str     { color: var(--q-str); }
+        .q-num     { color: var(--q-num); }
+        .q-unknown { color: var(--q-unknown); text-decoration: underline; text-decoration-style: dotted; }
+
+        /* hints row */
+        .query-hints {
+            display: flex;
+            align-items: center;
+            gap: 8px;
+            margin-top: 8px;
+            margin-bottom: 24px;
+            flex-wrap: wrap;
+        }
+
+        .query-hint-label {
+            font-size: 10px;
+            color: var(--text-ghost);
+            text-transform: uppercase;
+            letter-spacing: 1px;
+        }
+
+        .q-chip {
+            font-size: 10px;
+            color: var(--text-muted);
+            cursor: pointer;
+            text-transform: uppercase;
+            letter-spacing: 0.5px;
+            border-bottom: 1px dotted var(--text-ghost);
+            padding-bottom: 1px;
+            transition: color 0.1s, border-color 0.1s;
+            user-select: none;
+        }
+        .q-chip:hover { color: var(--q-field); border-color: var(--q-field); }
+
+        .query-hint-sep { color: var(--border-light); font-size: 12px; }
+
+        .query-hint-eg { font-size: 12px; color: var(--text-ghost); }
+        .q-example {
+            font-family: "Berkeley Mono", "IBM Plex Mono", ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+            font-size: 12px;
+            color: var(--text-dimmed);
+            cursor: pointer;
+            border-bottom: 1px dotted var(--border-light);
+            padding-bottom: 1px;
+            transition: color 0.15s, border-color 0.15s;
+        }
+        .q-example:hover { color: var(--text-primary); border-color: var(--text-muted); }
+
+        /* ── Table ───────────────────────────────────────────────── */
+        .table-container {
+            overflow-x: auto;
+            margin-bottom: 24px;
+        }
+
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            font-size: 14px;
+        }
+
+        thead {
+            border-bottom: 1px solid var(--border);
+        }
+
+        th {
+            text-align: left;
+            padding: 10px 16px;
+            font-weight: 600;
+            color: var(--text-faint);
+            text-transform: uppercase;
+            font-size: 10px;
+            letter-spacing: 1px;
+            line-height: 1.6;
+            vertical-align: top;
+        }
+
+        th.sortable {
+            cursor: pointer;
+            user-select: none;
+            transition: color 0.15s;
+        }
+        th.sortable:hover { color: var(--text-muted); }
+        th.sortable.active { color: var(--text-primary); }
+
+        .th-sub.sortable {
+            cursor: pointer;
+            user-select: none;
+            transition: color 0.15s;
+        }
+        .th-sub.sortable:hover { color: var(--text-muted); }
+        .th-sub.sortable.active { color: var(--text-primary); }
+
+        th .th-main { display: block; margin-bottom: 2px; }
+        th .th-sub  {
+            display: block;
+            font-size: 10px;
+            font-weight: 500;
+            opacity: 0.9;
+        }
+
+        .sort-indicator {
+            margin-left: 3px;
+            font-size: 11px;
+            opacity: 0.4;
+        }
+        th.sortable.active .sort-indicator,
+        .th-sub.sortable.active .sort-indicator {
+            opacity: 1;
+        }
+
+        tbody tr {
+            border-bottom: 1px solid var(--border-lighter);
+            transition: background 0.1s;
+        }
+        tbody tr:last-child { border-bottom: none; }
+        tbody tr:hover { background: var(--bg-hover) !important; }
+
+        td {
+            padding: 14px 16px;
+            vertical-align: top;
+        }
+
+        .index-col { color: var(--text-ghost); font-size: 12px; width: 50px; }
+
+        .id-col { width: 90px; }
+        .id-link {
+            color: var(--text-faint);
+            text-decoration: none;
+            font-size: 12px;
+            border-bottom: 1px dotted var(--border-light);
+            padding-bottom: 1px;
+            transition: color 0.15s, border-color 0.15s;
+        }
+        .id-link:hover { color: var(--text-primary); border-color: var(--text-primary); }
+
+        .company-col  { width: 280px; }
+        .company-name {
+            font-weight: 500;
+            margin-bottom: 5px;
+            line-height: 1.4;
+            color: var(--text-primary);
+            font-size: 14px;
+        }
+        .company-meta {
+            font-size: 11px;
+            color: var(--text-faint);
+            text-transform: uppercase;
+            letter-spacing: 0.3px;
+            line-height: 1.4;
+        }
+
+        .role-col  { width: 220px; color: var(--text-secondary); }
+        .yoe-col   { width: 80px; color: var(--text-secondary); }
+
+        .total-col  { width: 140px; }
+        .total-amount {
+            color: var(--text-primary);
+            font-weight: 500;
+            margin-bottom: 5px;
+        }
+        .base-amount {
+            font-size: 11px;
+            color: var(--text-faint);
+            text-transform: uppercase;
+            letter-spacing: 0.3px;
+        }
+
+        /* ── Controls Row ────────────────────────────────────────── */
+        .controls {
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            padding-top: 16px;
+            border-top: 1px solid var(--border-lighter);
+            gap: 20px;
+        }
+
+        .per-page {
+            display: flex;
+            align-items: center;
+            gap: 8px;
+            font-size: 11px;
+            color: var(--text-dimmed);
+            text-transform: uppercase;
+            letter-spacing: 0.5px;
+        }
+
+        .per-page-select-wrap {
+            position: relative;
+            display: inline-flex;
+            align-items: center;
+        }
+        .per-page-select-wrap::after {
+            content: '▾';
+            position: absolute;
+            right: 0;
+            font-size: 9px;
+            color: var(--text-faint);
+            pointer-events: none;
+        }
+
+        .per-page select {
+            -webkit-appearance: none;
+            appearance: none;
+            background: transparent;
+            border: none;
+            border-bottom: 1px solid var(--border);
+            border-radius: 0;
+            color: var(--text-primary);
+            font-family: "Berkeley Mono", "IBM Plex Mono", ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+            font-size: 12px;
+            padding: 2px 14px 2px 2px;
+            cursor: pointer;
+            transition: border-color 0.15s;
+        }
+        .per-page select:focus {
+            outline: none;
+            border-bottom-color: var(--text-primary);
+        }
+
+        /* ── Pagination ──────────────────────────────────────────── */
+        .pagination {
+            display: flex;
+            align-items: center;
+            gap: 16px;
+        }
+
+        .pagination button {
+            background: none;
+            border: none;
+            font-family: "Berkeley Mono", "IBM Plex Mono", ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+            font-size: 11px;
+            color: var(--text-dimmed);
+            text-transform: uppercase;
+            letter-spacing: 0.5px;
+            cursor: pointer;
+            padding: 0 0 1px 0;
+            border-bottom: 1px dotted var(--border-light);
+            transition: color 0.15s, border-color 0.15s;
+        }
+        .pagination button:hover:not(:disabled) {
+            color: var(--text-primary);
+            border-color: var(--text-primary);
+        }
+        .pagination button:disabled {
+            opacity: 0.25;
+            cursor: not-allowed;
+            border-bottom-color: transparent;
+        }
+
+        .pagination .page-info {
+            font-size: 11px;
+            color: var(--text-dimmed);
+            text-transform: uppercase;
+            letter-spacing: 0.5px;
+            white-space: nowrap;
+        }
+
+        /* ── Loading ─────────────────────────────────────────────── */
+        .loading {
+            text-align: center;
+            padding: 60px;
+            color: var(--text-faint);
+            font-size: 12px;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+        }
+
+        /* ── Responsive ──────────────────────────────────────────── */
+        @media (max-width: 1315px) {
+            body::before, body::after { display: none; }
+        }
+
+        @media (max-width: 1024px) {
+            .charts-grid { flex-direction: column; }
+            .chart-container.wide,
+            .chart-container.narrow { flex: 1 1 100% !important; }
+        }
+
+        @media (max-width: 768px) {
+            header {
+                padding: 10px 20px;
+                flex-direction: column;
+                align-items: flex-start;
+                gap: 10px;
+            }
+            .header-right { flex-direction: column; align-items: flex-start; gap: 8px; }
+            .container { padding: 0 20px 30px 20px; }
+            h1 pre { font-size: 7px; }
+
+            .controls { flex-direction: column; align-items: flex-start; }
+            .query-hints { gap: 6px; }
+
+            table { font-size: 13px; }
+            th, td { padding: 10px 10px; }
+            .index-col { width: 36px; }
+            .yoe-col   { width: 60px; }
+            .total-col { width: 100px; }
+
+            .pagination { flex-wrap: wrap; gap: 10px; }
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <div class="header-left">
+            <h1>
+                <span style="position:absolute;width:1px;height:1px;overflow:hidden;clip:rect(0,0,0,0);white-space:nowrap;">Software Engineer Salaries in India</span>
+                <pre aria-hidden="true">
+░█░░░█▀▀░█▀▀░▀█▀░█▀▀░█▀█░█▄█░█▀█
+░█░░░█▀▀░█▀▀░░█░░█░░░█░█░█░█░█▀▀
+░▀▀▀░▀▀▀░▀▀▀░░▀░░▀▀▀░▀▀▀░▀░▀░▀░░</pre>
+            </h1>
+        </div>
+        <div class="header-right">
+            <nav class="nav" style="display:flex;gap:16px;margin-right:8px;">
+                <a href="index.html" style="color:var(--text-primary);text-decoration:none;font-size:12px;text-transform:uppercase;letter-spacing:0.5px;border-bottom:1px dotted var(--text-primary);">Compensation</a>
+                <a href="interviews.html" style="color:var(--text-muted);text-decoration:none;font-size:12px;text-transform:uppercase;letter-spacing:0.5px;border-bottom:1px dotted transparent;">Interview Experiences</a>
+            </nav>
+            <div class="stats">
+                <span id="stats">Loading...</span>
+            </div>
+            <button class="theme-toggle" id="theme-toggle" title="Toggle theme">
+                <span class="icon-sun">☀</span>
+                <span class="icon-moon">☽</span>
+            </button>
+        </div>
+    </header>
+
+    <div class="container">
+
+        <!-- SEO: noscript fallback for crawlers that don't execute JS -->
+        <noscript>
+            <section style="max-width:700px;margin:0 auto 32px;padding:20px 0;">
+                <h2>Software Engineer Salaries in India</h2>
+                <p>LeetCode Compensation is a free, open-source dashboard that aggregates <strong>software engineer salary data in India</strong> from LeetCode's compensation posts. Explore verified compensation packages from companies like Google, Microsoft, Amazon, Flipkart, and hundreds more — filtered by role, years of experience (YOE), base pay, total CTC, and location.</p>
+                <p>Whether you're a fresher looking for <strong>SDE 1 salary ranges</strong>, a mid-level engineer comparing <strong>SDE 2 compensation</strong>, or a senior engineer evaluating offers — this dashboard provides transparent, data-driven salary insights for the Indian tech industry.</p>
+            </section>
+        </noscript>
+
+        <!-- Charts -->
+        <div class="charts-section">
+            <div class="section-label">Overview</div>
+            <div class="charts-grid">
+                <div class="chart-container wide"   id="distribution-chart"></div>
+                <div class="chart-container narrow" id="experience-chart"></div>
+            </div>
+            <div class="charts-grid">
+                <div class="chart-container wide"   id="company-chart"></div>
+                <div class="chart-container narrow" id="top-companies-chart"></div>
+            </div>
+        </div>
+
+        <!-- Query Bar -->
+        <div class="query-bar-section">
+            <div class="query-bar-wrap" id="query-bar-wrap">
+                <span class="query-icon">⌕</span>
+                <div class="query-editor">
+                    <div class="query-hl"><span class="query-hl-inner" id="query-hl-inner"></span></div>
+                    <input
+                        type="text"
+                        id="query-input"
+                        class="query-input"
+                        placeholder="company:Google AND yoe:3-7 AND base:50-100"
+                        autocomplete="off"
+                        spellcheck="false"
+                    >
+                </div>
+                <div class="query-right">
+                    <span class="query-meta" id="query-meta"></span>
+                    <button class="query-clear-btn" id="query-clear">Clear</button>
+                </div>
+            </div>
+        </div>
+
+        <!-- Hints -->
+        <div class="query-hints">
+            <span class="query-hint-label">Fields</span>
+            <span class="q-chip" data-field="company">company</span>
+            <span class="q-chip" data-field="role">role</span>
+            <span class="q-chip" data-field="location">location</span>
+            <span class="q-chip" data-field="yoe">yoe</span>
+            <span class="q-chip" data-field="base">base</span>
+            <span class="q-chip" data-field="ctc">ctc</span>
+            <span class="query-hint-sep">·</span>
+            <span class="query-hint-eg">e.g.</span>
+            <span class="q-example" data-query="company:Google AND yoe:3-7">company:Google AND yoe:3-7</span>
+            <span class="query-hint-sep">·</span>
+            <span class="q-example" data-query="company:Google OR company:Meta">company:Google OR company:Meta</span>
+            <span class="query-hint-sep">·</span>
+            <span class="q-example" data-query="role:SDE AND base:50-100 AND ctc:80+">role:SDE AND base:50-100 AND ctc:80+</span>
+        </div>
+
+        <!-- Table -->
+        <div class="table-container">
+            <table id="data-table">
+                <thead>
+                    <tr>
+                        <th>#</th>
+                        <th>ID</th>
+                        <th>
+                            <span class="th-main">Company</span>
+                            <span class="th-sub">Date · Location</span>
+                        </th>
+                        <th>Role</th>
+                        <th class="sortable" data-sort="yoe">
+                            YOE<span class="sort-indicator">↕</span>
+                        </th>
+                        <th class="sortable" data-sort="total">
+                            <span class="th-main">Total (LPA)<span class="sort-indicator">↕</span></span>
+                            <span class="th-sub sortable" data-sort="base">Base (LPA)<span class="sort-indicator">↕</span></span>
+                        </th>
+                    </tr>
+                </thead>
+                <tbody id="table-body">
+                    <tr><td colspan="6" class="loading">Loading data...</td></tr>
+                </tbody>
+            </table>
+        </div>
+
+        <!-- Controls -->
+        <div class="controls">
+            <div class="per-page">
+                <span>Show</span>
+                <div class="per-page-select-wrap">
+                    <select id="per-page-select">
+                        <option value="10" selected>10</option>
+                        <option value="25">25</option>
+                        <option value="50">50</option>
+                        <option value="100">100</option>
+                    </select>
+                </div>
+                <span>entries</span>
+            </div>
+            <div class="pagination">
+                <button id="first-page">First</button>
+                <button id="prev-page">Prev</button>
+                <span class="page-info">
+                    Page <span id="current-page">1</span> of <span id="total-pages">1</span>
+                </span>
+                <button id="next-page">Next</button>
+                <button id="last-page">Last</button>
+            </div>
+        </div>
+
+    </div><!-- /container -->
+
+    <script src="https://code.highcharts.com/highcharts.js"></script>
+    <script src="https://code.highcharts.com/highcharts-more.js"></script>
+    <script>
+        /* ── State ───────────────────────────────────────────────── */
+        let itemsPerPage = 10;
+        let allData      = [];
+        let displayData  = [];
+        let currentPage  = 1;
+        let totalPages   = 1;
+        let currentSort  = { column: null, direction: 'asc' };
+        let currentQuery = '';
+        let chartInstances = {};
+
+        const FIELDS     = ['company', 'role', 'location', 'yoe', 'base', 'ctc'];
+        const NUM_FIELDS  = ['yoe', 'base', 'ctc'];
+        const FIELD_MAP   = { ctc: 'total', base: 'base', yoe: 'yoe', company: 'company', role: 'role', location: 'location' };
+
+        /* ── Load ────────────────────────────────────────────────── */
+        async function loadData() {
+            try {
+                const response = await fetch('../data/dashboard_data.json');
+                allData     = await response.json();
+                displayData = [...allData];
+                totalPages  = Math.ceil(displayData.length / itemsPerPage);
+
+                updateStats();
+                renderCharts(allData);
+                renderPage(1);
+                updatePaginationControls();
+                setupSortListeners();
+                setupQueryBar();
+            } catch (error) {
+                document.getElementById('table-body').innerHTML =
+                    '<tr><td colspan="6" class="loading">Error loading data. Please run the conversion script first.</td></tr>';
+                console.error('Error loading data:', error);
+            }
+        }
+
+        /* ── Query Bar ───────────────────────────────────────────── */
+        function setupQueryBar() {
+            const input    = document.getElementById('query-input');
+            const hlInner  = document.getElementById('query-hl-inner');
+            const meta     = document.getElementById('query-meta');
+            const clearBtn = document.getElementById('query-clear');
+
+            function syncHighlight() {
+                hlInner.innerHTML = highlightQuery(input.value);
+                hlInner.style.marginLeft = `-${input.scrollLeft}px`;
+            }
+
+            input.addEventListener('input', () => {
+                currentQuery = input.value;
+                syncHighlight();
+                applyFilter();
+            });
+
+            input.addEventListener('scroll', () => {
+                hlInner.style.marginLeft = `-${input.scrollLeft}px`;
+            });
+
+            input.addEventListener('keydown', e => {
+                if (e.key === 'Escape') {
+                    input.value = '';
+                    currentQuery = '';
+                    syncHighlight();
+                    applyFilter();
+                }
+            });
+
+            clearBtn.addEventListener('click', () => {
+                input.value = '';
+                currentQuery = '';
+                syncHighlight();
+                applyFilter();
+                input.focus();
+            });
+
+            // Field chips → insert into query
+            document.querySelectorAll('.q-chip[data-field]').forEach(chip => {
+                chip.addEventListener('click', () => {
+                    const pos  = input.selectionStart;
+                    const val  = input.value;
+                    const gap  = val.length > 0 && !val.endsWith(' ') ? ' ' : '';
+                    const ins  = gap + chip.dataset.field + ':';
+                    input.value = val.slice(0, pos) + ins + val.slice(pos);
+                    const newPos = pos + ins.length;
+                    input.focus();
+                    input.setSelectionRange(newPos, newPos);
+                    currentQuery = input.value;
+                    syncHighlight();
+                    applyFilter();
+                });
+            });
+
+            // Example queries → replace
+            document.querySelectorAll('.q-example[data-query]').forEach(ex => {
+                ex.addEventListener('click', () => {
+                    input.value  = ex.dataset.query;
+                    currentQuery = input.value;
+                    syncHighlight();
+                    applyFilter();
+                    input.focus();
+                });
+            });
+        }
+
+        /* ── Highlight ───────────────────────────────────────────── */
+        function escHtml(s) {
+            return s.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;');
+        }
+
+        function highlightQuery(str) {
+            if (!str) return '';
+            const fp  = FIELDS.join('|');
+            const re  = new RegExp(`\\b(AND|OR)\\b|(${fp}):((?:"[^"]*"|[^\\s]+))|(\\S+)`, 'gi');
+            let result = '', lastIdx = 0, m;
+
+            while ((m = re.exec(str)) !== null) {
+                if (m.index > lastIdx) result += escHtml(str.slice(lastIdx, m.index));
+                if (m[1]) {
+                    result += `<span class="q-op">${escHtml(m[1])}</span>`;
+                } else if (m[2]) {
+                    const cls = NUM_FIELDS.includes(m[2].toLowerCase()) ? 'q-num' : 'q-str';
+                    result += `<span class="q-field">${escHtml(m[2])}</span>`
+                           + `<span class="q-colon">:</span>`
+                           + `<span class="${cls}">${escHtml(m[3])}</span>`;
+                } else {
+                    result += `<span class="q-unknown">${escHtml(m[4])}</span>`;
+                }
+                lastIdx = m.index + m[0].length;
+            }
+            if (lastIdx < str.length) result += escHtml(str.slice(lastIdx));
+            return result;
+        }
+
+        /* ── Query Parser ────────────────────────────────────────── */
+        // Splits by OR (low precedence), then by AND (high precedence)
+        // Returns null if empty, or Array<Array<Condition>>
+        function parseQuery(str) {
+            if (!str || !str.trim()) return null;
+            const orGroups = str.split(/\bOR\b/i)
+                .map(part => {
+                    return part.split(/\bAND\b/i)
+                        .map(s => parseCondition(s.trim()))
+                        .filter(c => c !== null);
+                })
+                .filter(g => g.length > 0);
+            return orGroups.length > 0 ? orGroups : null;
+        }
+
+        function parseCondition(str) {
+            if (!str) return null;
+            const fp = FIELDS.join('|');
+            const m  = str.match(new RegExp(`^(${fp}):((?:"[^"]*"|\\S+))$`, 'i'));
+            if (!m) return null;
+
+            const field = m[1].toLowerCase();
+            let   value = m[2].replace(/^["']|["']$/g, '');
+
+            if (NUM_FIELDS.includes(field)) {
+                const range = value.match(/^(\d+(?:\.\d+)?)-(\d+(?:\.\d+)?)$/);
+                if (range) return { field, type: 'range', min: +range[1], max: +range[2] };
+
+                const gte = value.match(/^(\d+(?:\.\d+)?)\+$/);
+                if (gte)   return { field, type: 'gte', value: +gte[1] };
+
+                const num = value.match(/^(\d+(?:\.\d+)?)$/);
+                if (num)   return { field, type: 'exact_num', value: +num[1] };
+
+                return null;
+            }
+            return { field, type: 'contains', value: value.toLowerCase() };
+        }
+
+        function matchCondition(entry, cond) {
+            const val = entry[FIELD_MAP[cond.field]];
+            if (val === null || val === undefined) return false;
+            if (cond.type === 'range')     return +val >= cond.min && +val <= cond.max;
+            if (cond.type === 'gte')       return +val >= cond.value;
+            if (cond.type === 'exact_num') return +val === cond.value;
+            if (cond.type === 'contains')  return String(val).toLowerCase().includes(cond.value);
+            return false;
+        }
+
+        function evaluateQuery(entry, orGroups) {
+            return orGroups.some(andGroup => andGroup.every(cond => matchCondition(entry, cond)));
+        }
+
+        /* ── Apply Filter ────────────────────────────────────────── */
+        function applyFilter() {
+            const parsed = parseQuery(currentQuery);
+
+            if (!parsed) {
+                displayData = [...allData];
+                document.getElementById('query-meta').textContent = '';
+            } else {
+                displayData = allData.filter(e => evaluateQuery(e, parsed));
+                const n = displayData.length;
+                document.getElementById('query-meta').textContent =
+                    `${n.toLocaleString()} result${n !== 1 ? 's' : ''}`;
+            }
+
+            // Re-apply sort
+            if (currentSort.column) {
+                displayData.sort((a, b) => {
+                    let va = a[currentSort.column], vb = b[currentSort.column];
+                    if (va == null) return 1;
+                    if (vb == null) return -1;
+                    va = Number(va); vb = Number(vb);
+                    return currentSort.direction === 'asc' ? va - vb : vb - va;
+                });
+            }
+
+            renderCharts(displayData);
+            totalPages  = Math.ceil(displayData.length / itemsPerPage) || 1;
+            currentPage = 1;
+            renderPage(1);
+            updatePaginationControls();
+        }
+
+        /* ── Sort ────────────────────────────────────────────────── */
+        function setupSortListeners() {
+            document.querySelectorAll('th.sortable').forEach(th => {
+                th.addEventListener('click', () => sortData(th.getAttribute('data-sort')));
+            });
+            document.querySelectorAll('.th-sub.sortable').forEach(span => {
+                span.addEventListener('click', e => {
+                    e.stopPropagation();
+                    sortData(span.getAttribute('data-sort'));
+                });
+            });
+        }
+
+        function sortData(column) {
+            if (currentSort.column === column) {
+                if (currentSort.direction === 'desc') {
+                    currentSort.direction = 'asc';
+                } else {
+                    currentSort.column    = null;
+                    currentSort.direction = 'asc';
+                    updateSortIndicators();
+                    applyFilter();
+                    return;
+                }
+            } else {
+                currentSort.column    = column;
+                currentSort.direction = 'desc';
+            }
+
+            displayData.sort((a, b) => {
+                let va = a[column], vb = b[column];
+                if (va == null) return 1;
+                if (vb == null) return -1;
+                va = Number(va); vb = Number(vb);
+                return currentSort.direction === 'asc' ? va - vb : vb - va;
+            });
+
+            updateSortIndicators();
+            currentPage = 1;
+            renderPage(1);
+            updatePaginationControls();
+        }
+
+        function updateSortIndicators() {
+            document.querySelectorAll('th.sortable, .th-sub.sortable').forEach(el => {
+                el.classList.remove('active');
+                const ind = el.querySelector('.sort-indicator');
+                if (ind) ind.textContent = '↕';
+            });
+            if (!currentSort.column) return;
+            const el = document.querySelector(`th[data-sort="${currentSort.column}"]`)
+                    || document.querySelector(`.th-sub[data-sort="${currentSort.column}"]`);
+            if (el) {
+                el.classList.add('active');
+                const ind = el.querySelector('.sort-indicator');
+                if (ind) ind.textContent = currentSort.direction === 'asc' ? '↑' : '↓';
+            }
+        }
+
+        /* ── Render Table ────────────────────────────────────────── */
+        function renderPage(page) {
+            currentPage = page;
+            const start   = (page - 1) * itemsPerPage;
+            const pageData = displayData.slice(start, start + itemsPerPage);
+
+            document.getElementById('table-body').innerHTML = pageData.map((entry, idx) => `
+                <tr>
+                    <td class="index-col">${start + idx + 1}</td>
+                    <td class="id-col">
+                        <a href="https://leetcode.com/discuss/post/${entry.id}" target="_blank" rel="noopener noreferrer" class="id-link">${entry.id}</a>
+                    </td>
+                    <td class="company-col">
+                        <div class="company-name">${entry.company}</div>
+                        <div class="company-meta">${formatDate(entry.date)}${entry.location ? ' · ' + entry.location : ''}</div>
+                    </td>
+                    <td class="role-col">${entry.role}</td>
+                    <td class="yoe-col">${formatYOE(entry.yoe)}</td>
+                    <td class="total-col">
+                        <div class="total-amount">${formatSalary(entry.total)}</div>
+                        <div class="base-amount">${formatSalary(entry.base)}</div>
+                    </td>
+                </tr>
+            `).join('');
+
+            document.getElementById('current-page').textContent = currentPage;
+            document.getElementById('total-pages').textContent  = totalPages;
+            updatePaginationControls();
+        }
+
+        function updatePaginationControls() {
+            document.getElementById('first-page').disabled = currentPage === 1;
+            document.getElementById('prev-page').disabled  = currentPage === 1;
+            document.getElementById('next-page').disabled  = currentPage === totalPages;
+            document.getElementById('last-page').disabled  = currentPage === totalPages;
+        }
+
+        /* ── Charts ──────────────────────────────────────────────── */
+        const CHART_FONT = '"Berkeley Mono", "IBM Plex Mono", ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace';
+
+        function cv(name) {
+            return getComputedStyle(document.documentElement).getPropertyValue(name).trim();
+        }
+
+        function chartTitleStyle() {
+            return { fontSize: '10px', fontWeight: '600', letterSpacing: '1.5px', color: cv('--text-muted'), fontFamily: CHART_FONT, textTransform: 'uppercase' };
+        }
+        function chartAxisStyle() {
+            return { fontSize: '10px', fontFamily: CHART_FONT, color: cv('--text-dimmed') };
+        }
+        function chartAxisTitleStyle() {
+            return { fontSize: '10px', fontFamily: CHART_FONT, color: cv('--text-dimmed'), fontWeight: '400', textTransform: 'uppercase', letterSpacing: '0.5px' };
+        }
+
+        function destroyCharts() {
+            Object.values(chartInstances).forEach(c => { if (c) c.destroy(); });
+            chartInstances = {};
+        }
+
+        function renderCharts(data) {
+            destroyCharts();
+            const validData = data.filter(e => e.total != null);
+            chartInstances.distribution = renderDistributionChart(validData);
+            chartInstances.experience   = renderExperienceChart(validData);
+            chartInstances.company      = renderCompanyChart(validData);
+            chartInstances.topCompanies = renderTopCompaniesChart(data);
+        }
+
+        function renderDistributionChart(data) {
+            const bins = [
+                {min:0,   max:9.99,   label:'0-9'},
+                {min:10,  max:19.99,  label:'10-19'},
+                {min:20,  max:29.99,  label:'20-29'},
+                {min:30,  max:39.99,  label:'30-39'},
+                {min:40,  max:49.99,  label:'40-49'},
+                {min:50,  max:59.99,  label:'50-59'},
+                {min:60,  max:69.99,  label:'60-69'},
+                {min:70,  max:79.99,  label:'70-79'},
+                {min:80,  max:89.99,  label:'80-89'},
+                {min:90,  max:99.99,  label:'90-99'},
+                {min:100, max:109.99, label:'100-109'},
+                {min:110, max:119.99, label:'110-119'},
+                {min:120, max:129.99, label:'120-129'},
+                {min:130, max:139.99, label:'130-139'},
+                {min:140, max:149.99, label:'140-149'},
+                {min:150, max:159.99, label:'150-159'},
+                {min:160, max:169.99, label:'160-169'},
+                {min:170, max:179.99, label:'170-179'},
+                {min:180, max:Infinity, label:'180+'}
+            ];
+            const counts = bins.map(b => ({
+                label: b.label,
+                count: data.filter(e => e.total >= b.min && e.total <= b.max).length
+            }));
+
+            return Highcharts.chart('distribution-chart', {
+                chart: { type: 'column', backgroundColor: cv('--chart-bg'), height: 300 },
+                title: { text: 'Total Compensation Distribution', style: chartTitleStyle() },
+                xAxis: {
+                    categories: counts.map(c => c.label),
+                    title: { text: 'Total Compensation (₹ LPA)', style: chartAxisTitleStyle() },
+                    labels: { rotation: 0, style: chartAxisStyle() },
+                    lineColor: cv('--border'), tickColor: cv('--border')
+                },
+                yAxis: {
+                    title: { text: 'Count', style: chartAxisTitleStyle() },
+                    labels: { style: chartAxisStyle() },
+                    gridLineColor: cv('--chart-grid')
+                },
+                series: [{
+                    name: 'Offers',
+                    data: counts.map(c => c.count),
+                    color: cv('--accent'),
+                    dataLabels: { enabled: true, style: { fontSize: '11px', fontWeight: '400', fontFamily: CHART_FONT, color: cv('--chart-data-label') }, textOutline: '0px' }
+                }],
+                legend: { enabled: false },
+                credits: { enabled: false },
+                plotOptions: { column: { borderRadius: 0, borderWidth: 0 } },
+                tooltip: { backgroundColor: cv('--bg-secondary'), style: { fontFamily: CHART_FONT, fontSize: '12px', color: cv('--text-primary') } }
+            });
+        }
+
+        function calculateBoxPlotStats(values) {
+            if (values.length < 2) return null;
+            const s  = [...values].sort((a, b) => a - b);
+            const q1 = s[Math.floor(s.length * 0.25)];
+            const q2 = s[Math.floor(s.length * 0.50)];
+            const q3 = s[Math.floor(s.length * 0.75)];
+            const iqr = q3 - q1;
+            const lo  = s.find(v => v >= q1 - 1.5 * iqr) ?? s[0];
+            const hi  = [...s].reverse().find(v => v <= q3 + 1.5 * iqr) ?? s[s.length - 1];
+            return [lo, q1, q2, q3, hi];
+        }
+
+        function getExperienceLevel(yoe) {
+            if (yoe == null) return null;
+            if (yoe <= 1)  return 'Entry (0-1)';
+            if (yoe <= 6)  return 'Mid (2-6)';
+            if (yoe <= 10) return 'Senior (7-10)';
+            return 'Senior + (11+)';
+        }
+
+        function renderExperienceChart(data) {
+            const levels = ['Entry (0-1)', 'Mid (2-6)', 'Senior (7-10)', 'Senior + (11+)'];
+            const labels = ['Entry<br/>(0-1)', 'Mid<br/>(2-6)', 'Senior<br/>(7-10)', 'Senior +<br/>(11+)'];
+            const bpData = levels.map(lvl => {
+                const vals = data
+                    .filter(e => e.yoe != null && getExperienceLevel(e.yoe) === lvl)
+                    .map(e => e.total);
+                return calculateBoxPlotStats(vals);
+            }).filter(Boolean);
+
+            return Highcharts.chart('experience-chart', {
+                chart: { type: 'boxplot', backgroundColor: cv('--chart-bg'), height: 300 },
+                title: { text: 'Compensation by Experience', style: chartTitleStyle() },
+                xAxis: {
+                    categories: labels,
+                    title: { text: null },
+                    labels: { useHTML: true, style: { ...chartAxisStyle(), textAlign: 'center' } },
+                    lineColor: cv('--border'), tickColor: cv('--border')
+                },
+                yAxis: {
+                    title: { text: 'Total (₹ LPA)', style: chartAxisTitleStyle() },
+                    labels: { style: chartAxisStyle() },
+                    gridLineColor: cv('--chart-grid')
+                },
+                series: [{
+                    name: 'Compensation',
+                    data: bpData,
+                    color: cv('--accent'),
+                    fillColor: 'transparent',
+                    lineWidth: 1,
+                    medianWidth: 2,
+                    stemWidth: 1,
+                    whiskerLength: '50%',
+                    whiskerWidth: 1
+                }],
+                legend: { enabled: false },
+                credits: { enabled: false },
+                tooltip: { backgroundColor: cv('--bg-secondary'), style: { fontFamily: CHART_FONT, fontSize: '12px', color: cv('--text-primary') } }
+            });
+        }
+
+        function renderCompanyChart(data) {
+            const map = {};
+            data.forEach(e => {
+                if (!map[e.company]) map[e.company] = [];
+                map[e.company].push(e.total);
+            });
+
+            const minCount = Math.max(2, Math.floor(data.length / 100));
+            const stats = Object.entries(map)
+                .filter(([, v]) => v.length >= minCount)
+                .map(([company, vals]) => {
+                    const s = [...vals].sort((a, b) => a - b);
+                    return { company, median: s[Math.floor(s.length * 0.5)], vals };
+                })
+                .sort((a, b) => b.median - a.median)
+                .slice(0, 20);
+
+            return Highcharts.chart('company-chart', {
+                chart: { type: 'boxplot', backgroundColor: cv('--chart-bg'), height: 300 },
+                title: { text: 'Compensation by Company (Top 20 by Median)', style: chartTitleStyle() },
+                xAxis: {
+                    categories: stats.map(c => c.company),
+                    title: { text: null },
+                    labels: { rotation: -90, style: chartAxisStyle() },
+                    lineColor: cv('--border'), tickColor: cv('--border')
+                },
+                yAxis: {
+                    title: { text: 'Total (₹ LPA)', style: chartAxisTitleStyle() },
+                    labels: { style: chartAxisStyle() },
+                    gridLineColor: cv('--chart-grid')
+                },
+                series: [{
+                    name: 'Compensation',
+                    data: stats.map(c => calculateBoxPlotStats(c.vals)).filter(Boolean),
+                    color: cv('--accent'),
+                    fillColor: 'transparent',
+                    lineWidth: 1,
+                    medianWidth: 2,
+                    stemWidth: 1,
+                    whiskerLength: '50%',
+                    whiskerWidth: 1
+                }],
+                legend: { enabled: false },
+                credits: { enabled: false },
+                tooltip: { backgroundColor: cv('--bg-secondary'), style: { fontFamily: CHART_FONT, fontSize: '12px', color: cv('--text-primary') } }
+            });
+        }
+
+        function renderTopCompaniesChart(data) {
+            const map = {};
+            data.forEach(e => { map[e.company] = (map[e.company] || 0) + 1; });
+            const top = Object.entries(map).sort((a, b) => b[1] - a[1]).slice(0, 10);
+
+            return Highcharts.chart('top-companies-chart', {
+                chart: { type: 'bar', backgroundColor: cv('--chart-bg'), height: 300 },
+                title: { text: 'Companies with Most Offers', style: chartTitleStyle() },
+                xAxis: {
+                    categories: top.map(e => e[0]),
+                    title: { text: null },
+                    labels: { style: chartAxisStyle() },
+                    lineColor: cv('--border'), tickColor: cv('--border')
+                },
+                yAxis: {
+                    title: { text: '# Offers', style: chartAxisTitleStyle() },
+                    labels: { style: chartAxisStyle() },
+                    gridLineColor: cv('--chart-grid')
+                },
+                series: [{
+                    name: 'Offers',
+                    data: top.map(e => e[1]),
+                    color: cv('--accent'),
+                    dataLabels: { enabled: true, style: { fontSize: '11px', fontWeight: '400', fontFamily: CHART_FONT, color: cv('--chart-data-label') }, textOutline: '0px' }
+                }],
+                legend: { enabled: false },
+                credits: { enabled: false },
+                plotOptions: { bar: { borderRadius: 0, borderWidth: 0 } },
+                tooltip: { backgroundColor: cv('--bg-secondary'), style: { fontFamily: CHART_FONT, fontSize: '12px', color: cv('--text-primary') } }
+            });
+        }
+
+        /* ── Stats & Formatters ──────────────────────────────────── */
+        function updateStats() {
+            const dates     = allData.map(e => new Date(e.date)).sort((a, b) => a - b);
+            const fmt       = d => ['Jan','Feb','Mar','Apr','May','Jun','Jul','Aug','Sep','Oct','Nov','Dec'][d.getMonth()] + '-' + String(d.getFullYear()).slice(-2);
+            const statsEl   = document.getElementById('stats');
+            statsEl.innerHTML = `<span style="white-space:nowrap;">${allData.length.toLocaleString()} records · ${fmt(dates[0])} — ${fmt(dates[dates.length-1])}</span><br><span style="white-space:nowrap;">from <a href="https://leetcode.com/discuss/" target="_blank" rel="noopener noreferrer" class="stats-link">leetcode/compensation</a></span>`;
+        }
+
+        function formatDate(ds) {
+            const d = new Date(ds);
+            return `${String(d.getDate()).padStart(2,'0')}-${String(d.getMonth()+1).padStart(2,'0')}-${d.getFullYear()}`;
+        }
+        function formatSalary(v) { return v == null ? '—' : Number(v).toFixed(1); }
+        function formatYOE(v)    { return v == null ? '—' : v; }
+
+        /* ── Per-page & Pagination Events ────────────────────────── */
+        document.getElementById('per-page-select').addEventListener('change', e => {
+            itemsPerPage = parseInt(e.target.value);
+            totalPages   = Math.ceil(displayData.length / itemsPerPage);
+            currentPage  = 1;
+            renderPage(1);
+            updatePaginationControls();
+        });
+
+        document.getElementById('first-page').addEventListener('click', () => renderPage(1));
+        document.getElementById('prev-page').addEventListener('click', () => renderPage(currentPage - 1));
+        document.getElementById('next-page').addEventListener('click', () => renderPage(currentPage + 1));
+        document.getElementById('last-page').addEventListener('click', () => renderPage(totalPages));
+
+        /* ── Theme Toggle ──────────────────────────────────────── */
+        document.getElementById('theme-toggle').addEventListener('click', () => {
+            const html = document.documentElement;
+            const next = html.getAttribute('data-theme') === 'dark' ? 'light' : 'dark';
+            html.setAttribute('data-theme', next);
+            localStorage.setItem('leetcomp-theme', next);
+            // Re-render charts with new theme colors
+            renderCharts(displayData.length ? displayData : allData);
+        });
+
+        loadData();
+    </script>
+</body>
+</html>

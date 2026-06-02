@@ -1,0 +1,161 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Interview Experiences — Company Wise | LeetCode</title>
+    <script>
+        (function() {
+            var t = localStorage.getItem('leetcomp-theme') || 'light';
+            document.documentElement.setAttribute('data-theme', t);
+        })();
+    </script>
+    <style>
+        :root, [data-theme="light"] {
+            --bg: #ffffff; --bg-secondary: #f7f8fa; --bg-hover: #eef0f3;
+            --text-primary: #262626; --text-muted: #6b6f76; --text-dimmed: #8b9097;
+            --text-ghost: #b7bcc3; --border: #e5e6e8; --border-light: #eceef1; --accent: #ffa116;
+        }
+        [data-theme="dark"] {
+            --bg: #1a1a1a; --bg-secondary: #232323; --bg-hover: #2a2a2a;
+            --text-primary: #e7e7e7; --text-muted: #a6abb3; --text-dimmed: #8b9097;
+            --text-ghost: #5c6168; --border: #2f2f2f; --border-light: #3a3a3a; --accent: #ffa116;
+        }
+        * { box-sizing: border-box; margin: 0; padding: 0; }
+        body {
+            font-family: ui-sans-serif, system-ui, -apple-system, "Segoe UI", Roboto, Helvetica, Arial;
+            background: var(--bg); color: var(--text-primary); min-height: 100vh;
+        }
+        header {
+            max-width: 1265px; margin: 0 auto; padding: 12px 40px;
+            border-bottom: 1px solid var(--border-light);
+            display: flex; align-items: center; justify-content: space-between; gap: 16px;
+        }
+        .nav a {
+            color: var(--text-muted); text-decoration: none; font-size: 12px;
+            text-transform: uppercase; letter-spacing: 0.5px; margin-right: 16px;
+            border-bottom: 1px dotted transparent;
+        }
+        .nav a:hover, .nav a.active { color: var(--text-primary); border-color: var(--text-primary); }
+        .stats { font-size: 12px; color: var(--text-dimmed); text-transform: uppercase; letter-spacing: 0.5px; }
+        .theme-toggle { background: none; border: none; cursor: pointer; font-size: 18px; color: var(--text-muted); }
+        .container { max-width: 1265px; margin: 0 auto; padding: 0 40px 48px; }
+        .section-label {
+            font-size: 10px; font-weight: 600; text-transform: uppercase;
+            letter-spacing: 1.5px; color: var(--text-ghost); margin: 24px 0 12px;
+        }
+        .layout { display: grid; grid-template-columns: 240px 1fr; gap: 20px; }
+        .panel {
+            background: var(--bg-secondary); border: 1px solid var(--border-light);
+            border-radius: 4px; padding: 12px;
+        }
+        .company-list { max-height: 520px; overflow-y: auto; display: flex; flex-direction: column; gap: 4px; }
+        .company-item, .bar-row {
+            background: transparent; border: none; text-align: left; cursor: pointer;
+            color: var(--text-muted); font: inherit; font-size: 12px; padding: 6px 8px;
+            border-radius: 3px;
+        }
+        .company-item:hover, .bar-row:hover { background: var(--bg-hover); color: var(--text-primary); }
+        .company-item.active { background: var(--bg-hover); color: var(--text-primary); font-weight: 600; }
+        .search-wrap {
+            display: flex; gap: 8px; margin-bottom: 12px; border-bottom: 2px solid var(--border);
+            padding-bottom: 8px;
+        }
+        #search-input {
+            flex: 1; border: none; background: transparent; color: var(--text-primary);
+            font: inherit; font-size: 14px; outline: none;
+        }
+        .ghost-btn {
+            background: none; border: none; color: var(--text-ghost); cursor: pointer;
+            font: inherit; font-size: 11px; text-transform: uppercase;
+        }
+        .bar-row { display: grid; grid-template-columns: 120px 1fr 32px; gap: 8px; align-items: center; width: 100%; }
+        .bar-label { overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+        .bar-track { height: 8px; background: var(--border-light); border-radius: 2px; overflow: hidden; }
+        .bar-fill { display: block; height: 100%; background: var(--accent); }
+        .bar-count { text-align: right; color: var(--text-dimmed); font-size: 11px; }
+        table { width: 100%; border-collapse: collapse; font-size: 13px; }
+        th, td { padding: 10px 12px; border-bottom: 1px solid var(--border-light); text-align: left; vertical-align: top; }
+        th { color: var(--text-ghost); font-size: 10px; text-transform: uppercase; letter-spacing: 1px; }
+        .num { font-variant-numeric: tabular-nums; }
+        .row-meta { font-size: 11px; color: var(--text-dimmed); margin-top: 4px; }
+        .outcome-pill {
+            display: inline-block; padding: 2px 8px; border-radius: 3px;
+            font-size: 10px; text-transform: uppercase; letter-spacing: 0.5px;
+        }
+        .outcome-offer { background: rgba(40, 105, 131, 0.15); color: var(--accent); }
+        .outcome-reject { background: rgba(180, 99, 122, 0.15); color: #b4637a; }
+        .outcome-ongoing { background: rgba(234, 157, 52, 0.15); color: #ea9d34; }
+        .outcome-unknown { color: var(--text-dimmed); }
+        .empty, .muted { color: var(--text-dimmed); padding: 16px; }
+        a { color: var(--accent); }
+        @media (max-width: 900px) {
+            .layout { grid-template-columns: 1fr; }
+            header, .container { padding-left: 16px; padding-right: 16px; }
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <nav class="nav">
+            <a href="index.html">Compensation</a>
+            <a href="interviews.html" class="active">Interview Experiences</a>
+        </nav>
+        <div style="display:flex;align-items:center;gap:16px;">
+            <span class="stats" id="stats">Loading…</span>
+            <button class="theme-toggle" id="theme-toggle" type="button" title="Toggle theme">◐</button>
+        </div>
+    </header>
+
+    <div class="container">
+        <div class="section-label">Overview — top companies</div>
+        <div class="panel" id="company-chart" style="margin-bottom:20px;"></div>
+
+        <div class="layout">
+            <aside class="panel">
+                <div class="section-label" style="margin-top:0;">Companies</div>
+                <div class="company-list" id="company-list"></div>
+            </aside>
+
+            <main>
+                <div class="search-wrap">
+                    <span style="color:var(--text-ghost);">⌕</span>
+                    <input id="search-input" type="search" placeholder="Search company, role, title…" autocomplete="off">
+                    <button class="ghost-btn" id="search-clear" type="button">Clear</button>
+                </div>
+                <div class="section-label" style="margin-top:0;">
+                    <span id="result-count">0 experiences</span>
+                </div>
+                <div class="panel" style="padding:0;overflow-x:auto;">
+                    <table>
+                        <thead>
+                            <tr>
+                                <th>#</th>
+                                <th>Company</th>
+                                <th>Role</th>
+                                <th>Outcome</th>
+                                <th>Rounds</th>
+                                <th>Post</th>
+                            </tr>
+                        </thead>
+                        <tbody id="table-body">
+                            <tr><td colspan="6" class="empty">Loading…</td></tr>
+                        </tbody>
+                    </table>
+                </div>
+                <div id="pagination"></div>
+            </main>
+        </div>
+    </div>
+
+    <script>
+        document.getElementById('theme-toggle').addEventListener('click', () => {
+            const html = document.documentElement;
+            const next = html.getAttribute('data-theme') === 'dark' ? 'light' : 'dark';
+            html.setAttribute('data-theme', next);
+            localStorage.setItem('leetcomp-theme', next);
+        });
+    </script>
+    <script src="js/interviews.js" type="module"></script>
+</body>
+</html>
