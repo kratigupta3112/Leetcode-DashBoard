@@ -1,5 +1,15 @@
 [
   {
+    "id": 8311607,
+    "date": "2026-06-03T17:28:16.869140+00:00",
+    "location": "Gurugram",
+    "company": "Aspire App",
+    "role": "N/A",
+    "yoe": 5.0,
+    "base": 48.0,
+    "total": 70.0
+  },
+  {
     "id": 8310876,
     "date": "2026-06-03T10:24:11.852897+00:00",
     "location": "",
@@ -1438,25 +1448,5 @@
     "yoe": 1.5,
     "base": 60.0,
     "total": 80.0
-  },
-  {
-    "id": 7605632,
-    "date": "2026-02-24T14:18:21.014102+00:00",
-    "location": "Bangalore (5 Days Wfo)",
-    "company": "Acko",
-    "role": "SDE 2",
-    "yoe": 3.0,
-    "base": 35.0,
-    "total": 35.0
-  },
-  {
-    "id": 7605427,
-    "date": "2026-02-24T12:49:51.857941+00:00",
-    "location": "Noida",
-    "company": "Google",
-    "role": "L3",
-    "yoe": 3.0,
-    "base": 24.0,
-    "total": 24.0
   }
 ]
