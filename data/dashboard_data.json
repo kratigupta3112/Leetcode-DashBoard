@@ -1,5 +1,25 @@
 [
   {
+    "id": 8309871,
+    "date": "2026-06-03T02:03:07.733220+00:00",
+    "location": "Bengaluru",
+    "company": "Rippling",
+    "role": "Sde2 (L6)",
+    "yoe": 2.7,
+    "base": 63.0,
+    "total": 63.0
+  },
+  {
+    "id": 8309732,
+    "date": "2026-06-02T21:36:51.077707+00:00",
+    "location": "",
+    "company": "Kind Of Platform",
+    "role": "Mts 1 (>Se3 In Ebay)",
+    "yoe": null,
+    "base": 2.5,
+    "total": 2.5
+  },
+  {
     "id": 8308534,
     "date": "2026-06-02T09:45:23.311289+00:00",
     "location": "Bengaluru",
