@@ -1,5 +1,15 @@
 [
   {
+    "id": 8314799,
+    "date": "2026-06-05T06:52:15.715717+00:00",
+    "location": "Bengaluru, India",
+    "company": "Swiggy",
+    "role": "N/A",
+    "yoe": null,
+    "base": 38.0,
+    "total": 25.0
+  },
+  {
     "id": 8311607,
     "date": "2026-06-03T17:28:16.869140+00:00",
     "location": "Gurugram",
@@ -1070,16 +1080,6 @@
     "total": 3.8
   },
   {
-    "id": 7645675,
-    "date": "2026-03-13T14:02:44.507007+00:00",
-    "location": "Bangkok",
-    "company": "Gartner",
-    "role": "Sr. Sde",
-    "yoe": 6.0,
-    "base": 180.0,
-    "total": 2.0
-  },
-  {
     "id": 7645233,
     "date": "2026-03-13T09:34:23.737576+00:00",
     "location": "",
@@ -1418,25 +1418,5 @@
     "yoe": null,
     "base": 26.0,
     "total": 26.0
-  },
-  {
-    "id": 7606481,
-    "date": "2026-02-24T20:07:29.153748+00:00",
-    "location": "",
-    "company": "Microsoft",
-    "role": "L61",
-    "yoe": 2.8,
-    "base": 29.0,
-    "total": 29.0
-  },
-  {
-    "id": 7606141,
-    "date": "2026-02-24T17:26:29.248321+00:00",
-    "location": "Remote",
-    "company": "Stealth Startup",
-    "role": "Full Stack Ai Engineer (Independent Contractor)",
-    "yoe": 1.5,
-    "base": 60.0,
-    "total": 80.0
   }
 ]
