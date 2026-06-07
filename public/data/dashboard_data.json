@@ -10,6 +10,16 @@
     "total": 73.75
   },
   {
+    "id": 8319029,
+    "date": "2026-06-07T07:35:14.744230+00:00",
+    "location": "",
+    "company": "Google",
+    "role": "L4",
+    "yoe": null,
+    "base": 45.0,
+    "total": 45.0
+  },
+  {
     "id": 8318206,
     "date": "2026-06-06T18:44:21.672984+00:00",
     "location": "",
@@ -1388,25 +1398,5 @@
     "yoe": null,
     "base": 15.0,
     "total": 4.0
-  },
-  {
-    "id": 7614226,
-    "date": "2026-02-28T06:14:43.667580+00:00",
-    "location": "Hyderabad (Open To Bangalore)",
-    "company": "Ntly Completed The Interview Process For",
-    "role": "SDE 2",
-    "yoe": null,
-    "base": 2.0,
-    "total": 2.0
-  },
-  {
-    "id": 7613124,
-    "date": "2026-02-27T14:10:51.506297+00:00",
-    "location": "Gurugram",
-    "company": "ZS Associates",
-    "role": "N/A",
-    "yoe": 0.0,
-    "base": 16.0,
-    "total": 16.0
   }
 ]
