@@ -1,5 +1,15 @@
 [
   {
+    "id": 8319045,
+    "date": "2026-06-07T07:42:35.399976+00:00",
+    "location": "",
+    "company": "Stealth Startup",
+    "role": "N/A",
+    "yoe": 5.0,
+    "base": 65.0,
+    "total": 73.75
+  },
+  {
     "id": 8318206,
     "date": "2026-06-06T18:44:21.672984+00:00",
     "location": "",
@@ -1398,15 +1408,5 @@
     "yoe": 0.0,
     "base": 16.0,
     "total": 16.0
-  },
-  {
-    "id": 7612459,
-    "date": "2026-02-27T06:39:27.670978+00:00",
-    "location": "Remote",
-    "company": "Service Based MNC",
-    "role": "SSE",
-    "yoe": 7.5,
-    "base": 30.0,
-    "total": 7.5
   }
 ]
