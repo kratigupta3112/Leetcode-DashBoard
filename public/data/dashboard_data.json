@@ -1,13 +1,23 @@
 [
   {
-    "id": 8324673,
-    "date": "2026-06-09T19:09:07.479653+00:00",
+    "id": 8325515,
+    "date": "2026-06-10T08:12:19.093780+00:00",
+    "location": "",
+    "company": "Infosys",
+    "role": "Specialist Programmer L2",
+    "yoe": 2.0,
+    "base": 16.0,
+    "total": 16.0
+  },
+  {
+    "id": 8324993,
+    "date": "2026-06-10T03:52:34.932034+00:00",
     "location": "",
     "company": "Amazon",
-    "role": "SDE2",
-    "yoe": null,
-    "base": 44.0,
-    "total": 44.0
+    "role": "L5",
+    "yoe": 5.0,
+    "base": 45.0,
+    "total": 45.0
   },
   {
     "id": 8323366,
