@@ -1,5 +1,33 @@
 [
   {
+    "id": 8325797,
+    "date": "2026-06-10T11:21:25.348055+00:00",
+    "company": "Salesforce",
+    "role": "MTS",
+    "yoe": null,
+    "outcome": "offer",
+    "rounds": 3,
+    "title": "Salesforce MTS Interview Experience",
+    "summary": "I was directly approached by the recruiter as I had previously interviewed few months ago. Although I was not selected at that time, the recruiter already had my profile and reached out again for a suitable opportunity. Since I had already cleared th",
+    "url": "https://leetcode.com/discuss/post/8325797/salesforce-mts-interview-experience-by-a-9wd0",
+    "upvotes": 3,
+    "comments": 4
+  },
+  {
+    "id": 8325762,
+    "date": "2026-06-10T10:56:33.860201+00:00",
+    "company": "Uber",
+    "role": "SDE 2",
+    "yoe": null,
+    "outcome": "offer",
+    "rounds": null,
+    "title": "Uber SDE 2 Interview Experience (5 Rounds, Selected)",
+    "summary": "Uber SDE 2 Interview Experience (5 Rounds, Selected)",
+    "url": "https://leetcode.com/discuss/post/8325762/uber-sde-2-interview-experience-5-rounds-4bo3",
+    "upvotes": 2,
+    "comments": 5
+  },
+  {
     "id": 8325292,
     "date": "2026-06-10T06:17:08.906103+00:00",
     "company": "Meta(Facebook) Software Engineer Round 1",
@@ -3512,33 +3540,5 @@
     "url": "https://leetcode.com/discuss/post/6901904/sde-1-backend-zet-yoe-1-by-anonymous_use-xo5p",
     "upvotes": 5,
     "comments": 2
-  },
-  {
-    "id": 6892431,
-    "date": "2025-06-27T14:18:33.592830+00:00",
-    "company": "Expedia",
-    "role": "SDE",
-    "yoe": null,
-    "outcome": "ongoing",
-    "rounds": null,
-    "title": "Expedia Interview",
-    "summary": "Hi everyone,I just got my interview scheduled with Expedia for the SDE-2 position next week. I haven’t found many interview experiences or detailed information about their process online. Could anyone share their experience or provide insights into t",
-    "url": "https://leetcode.com/discuss/post/6892431/expedia-interview-by-anonymous_user-agry",
-    "upvotes": 2,
-    "comments": 8
-  },
-  {
-    "id": 6891389,
-    "date": "2025-06-27T09:05:36.741301+00:00",
-    "company": "Amazon",
-    "role": "SDE",
-    "yoe": null,
-    "outcome": "unknown",
-    "rounds": null,
-    "title": "Amazon SDE-1 2025 Grad Interview",
-    "summary": "Hola Community,I am a 2025 grad and want your help regarding Amazon SDE-1 interview process. Please share anything you know about the interview process like how many rounds would be there, what topics to focus on, what would be the questions level, w",
-    "url": "https://leetcode.com/discuss/post/6891389/amazon-sde-1-2025-grad-interview-by-anon-godd",
-    "upvotes": 6,
-    "comments": 5
   }
 ]
