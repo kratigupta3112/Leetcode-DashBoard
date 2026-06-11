@@ -1388,15 +1388,5 @@
     "yoe": 3.0,
     "base": 20.0,
     "total": 21.0
-  },
-  {
-    "id": 7620196,
-    "date": "2026-03-02T14:48:24.982415+00:00",
-    "location": "",
-    "company": "This Is Their Maximum Budget For",
-    "role": "SDE2",
-    "yoe": null,
-    "base": 5.5,
-    "total": 34.0
   }
 ]
