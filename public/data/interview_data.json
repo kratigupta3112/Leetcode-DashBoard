@@ -1,17 +1,17 @@
 [
   {
-    "id": 8327983,
-    "date": "2026-06-11T13:36:51.129651+00:00",
-    "company": "Spinny",
+    "id": 8328964,
+    "date": "2026-06-12T05:13:38.321660+00:00",
+    "company": "Zepto",
     "role": "SDE",
     "yoe": null,
-    "outcome": "offer",
+    "outcome": "unknown",
     "rounds": null,
-    "title": "Spinny SDE-1 Interview Experience (Selected)",
-    "summary": "Read full interview Exp : Spinny SDE-1 Interview Experience (Selected)",
-    "url": "https://leetcode.com/discuss/post/8327983/spinny-sde-1-interview-experience-select-rvs1",
-    "upvotes": 0,
-    "comments": 2
+    "title": "Zepto SDE-1 Interview Experience (Backend Developer)",
+    "summary": "Read real Zepto interview exp : Zepto SDE-1 Interview Experience (Backend Developer)",
+    "url": "https://leetcode.com/discuss/post/8328964/zepto-sde-1-interview-experience-backend-kx4g",
+    "upvotes": 1,
+    "comments": 0
   },
   {
     "id": 8325797,
@@ -25,7 +25,7 @@
     "summary": "I was directly approached by the recruiter as I had previously interviewed few months ago. Although I was not selected at that time, the recruiter already had my profile and reached out again for a suitable opportunity. Since I had already cleared th",
     "url": "https://leetcode.com/discuss/post/8325797/salesforce-mts-interview-experience-by-a-9wd0",
     "upvotes": 4,
-    "comments": 6
+    "comments": 7
   },
   {
     "id": 8325762,
@@ -52,7 +52,7 @@
     "title": "Meta(Facebook) Software Engineer Round 1 Interview Experience",
     "summary": "Read full real interview exp : Meta(Facebook) Software Engineer Round 1 Interview Experience",
     "url": "https://leetcode.com/discuss/post/8325292/metafacebook-software-engineer-round-1-i-hscw",
-    "upvotes": 0,
+    "upvotes": 1,
     "comments": 2
   },
   {
@@ -3540,19 +3540,5 @@
     "url": "https://leetcode.com/discuss/post/6904908/got-a-google-l4-swe-interview-opportunit-z2dc",
     "upvotes": 6,
     "comments": 6
-  },
-  {
-    "id": 6901904,
-    "date": "2025-06-30T08:15:55.992446+00:00",
-    "company": "Sde",
-    "role": "SDE",
-    "yoe": 1.0,
-    "outcome": "offer",
-    "rounds": 5,
-    "title": "SDE - 1 BACKEND ZET YOE  1",
-    "summary": "My SDE-1 Backend Interview Experience at Zet (Previously OneCode)\nProfile:Experience: 1 yearCollege: Tier 3Previous Company: Prominent Startup (Backend Engineer)Applied via: Naukri.comStatus: Selected📩 Application Process\nI applied through Naukri.com",
-    "url": "https://leetcode.com/discuss/post/6901904/sde-1-backend-zet-yoe-1-by-anonymous_use-xo5p",
-    "upvotes": 5,
-    "comments": 2
   }
 ]
