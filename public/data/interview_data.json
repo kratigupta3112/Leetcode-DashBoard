@@ -1,5 +1,47 @@
 [
   {
+    "id": 8329847,
+    "date": "2026-06-12T13:51:05.987382+00:00",
+    "company": "Citi",
+    "role": "N/A",
+    "yoe": 4.5,
+    "outcome": "offer",
+    "rounds": null,
+    "title": "Citi || Senior Java Developer || Rejected",
+    "summary": "YOE: 4.5\nRecently i appeared for Citi Senior java developer role. I applied through their career portal.\nThere were total of three interview rounds for me.First round:\nTwo developer and one manager was there.\nIt started with introduction and then pro",
+    "url": "https://leetcode.com/discuss/post/8329847/citi-senior-java-developer-rejected-by-a-jkl6",
+    "upvotes": 0,
+    "comments": 0
+  },
+  {
+    "id": 8329811,
+    "date": "2026-06-12T13:20:46.571380+00:00",
+    "company": "Nexturn",
+    "role": "N/A",
+    "yoe": 4.5,
+    "outcome": "offer",
+    "rounds": null,
+    "title": "Nexturn || Senior Java Developer || Offer",
+    "summary": "YOE: 4.5Recently i appeared for Nexturn senior java developer role. I reached out to the recruiter through email.\nThere were total of three interview rounds for me.First round:\nThis round was taken by a senior developer. It started with introduction",
+    "url": "https://leetcode.com/discuss/post/8329811/nexturn-senior-java-developer-offer-by-a-v7t0",
+    "upvotes": 0,
+    "comments": 0
+  },
+  {
+    "id": 8329736,
+    "date": "2026-06-12T12:24:52.086530+00:00",
+    "company": "Clevertap",
+    "role": "Backend Engineer",
+    "yoe": 4.5,
+    "outcome": "reject",
+    "rounds": null,
+    "title": "CleverTap || Senior Backend Engineer || Rejected",
+    "summary": "YOE: 4.5Recently i appeared for CleverTap senior backend engineer role.\nThere were total of three interview rounds for me.First or OA round:\nThree coding question, first one was easy one using string concept, second one was medium level based on DP c",
+    "url": "https://leetcode.com/discuss/post/8329736/clevertap-senior-backend-engineer-reject-06vy",
+    "upvotes": 2,
+    "comments": 2
+  },
+  {
     "id": 8328964,
     "date": "2026-06-12T05:13:38.321660+00:00",
     "company": "Zepto",
@@ -1956,7 +1998,7 @@
     "title": "HackerRank Backend Engineer AI Interview",
     "summary": "I applied directlyReceived a OA link -it has 3 questionsAfter this AI asked me some questions\nexplain the 3rd question approach\nWhat is the time and space complexity and could there be any scenarios where we might need to optimise the space further\nF",
     "url": "https://leetcode.com/discuss/post/7321136/hackerrank-backend-engineer-ai-interview-lu0j",
-    "upvotes": 13,
+    "upvotes": 14,
     "comments": 2
   },
   {
@@ -3511,34 +3553,6 @@
     "summary": "Title: Oracle L4 Phone Screen ExperienceHi everyone,\nI recently had a phone interview for the Oracle L4 Software Engineer position, and I’m sharing my experience anonymously to help others prepare. The round was supposed to be 60 minutes but extended",
     "url": "https://leetcode.com/discuss/post/6912254/oracle-l4-phone-screen-experience-by-ano-0dcx",
     "upvotes": 7,
-    "comments": 6
-  },
-  {
-    "id": 6910974,
-    "date": "2025-07-02T11:44:08.710058+00:00",
-    "company": "Phonepe",
-    "role": "SDE",
-    "yoe": null,
-    "outcome": "reject",
-    "rounds": null,
-    "title": "PhonePe Interview Experience",
-    "summary": "I recently interviewed with PhonePe for their SDE II role. Here's how it went.First Round – Machine Coding Round\nThis round was scheduled by the recruiter via zoom, where I was provided a link to a coding pad with the question. I had to submit the so",
-    "url": "https://leetcode.com/discuss/post/6910974/phonepe-interview-experience-by-anonymou-61uv",
-    "upvotes": 10,
-    "comments": 4
-  },
-  {
-    "id": 6904908,
-    "date": "2025-07-01T03:33:34.635137+00:00",
-    "company": "Got A Google",
-    "role": "L4",
-    "yoe": 3.0,
-    "outcome": "reject",
-    "rounds": null,
-    "title": "Got a Google L4 SWE Interview Opportunity — Without Even Applying!",
-    "summary": "Hey everyone,I recently had an interesting Google L4 Interview experience that I wanted to share.I have good LinkedIn & Github profile already, I received both an email and a LinkedIn message from a recruiter at Korn Ferry, who was hiring on behalf o",
-    "url": "https://leetcode.com/discuss/post/6904908/got-a-google-l4-swe-interview-opportunit-z2dc",
-    "upvotes": 6,
     "comments": 6
   }
 ]
