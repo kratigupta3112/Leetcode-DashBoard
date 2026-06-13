@@ -1,17 +1,59 @@
 [
   {
-    "id": 8329847,
-    "date": "2026-06-12T13:51:05.987382+00:00",
-    "company": "Citi",
-    "role": "N/A",
+    "id": 8331139,
+    "date": "2026-06-13T07:43:15.896024+00:00",
+    "company": "Wells Fargo",
+    "role": "Software Engineer",
     "yoe": 4.5,
     "outcome": "offer",
     "rounds": null,
-    "title": "Citi || Senior Java Developer || Rejected",
-    "summary": "YOE: 4.5\nRecently i appeared for Citi Senior java developer role. I applied through their career portal.\nThere were total of three interview rounds for me.First round:\nTwo developer and one manager was there.\nIt started with introduction and then pro",
-    "url": "https://leetcode.com/discuss/post/8329847/citi-senior-java-developer-rejected-by-a-jkl6",
+    "title": "Wells Fargo || Senior Software Engineer || Selected",
+    "summary": "YOE: 4.5Recently i appeared for wells fargo senior software engineer role. I applied through their career portal.\nThere were total of three interview rounds for me.First or OA round:\n90 mins hackerrank round covering java springboot backend developme",
+    "url": "https://leetcode.com/discuss/post/8331139/wells-fargo-senior-software-engineer-sel-ghef",
     "upvotes": 1,
-    "comments": 3
+    "comments": 0
+  },
+  {
+    "id": 8331036,
+    "date": "2026-06-13T07:03:44.164401+00:00",
+    "company": "Jpmorgan",
+    "role": "SDE",
+    "yoe": 3.0,
+    "outcome": "unknown",
+    "rounds": null,
+    "title": "JPMorgan SDE-2 Interview Experience - 3 Rounds | Java, Code Review & System Design",
+    "summary": "JPMorgan SDE-2 Interview Experience - 3 Rounds | Java, Code Review & System Design",
+    "url": "https://leetcode.com/discuss/post/8331036/jpmorgan-sde-2-interview-experience-3-ro-f0g0",
+    "upvotes": 0,
+    "comments": 1
+  },
+  {
+    "id": 8330921,
+    "date": "2026-06-13T06:29:15.836122+00:00",
+    "company": "Interview Experience At Docusign",
+    "role": "SDE 2",
+    "yoe": null,
+    "outcome": "unknown",
+    "rounds": 2,
+    "title": "Interview Experience at Docusign | SDE 2 | Reject",
+    "summary": "Round 1:\nGenerate ParenthesesRound 2:\nI was asked to implement a system with two main functions:\ngetContinueWatching()\nThis function displays to the user a list of the K most recent movies or content IDs they are in the process of watching.\nputCurren",
+    "url": "https://leetcode.com/discuss/post/8330921/interview-experience-at-docusign-sde-2-r-286e",
+    "upvotes": 2,
+    "comments": 2
+  },
+  {
+    "id": 8330698,
+    "date": "2026-06-13T04:40:07.076918+00:00",
+    "company": "Rippling",
+    "role": "SDE",
+    "yoe": 4.0,
+    "outcome": "unknown",
+    "rounds": null,
+    "title": "Rippling SDE-2 Interview Experience (4+ Years Experience) ",
+    "summary": "Read real interview exp: Rippling SDE-2 Interview Experience (4+ Years Experience)",
+    "url": "https://leetcode.com/discuss/post/8330698/rippling-sde-2-interview-experience-4-ye-3yrj",
+    "upvotes": 3,
+    "comments": 2
   },
   {
     "id": 8329811,
@@ -3526,33 +3568,5 @@
     "url": "https://leetcode.com/discuss/post/6923380/can-anyone-share-google-or-meta-data-eng-1jbn",
     "upvotes": 2,
     "comments": 0
-  },
-  {
-    "id": 6912310,
-    "date": "2025-07-02T17:55:36.861267+00:00",
-    "company": "Guidance Needed For 3Rd Round",
-    "role": "SDE",
-    "yoe": null,
-    "outcome": "ongoing",
-    "rounds": null,
-    "title": "Guidance Needed for 3rd Round Interview – Amazon SDE-1",
-    "summary": "Hi everyone,I’ve recently cleared the first two rounds of Amazon's SDE-1 interview process and I will have my 3rd round scheduled soon. I'm reaching out to the community for some guidance, tips, and preparation strategies.I would love your input on t",
-    "url": "https://leetcode.com/discuss/post/6912310/guidance-needed-for-3rd-round-interview-5is7w",
-    "upvotes": 3,
-    "comments": 4
-  },
-  {
-    "id": 6912254,
-    "date": "2025-07-02T17:44:49.791805+00:00",
-    "company": "Oracle",
-    "role": "IC4",
-    "yoe": null,
-    "outcome": "unknown",
-    "rounds": null,
-    "title": "Oracle IC4 Phone Screen Experience",
-    "summary": "Title: Oracle L4 Phone Screen ExperienceHi everyone,\nI recently had a phone interview for the Oracle L4 Software Engineer position, and I’m sharing my experience anonymously to help others prepare. The round was supposed to be 60 minutes but extended",
-    "url": "https://leetcode.com/discuss/post/6912254/oracle-l4-phone-screen-experience-by-ano-0dcx",
-    "upvotes": 7,
-    "comments": 6
   }
 ]
