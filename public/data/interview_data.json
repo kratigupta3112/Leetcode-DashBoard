@@ -10,8 +10,8 @@
     "title": "Wells Fargo || Senior Software Engineer || Selected",
     "summary": "YOE: 4.5Recently i appeared for wells fargo senior software engineer role. I applied through their career portal.\nThere were total of three interview rounds for me.First or OA round:\n90 mins hackerrank round covering java springboot backend developme",
     "url": "https://leetcode.com/discuss/post/8331139/wells-fargo-senior-software-engineer-sel-ghef",
-    "upvotes": 1,
-    "comments": 0
+    "upvotes": 2,
+    "comments": 2
   },
   {
     "id": 8331036,
@@ -25,7 +25,7 @@
     "summary": "JPMorgan SDE-2 Interview Experience - 3 Rounds | Java, Code Review & System Design",
     "url": "https://leetcode.com/discuss/post/8331036/jpmorgan-sde-2-interview-experience-3-ro-f0g0",
     "upvotes": 0,
-    "comments": 1
+    "comments": 2
   },
   {
     "id": 8330921,
@@ -67,7 +67,7 @@
     "summary": "YOE: 4.5Recently i appeared for Nexturn senior java developer role. I reached out to the recruiter through email.\nThere were total of three interview rounds for me.First round:\nThis round was taken by a senior developer. It started with introduction",
     "url": "https://leetcode.com/discuss/post/8329811/nexturn-senior-java-developer-offer-by-a-v7t0",
     "upvotes": 0,
-    "comments": 0
+    "comments": 1
   },
   {
     "id": 8329736,
@@ -3568,5 +3568,19 @@
     "url": "https://leetcode.com/discuss/post/6923380/can-anyone-share-google-or-meta-data-eng-1jbn",
     "upvotes": 2,
     "comments": 0
+  },
+  {
+    "id": 6912310,
+    "date": "2025-07-02T17:55:36.861267+00:00",
+    "company": "Guidance Needed For 3Rd Round",
+    "role": "SDE",
+    "yoe": null,
+    "outcome": "ongoing",
+    "rounds": null,
+    "title": "Guidance Needed for 3rd Round Interview – Amazon SDE-1",
+    "summary": "Hi everyone,I’ve recently cleared the first two rounds of Amazon's SDE-1 interview process and I will have my 3rd round scheduled soon. I'm reaching out to the community for some guidance, tips, and preparation strategies.I would love your input on t",
+    "url": "https://leetcode.com/discuss/post/6912310/guidance-needed-for-3rd-round-interview-5is7w",
+    "upvotes": 3,
+    "comments": 4
   }
 ]
