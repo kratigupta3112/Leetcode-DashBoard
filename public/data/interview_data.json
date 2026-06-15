@@ -42,20 +42,6 @@
     "comments": 2
   },
   {
-    "id": 8330698,
-    "date": "2026-06-13T04:40:07.076918+00:00",
-    "company": "Rippling",
-    "role": "SDE",
-    "yoe": 4.0,
-    "outcome": "unknown",
-    "rounds": null,
-    "title": "Rippling SDE-2 Interview Experience (4+ Years Experience) ",
-    "summary": "Read real interview exp: Rippling SDE-2 Interview Experience (4+ Years Experience)",
-    "url": "https://leetcode.com/discuss/post/8330698/rippling-sde-2-interview-experience-4-ye-3yrj",
-    "upvotes": 3,
-    "comments": 2
-  },
-  {
     "id": 8329811,
     "date": "2026-06-12T13:20:46.571380+00:00",
     "company": "Nexturn",
@@ -3582,5 +3568,19 @@
     "url": "https://leetcode.com/discuss/post/6912310/guidance-needed-for-3rd-round-interview-5is7w",
     "upvotes": 3,
     "comments": 4
+  },
+  {
+    "id": 6912254,
+    "date": "2025-07-02T17:44:49.791805+00:00",
+    "company": "Oracle",
+    "role": "IC4",
+    "yoe": null,
+    "outcome": "unknown",
+    "rounds": null,
+    "title": "Oracle IC4 Phone Screen Experience",
+    "summary": "Title: Oracle L4 Phone Screen ExperienceHi everyone,\nI recently had a phone interview for the Oracle L4 Software Engineer position, and I’m sharing my experience anonymously to help others prepare. The round was supposed to be 60 minutes but extended",
+    "url": "https://leetcode.com/discuss/post/6912254/oracle-l4-phone-screen-experience-by-ano-0dcx",
+    "upvotes": 7,
+    "comments": 6
   }
 ]
