@@ -1,19 +1,5 @@
 [
   {
-    "id": 8335615,
-    "date": "2026-06-15T12:25:49.603078+00:00",
-    "company": "Blinkit (Eternal)",
-    "role": "SDE",
-    "yoe": null,
-    "outcome": "unknown",
-    "rounds": null,
-    "title": "Blinkit (Eternal) SDE-1 Interview Experience (June 2026) | Offer Received",
-    "summary": "Blinkit (Eternal) SDE-1 Interview Experience (June 2026) | Offer Received by Sanuj Tiwari",
-    "url": "https://leetcode.com/discuss/post/8335615/blinkit-eternal-sde-1-interview-experien-9ue2",
-    "upvotes": 3,
-    "comments": 2
-  },
-  {
     "id": 8331139,
     "date": "2026-06-13T07:43:15.896024+00:00",
     "company": "Wells Fargo",
@@ -3582,5 +3568,19 @@
     "url": "https://leetcode.com/discuss/post/6912310/guidance-needed-for-3rd-round-interview-5is7w",
     "upvotes": 3,
     "comments": 4
+  },
+  {
+    "id": 6912254,
+    "date": "2025-07-02T17:44:49.791805+00:00",
+    "company": "Oracle",
+    "role": "IC4",
+    "yoe": null,
+    "outcome": "unknown",
+    "rounds": null,
+    "title": "Oracle IC4 Phone Screen Experience",
+    "summary": "Title: Oracle L4 Phone Screen ExperienceHi everyone,\nI recently had a phone interview for the Oracle L4 Software Engineer position, and I’m sharing my experience anonymously to help others prepare. The round was supposed to be 60 minutes but extended",
+    "url": "https://leetcode.com/discuss/post/6912254/oracle-l4-phone-screen-experience-by-ano-0dcx",
+    "upvotes": 7,
+    "comments": 6
   }
 ]
