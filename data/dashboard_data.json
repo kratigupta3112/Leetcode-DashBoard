@@ -1,5 +1,25 @@
 [
   {
+    "id": 8338909,
+    "date": "2026-06-16T20:59:16.796345+00:00",
+    "location": "",
+    "company": "Altimetrik",
+    "role": "Tech Lead",
+    "yoe": 9.0,
+    "base": 2.9,
+    "total": 52.0
+  },
+  {
+    "id": 8338904,
+    "date": "2026-06-16T20:55:35.169589+00:00",
+    "location": "",
+    "company": "Publicis Sapient",
+    "role": "Senior Associate Technology L2",
+    "yoe": 9.0,
+    "base": 2.5,
+    "total": 44.0
+  },
+  {
     "id": 8338004,
     "date": "2026-06-16T12:34:12.667320+00:00",
     "location": "",
