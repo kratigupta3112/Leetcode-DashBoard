@@ -1,5 +1,25 @@
 [
   {
+    "id": 8342998,
+    "date": "2026-06-18T16:14:42.768832+00:00",
+    "location": "Gurugram",
+    "company": "Adani Digital Labs",
+    "role": "N/A",
+    "yoe": 6.0,
+    "base": 7.0,
+    "total": 7.0
+  },
+  {
+    "id": 8342974,
+    "date": "2026-06-18T16:07:51.865306+00:00",
+    "location": "Pune, India",
+    "company": "Teradata",
+    "role": "Senior Ai Engineer",
+    "yoe": 3.1,
+    "base": 39.0,
+    "total": 4.0
+  },
+  {
     "id": 8340267,
     "date": "2026-06-17T14:46:52.554389+00:00",
     "location": "Hyderabad",
@@ -1408,25 +1428,5 @@
     "yoe": null,
     "base": 19.0,
     "total": 19.0
-  },
-  {
-    "id": 7629337,
-    "date": "2026-03-06T08:19:10.735928+00:00",
-    "location": "Chennai",
-    "company": "Amazon",
-    "role": "Sdet Ii (L5)",
-    "yoe": null,
-    "base": 5.0,
-    "total": 7.0
-  },
-  {
-    "id": 7627919,
-    "date": "2026-03-05T18:47:04.069869+00:00",
-    "location": "Hyderabad",
-    "company": "Service Based MNC",
-    "role": "MTS",
-    "yoe": 3.0,
-    "base": 32.0,
-    "total": 46.0
   }
 ]
