@@ -1418,15 +1418,5 @@
     "yoe": 3.5,
     "base": 3.5,
     "total": 19.0
-  },
-  {
-    "id": 7630025,
-    "date": "2026-03-06T13:27:27.107934+00:00",
-    "location": "",
-    "company": "Amazon",
-    "role": "SDE 1",
-    "yoe": null,
-    "base": 19.0,
-    "total": 19.0
   }
 ]
