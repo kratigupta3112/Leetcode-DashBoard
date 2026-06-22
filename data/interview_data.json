@@ -1,5 +1,19 @@
 [
   {
+    "id": 8351419,
+    "date": "2026-06-22T10:33:31.839394+00:00",
+    "company": "Amazon",
+    "role": "SDE",
+    "yoe": null,
+    "outcome": "ongoing",
+    "rounds": 4,
+    "title": "Amazon SDE-2 Interview Experience",
+    "summary": "From Online Assessment to Offer\nI recently completed the Amazon interview process for an SDE role and wanted to share my experience. Hopefully, this helps others preparing for Amazon interviews.\nTimeline\nNovember: Completed the Online Assessment (OA)",
+    "url": "https://leetcode.com/discuss/post/8351419/amazon-sde-2-interview-experience-by-ano-b2rm",
+    "upvotes": 0,
+    "comments": 1
+  },
+  {
     "id": 8349868,
     "date": "2026-06-21T17:38:02.243881+00:00",
     "company": "How I Cracked The Ribbon Communications Intervie",
@@ -3540,19 +3554,5 @@
     "url": "https://leetcode.com/discuss/post/6912254/oracle-l4-phone-screen-experience-by-ano-0dcx",
     "upvotes": 7,
     "comments": 6
-  },
-  {
-    "id": 6910974,
-    "date": "2025-07-02T11:44:08.710058+00:00",
-    "company": "Phonepe",
-    "role": "SDE",
-    "yoe": null,
-    "outcome": "reject",
-    "rounds": null,
-    "title": "PhonePe Interview Experience",
-    "summary": "I recently interviewed with PhonePe for their SDE II role. Here's how it went.First Round – Machine Coding Round\nThis round was scheduled by the recruiter via zoom, where I was provided a link to a coding pad with the question. I had to submit the so",
-    "url": "https://leetcode.com/discuss/post/6910974/phonepe-interview-experience-by-anonymou-61uv",
-    "upvotes": 10,
-    "comments": 4
   }
 ]
