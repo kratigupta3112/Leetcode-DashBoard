@@ -1,5 +1,19 @@
 [
   {
+    "id": 8355869,
+    "date": "2026-06-24T12:46:53.616470+00:00",
+    "company": "Is Leetcode Enough For Faang, Or Is Codeforces (",
+    "role": "N/A",
+    "yoe": null,
+    "outcome": "unknown",
+    "rounds": null,
+    "title": "Is LeetCode Enough for FAANG, or is Codeforces (CP) Overkill? Seeking Advice on My Prep Strategy",
+    "summary": "Hi LeetCode Community,I am currently preparing for FAANG/top-tier tech companies and am looking for some honest feedback on my current preparation strategy.My Current Routine & CoverageI have been practicing regularly and diving into both foundationa",
+    "url": "https://leetcode.com/discuss/post/8355869/is-leetcode-enough-for-faang-or-is-codef-bg25",
+    "upvotes": 1,
+    "comments": 0
+  },
+  {
     "id": 8354744,
     "date": "2026-06-23T22:14:08.616817+00:00",
     "company": "Ai Coding Round Experience At Rippling",
@@ -10,8 +24,8 @@
     "title": "AI Coding Round Experience at Rippling - Senior Engineer",
     "summary": "It was my first time actually going through one of these AI assisted coding interviews and I felt like it went well so I thought I'd share how I approached the use of AI during the interview.Rippling doesn't seem to care what or how much you use AI.",
     "url": "https://leetcode.com/discuss/post/8354744/ai-coding-round-experience-at-rippling-s-iqs0",
-    "upvotes": 2,
-    "comments": 1
+    "upvotes": 3,
+    "comments": 2
   },
   {
     "id": 8351419,
@@ -24,7 +38,7 @@
     "title": "Amazon SDE-2 Interview Experience",
     "summary": "From Online Assessment to Offer\nI recently completed the Amazon interview process for an SDE role and wanted to share my experience. Hopefully, this helps others preparing for Amazon interviews.\nTimeline\nNovember: Completed the Online Assessment (OA)",
     "url": "https://leetcode.com/discuss/post/8351419/amazon-sde-2-interview-experience-by-ano-b2rm",
-    "upvotes": 1,
+    "upvotes": 2,
     "comments": 5
   },
   {
@@ -2153,20 +2167,6 @@
     "summary": "Wanted to share my PhonePe interview experience, Applied through Instahyre.Round 0 – Online AssessmentCoding assessment on CodeSignal.Round 1 – Coding RoundAfter 1 week of OA, received mail from HR for round 1. I asked to schedule after 2 week as i w",
     "url": "https://leetcode.com/discuss/post/7286629/phonepe-se-1-3y-interview-experience-by-qdo0q",
     "upvotes": 14,
-    "comments": 2
-  },
-  {
-    "id": 7286301,
-    "date": "2025-10-19T14:14:43.398199+00:00",
-    "company": "Nutanix",
-    "role": "MTS",
-    "yoe": null,
-    "outcome": "unknown",
-    "rounds": 4,
-    "title": "Nutanix | MTS Intern | Aug 2025 | [Accepted]",
-    "summary": "Hello everyone,\nI know how much we all love reading real interview stories before our own internships and placements, so here’s mine! Today, I’d like to share my interview experience at Nutanix for the MTS Intern role.Background\nI’m a BTech 3rd-year",
-    "url": "https://leetcode.com/discuss/post/7286301/nutanix-mts-intern-on-campus-accepted-by-xnpo",
-    "upvotes": 15,
     "comments": 2
   },
   {
