@@ -24,8 +24,8 @@
     "title": "Amazon SDE-2 Interview Experience",
     "summary": "From Online Assessment to Offer\nI recently completed the Amazon interview process for an SDE role and wanted to share my experience. Hopefully, this helps others preparing for Amazon interviews.\nTimeline\nNovember: Completed the Online Assessment (OA)",
     "url": "https://leetcode.com/discuss/post/8351419/amazon-sde-2-interview-experience-by-ano-b2rm",
-    "upvotes": 0,
-    "comments": 4
+    "upvotes": 1,
+    "comments": 5
   },
   {
     "id": 8349868,
@@ -53,7 +53,7 @@
     "summary": "Reading interview experiences on LeetCode Discuss helped me a lot throughout my preparation. Seeing how others shared their journeys, timelines, interview structures, and learnings helped me prepare in a more structured way.So here's my turn to give",
     "url": "https://leetcode.com/discuss/post/8343668/amazon-sde-1-interview-experience-2026-s-uroi",
     "upvotes": 12,
-    "comments": 12
+    "comments": 11
   },
   {
     "id": 8331139,
@@ -3554,19 +3554,5 @@
     "url": "https://leetcode.com/discuss/post/6912310/guidance-needed-for-3rd-round-interview-5is7w",
     "upvotes": 3,
     "comments": 4
-  },
-  {
-    "id": 6912254,
-    "date": "2025-07-02T17:44:49.791805+00:00",
-    "company": "Oracle",
-    "role": "IC4",
-    "yoe": null,
-    "outcome": "unknown",
-    "rounds": null,
-    "title": "Oracle IC4 Phone Screen Experience",
-    "summary": "Title: Oracle L4 Phone Screen ExperienceHi everyone,\nI recently had a phone interview for the Oracle L4 Software Engineer position, and I’m sharing my experience anonymously to help others prepare. The round was supposed to be 60 minutes but extended",
-    "url": "https://leetcode.com/discuss/post/6912254/oracle-l4-phone-screen-experience-by-ano-0dcx",
-    "upvotes": 7,
-    "comments": 6
   }
 ]

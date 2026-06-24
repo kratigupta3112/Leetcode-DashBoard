@@ -1,5 +1,15 @@
 [
   {
+    "id": 8355120,
+    "date": "2026-06-24T06:01:20.405135+00:00",
+    "location": "",
+    "company": "Wisetech Global",
+    "role": "Smts",
+    "yoe": null,
+    "base": 38.5,
+    "total": 38.5
+  },
+  {
     "id": 8354626,
     "date": "2026-06-23T19:27:21.568965+00:00",
     "location": "",
@@ -1438,15 +1448,5 @@
     "yoe": null,
     "base": 25.0,
     "total": 25.0
-  },
-  {
-    "id": 7641489,
-    "date": "2026-03-11T14:45:15.113067+00:00",
-    "location": "",
-    "company": "Amazon",
-    "role": "L5",
-    "yoe": 3.0,
-    "base": 31.0,
-    "total": 31.0
   }
 ]
