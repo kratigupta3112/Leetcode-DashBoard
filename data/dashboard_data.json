@@ -1388,55 +1388,5 @@
     "yoe": 4.2,
     "base": 4.0,
     "total": 4.0
-  },
-  {
-    "id": 7644825,
-    "date": "2026-03-13T05:30:55.865438+00:00",
-    "location": "",
-    "company": "Amazon",
-    "role": "Sde Ii (L5)",
-    "yoe": 4.5,
-    "base": 4.5,
-    "total": 64.0
-  },
-  {
-    "id": 7644113,
-    "date": "2026-03-12T17:55:48.108439+00:00",
-    "location": "",
-    "company": "Microsoft",
-    "role": "L61",
-    "yoe": 3.0,
-    "base": 61.0,
-    "total": 65.32
-  },
-  {
-    "id": 7644078,
-    "date": "2026-03-12T17:40:57.298828+00:00",
-    "location": "Work From Anywhere(India)",
-    "company": "Amazon",
-    "role": "SDE 1",
-    "yoe": 2.0,
-    "base": 24.0,
-    "total": 26.41
-  },
-  {
-    "id": 7643995,
-    "date": "2026-03-12T17:02:44.934132+00:00",
-    "location": "",
-    "company": "Service Based MNC",
-    "role": "Senior Software Engineer",
-    "yoe": 7.5,
-    "base": 42.0,
-    "total": 30.0
-  },
-  {
-    "id": 7643854,
-    "date": "2026-03-12T16:10:14.980903+00:00",
-    "location": "Pune",
-    "company": "IT Services MNC",
-    "role": "Frontend Lead",
-    "yoe": null,
-    "base": 35.0,
-    "total": 35.0
   }
 ]
