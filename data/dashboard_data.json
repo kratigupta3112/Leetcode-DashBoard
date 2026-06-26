@@ -1,5 +1,15 @@
 [
   {
+    "id": 8360065,
+    "date": "2026-06-26T17:08:51.348966+00:00",
+    "location": "",
+    "company": "Microsoft",
+    "role": "N/A",
+    "yoe": 7.0,
+    "base": 45.0,
+    "total": 68.0
+  },
+  {
     "id": 8356567,
     "date": "2026-06-24T18:46:55.945248+00:00",
     "location": "Gurugram",
@@ -1378,5 +1388,15 @@
     "yoe": 3.8,
     "base": 2.0,
     "total": 3.8
+  },
+  {
+    "id": 7645233,
+    "date": "2026-03-13T09:34:23.737576+00:00",
+    "location": "",
+    "company": "Big 4 – Joined Recently",
+    "role": "Data Engineer",
+    "yoe": 4.2,
+    "base": 4.0,
+    "total": 4.0
   }
 ]
