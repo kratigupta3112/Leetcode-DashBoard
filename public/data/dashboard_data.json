@@ -1378,25 +1378,5 @@
     "yoe": 3.7,
     "base": 2.0,
     "total": 44.0
-  },
-  {
-    "id": 7646255,
-    "date": "2026-03-13T19:18:49.398694+00:00",
-    "location": "",
-    "company": "Salesforce",
-    "role": "Mts (Sde-2)",
-    "yoe": 3.7,
-    "base": 29.0,
-    "total": 43.5
-  },
-  {
-    "id": 7645754,
-    "date": "2026-03-13T14:41:52.337783+00:00",
-    "location": "",
-    "company": "Microsoft Vs Amazon",
-    "role": "SDE 2",
-    "yoe": 3.8,
-    "base": 2.0,
-    "total": 3.8
   }
 ]
