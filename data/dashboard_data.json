@@ -1,5 +1,15 @@
 [
   {
+    "id": 8360419,
+    "date": "2026-06-27T00:25:40.052345+00:00",
+    "location": "",
+    "company": "Hyderabad",
+    "role": "New Grad",
+    "yoe": null,
+    "base": 1.0,
+    "total": 31.0
+  },
+  {
     "id": 8360065,
     "date": "2026-06-26T17:08:51.348966+00:00",
     "location": "",
@@ -1388,15 +1398,5 @@
     "yoe": 3.8,
     "base": 2.0,
     "total": 3.8
-  },
-  {
-    "id": 7645233,
-    "date": "2026-03-13T09:34:23.737576+00:00",
-    "location": "",
-    "company": "Big 4 – Joined Recently",
-    "role": "Data Engineer",
-    "yoe": 4.2,
-    "base": 4.0,
-    "total": 4.0
   }
 ]
