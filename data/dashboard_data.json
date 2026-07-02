@@ -1,5 +1,25 @@
 [
   {
+    "id": 8372384,
+    "date": "2026-07-02T17:19:44.038741+00:00",
+    "location": "",
+    "company": "1 YOE",
+    "role": "Serving Notice",
+    "yoe": null,
+    "base": 3.0,
+    "total": 30.0
+  },
+  {
+    "id": 8372092,
+    "date": "2026-07-02T14:57:51.827113+00:00",
+    "location": "",
+    "company": "Coindcx",
+    "role": "N/A",
+    "yoe": 1.1,
+    "base": 24.0,
+    "total": 24.0
+  },
+  {
     "id": 8371766,
     "date": "2026-07-02T12:12:12.573172+00:00",
     "location": "",
@@ -1388,15 +1408,5 @@
     "yoe": null,
     "base": 60.0,
     "total": 46.0
-  },
-  {
-    "id": 7664036,
-    "date": "2026-03-19T07:35:59.612239+00:00",
-    "location": "",
-    "company": "Qualcomm (associate Engineer)",
-    "role": "L5",
-    "yoe": 1.8,
-    "base": 1.0,
-    "total": 1.5
   }
 ]
