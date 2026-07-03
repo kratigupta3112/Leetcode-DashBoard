@@ -1408,5 +1408,15 @@
     "yoe": null,
     "base": 60.0,
     "total": 46.0
+  },
+  {
+    "id": 7664036,
+    "date": "2026-03-19T07:35:59.612239+00:00",
+    "location": "",
+    "company": "Qualcomm (associate Engineer)",
+    "role": "L5",
+    "yoe": 1.8,
+    "base": 1.0,
+    "total": 1.5
   }
 ]
