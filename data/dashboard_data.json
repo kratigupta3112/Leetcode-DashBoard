@@ -1388,15 +1388,5 @@
     "yoe": 3.8,
     "base": 44.0,
     "total": 18.0
-  },
-  {
-    "id": 7666780,
-    "date": "2026-03-19T12:41:36.684334+00:00",
-    "location": "Bengaluru",
-    "company": "Google",
-    "role": "L5",
-    "yoe": 6.5,
-    "base": 63.0,
-    "total": 1.02
   }
 ]
