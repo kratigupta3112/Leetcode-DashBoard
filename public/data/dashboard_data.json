@@ -1378,15 +1378,5 @@
     "yoe": null,
     "base": 1.0,
     "total": 6.0
-  },
-  {
-    "id": 7670203,
-    "date": "2026-03-19T19:03:22.022915+00:00",
-    "location": "Bengaluru",
-    "company": "Amazon",
-    "role": "N/A",
-    "yoe": 3.8,
-    "base": 44.0,
-    "total": 18.0
   }
 ]
