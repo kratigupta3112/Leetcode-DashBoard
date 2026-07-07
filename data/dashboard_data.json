@@ -1,5 +1,15 @@
 [
   {
+    "id": 8382470,
+    "date": "2026-07-07T15:42:55.174772+00:00",
+    "location": "",
+    "company": "Startup",
+    "role": "N/A",
+    "yoe": 5.0,
+    "base": 5.0,
+    "total": 58.0
+  },
+  {
     "id": 8381649,
     "date": "2026-07-07T09:09:00.902975+00:00",
     "location": "",
@@ -1388,15 +1398,5 @@
     "yoe": 3.5,
     "base": 30.0,
     "total": 30.0
-  },
-  {
-    "id": 7675318,
-    "date": "2026-03-20T15:20:51.356721+00:00",
-    "location": "",
-    "company": "Offer I Recenlty Got From Microsoft For",
-    "role": "SDE 1",
-    "yoe": null,
-    "base": 1.0,
-    "total": 6.0
   }
 ]
