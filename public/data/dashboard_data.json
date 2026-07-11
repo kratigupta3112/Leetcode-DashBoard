@@ -1398,5 +1398,15 @@
     "yoe": 4.8,
     "base": 4.8,
     "total": 30.0
+  },
+  {
+    "id": 7684327,
+    "date": "2026-03-23T13:46:01.697831+00:00",
+    "location": "Chennai",
+    "company": "Freshworks Senior Backend Role",
+    "role": "N/A",
+    "yoe": 3.5,
+    "base": 17.5,
+    "total": 17.5
   }
 ]
