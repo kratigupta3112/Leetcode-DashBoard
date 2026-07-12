@@ -1,15 +1,5 @@
 [
   {
-    "id": 8391714,
-    "date": "2026-07-12T07:04:33.915697+00:00",
-    "location": "Bengaluru",
-    "company": "Salesforce MTS Vs Ebay",
-    "role": "Sde3 (T24)",
-    "yoe": null,
-    "base": 35.0,
-    "total": 35.0
-  },
-  {
     "id": 8389503,
     "date": "2026-07-11T06:14:42.864425+00:00",
     "location": "Chennai",
@@ -1408,5 +1398,15 @@
     "yoe": 4.8,
     "base": 4.8,
     "total": 30.0
+  },
+  {
+    "id": 7684327,
+    "date": "2026-03-23T13:46:01.697831+00:00",
+    "location": "Chennai",
+    "company": "Freshworks Senior Backend Role",
+    "role": "N/A",
+    "yoe": 3.5,
+    "base": 17.5,
+    "total": 17.5
   }
 ]
