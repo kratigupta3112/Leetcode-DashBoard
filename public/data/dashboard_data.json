@@ -1,5 +1,25 @@
 [
   {
+    "id": 8395213,
+    "date": "2026-07-13T17:09:33.774971+00:00",
+    "location": "Bengaluru",
+    "company": "Salesforce",
+    "role": "Member Of Technical Staff (Mts)",
+    "yoe": 2.0,
+    "base": 3.0,
+    "total": 3.0
+  },
+  {
+    "id": 8394862,
+    "date": "2026-07-13T14:47:18.075847+00:00",
+    "location": "",
+    "company": "Senior Associate",
+    "role": "L1",
+    "yoe": 4.0,
+    "base": 4.0,
+    "total": 4.0
+  },
+  {
     "id": 8389503,
     "date": "2026-07-11T06:14:42.864425+00:00",
     "location": "Chennai",
@@ -28,16 +48,6 @@
     "yoe": null,
     "base": 18.0,
     "total": 38.2
-  },
-  {
-    "id": 8388177,
-    "date": "2026-07-10T11:50:46.002247+00:00",
-    "location": "",
-    "company": "Vs Coindcx",
-    "role": "SSE",
-    "yoe": null,
-    "base": 1.0,
-    "total": 100.0
   },
   {
     "id": 8387992,
@@ -1408,15 +1418,5 @@
     "yoe": 3.5,
     "base": 17.5,
     "total": 17.5
-  },
-  {
-    "id": 7683411,
-    "date": "2026-03-23T10:29:56.856395+00:00",
-    "location": "Bengaluru",
-    "company": "Visa",
-    "role": "SSE",
-    "yoe": 2.8,
-    "base": 33.0,
-    "total": 33.0
   }
 ]
