@@ -1408,5 +1408,15 @@
     "yoe": 3.5,
     "base": 17.5,
     "total": 17.5
+  },
+  {
+    "id": 7683411,
+    "date": "2026-03-23T10:29:56.856395+00:00",
+    "location": "Bengaluru",
+    "company": "Visa",
+    "role": "SSE",
+    "yoe": 2.8,
+    "base": 33.0,
+    "total": 33.0
   }
 ]

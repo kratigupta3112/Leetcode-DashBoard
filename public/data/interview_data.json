@@ -1,5 +1,19 @@
 [
   {
+    "id": 8393536,
+    "date": "2026-07-13T04:35:58.739890+00:00",
+    "company": "Arista Networks",
+    "role": "SDE",
+    "yoe": null,
+    "outcome": "unknown",
+    "rounds": null,
+    "title": "Arista Networks SDE (EOS)->what can i expect?",
+    "summary": "Hi everyone,Has anyone recently interviewed with Arista Networks for the Software Development Engineer (SDE) role in the EOS team?I would greatly appreciate it if you could share your interview experience, including the interview process, the types o",
+    "url": "https://leetcode.com/discuss/post/8393536/arista-networks-sde-eos-what-can-i-expec-mooe",
+    "upvotes": 0,
+    "comments": 1
+  },
+  {
     "id": 8387416,
     "date": "2026-07-10T04:02:31.099774+00:00",
     "company": "Amazon",
@@ -3568,19 +3582,5 @@
     "url": "https://leetcode.com/discuss/post/6924642/sap-java-developer-associate-interview-b-rw55",
     "upvotes": 3,
     "comments": 2
-  },
-  {
-    "id": 6923663,
-    "date": "2025-07-05T13:41:25.147255+00:00",
-    "company": "Amazon",
-    "role": "SDE 1",
-    "yoe": null,
-    "outcome": "unknown",
-    "rounds": null,
-    "title": "Amazon SDE 1 Detailed Interview Experience",
-    "summary": "https://www.youtube.com/watch?v=UvKUPkBaZdE",
-    "url": "https://leetcode.com/discuss/post/6923663/amazon-sde-1-detailed-interview-experien-hujw",
-    "upvotes": 2,
-    "comments": 0
   }
 ]
