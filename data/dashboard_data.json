@@ -1,5 +1,15 @@
 [
   {
+    "id": 8395615,
+    "date": "2026-07-13T20:45:26.076798+00:00",
+    "location": "",
+    "company": "Microsoft",
+    "role": "SDE 2",
+    "yoe": 4.0,
+    "base": 40.0,
+    "total": 40.0
+  },
+  {
     "id": 8395213,
     "date": "2026-07-13T17:09:33.774971+00:00",
     "location": "Bengaluru",
@@ -1408,15 +1418,5 @@
     "yoe": 4.8,
     "base": 4.8,
     "total": 30.0
-  },
-  {
-    "id": 7684327,
-    "date": "2026-03-23T13:46:01.697831+00:00",
-    "location": "Chennai",
-    "company": "Freshworks Senior Backend Role",
-    "role": "N/A",
-    "yoe": 3.5,
-    "base": 17.5,
-    "total": 17.5
   }
 ]
