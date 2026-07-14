@@ -1,5 +1,15 @@
 [
   {
+    "id": 8396541,
+    "date": "2026-07-14T10:06:45.317869+00:00",
+    "location": "Tier-1 City",
+    "company": "Mid-size Fintech",
+    "role": "Software Engineer – Frontend",
+    "yoe": 2.7,
+    "base": 22.0,
+    "total": 16.3
+  },
+  {
     "id": 8395615,
     "date": "2026-07-13T20:45:26.076798+00:00",
     "location": "",
@@ -1408,15 +1418,5 @@
     "yoe": null,
     "base": 3.0,
     "total": 2.7
-  },
-  {
-    "id": 7684775,
-    "date": "2026-03-23T15:33:13.529053+00:00",
-    "location": "Bangkok",
-    "company": "Agoda",
-    "role": "SSE",
-    "yoe": 4.8,
-    "base": 4.8,
-    "total": 30.0
   }
 ]
