@@ -1,5 +1,15 @@
 [
   {
+    "id": 8397822,
+    "date": "2026-07-15T03:03:14.915215+00:00",
+    "location": "Vikhroli, Mumbai",
+    "company": "Qube Research & Technologies (qrt)",
+    "role": "Mumbai",
+    "yoe": 4.5,
+    "base": 61.0,
+    "total": 61.0
+  },
+  {
     "id": 8396541,
     "date": "2026-07-14T10:06:45.317869+00:00",
     "location": "Tier-1 City",
@@ -424,7 +434,7 @@
     "date": "2026-06-13T06:46:26.450492+00:00",
     "location": "Mumbai",
     "company": "Aditya Birla Capital (abc)",
-    "role": "Graduate Engineer Trainee (Sde)",
+    "role": "Graduate Engineer Trainee (Get) - Software Engineer!",
     "yoe": 0.0,
     "base": 11.0,
     "total": 11.0
