@@ -1,5 +1,15 @@
 [
   {
+    "id": 8401386,
+    "date": "2026-07-16T14:12:06.702875+00:00",
+    "location": "",
+    "company": "Amazon",
+    "role": "SDE 2",
+    "yoe": null,
+    "base": 2.0,
+    "total": 57.0
+  },
+  {
     "id": 8400833,
     "date": "2026-07-16T09:02:13.268081+00:00",
     "location": "Hyderabad, India",
@@ -1408,25 +1418,5 @@
     "yoe": null,
     "base": 29.0,
     "total": 24.0
-  },
-  {
-    "id": 7692439,
-    "date": "2026-03-25T13:46:17.909946+00:00",
-    "location": "Hyderabad",
-    "company": "Linkedin SWE Vs Amazon",
-    "role": "SDE2",
-    "yoe": 4.7,
-    "base": 2.0,
-    "total": 40.0
-  },
-  {
-    "id": 7692389,
-    "date": "2026-03-25T13:34:06.710406+00:00",
-    "location": "",
-    "company": "Famous PBC",
-    "role": "SSE",
-    "yoe": 9.0,
-    "base": 53.0,
-    "total": 53.0
   }
 ]
