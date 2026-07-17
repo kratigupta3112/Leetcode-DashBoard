@@ -1,5 +1,19 @@
 [
   {
+    "id": 8402134,
+    "date": "2026-07-16T23:35:15.108015+00:00",
+    "company": "Zepto",
+    "role": "SDE",
+    "yoe": null,
+    "outcome": "unknown",
+    "rounds": null,
+    "title": "Zepto SDE-1 Interview Experience (June 2026)",
+    "summary": "https://leetcode.com/discuss/post/8402132/zepto-sde-1-interview-experience-june-20-4lej/",
+    "url": "https://leetcode.com/discuss/post/8402134/zepto-sde-1-interview-experience-june-20-paz7",
+    "upvotes": 0,
+    "comments": 0
+  },
+  {
     "id": 8398177,
     "date": "2026-07-15T06:06:32.956857+00:00",
     "company": "Servicenow Associate Systems Engineer",
@@ -164,7 +178,7 @@
     "title": "Amazon SDE-1 Interview Experience (2026) |  Selected✅",
     "summary": "Reading interview experiences on LeetCode Discuss helped me a lot throughout my preparation. Seeing how others shared their journeys, timelines, interview structures, and learnings helped me prepare in a more structured way.So here's my turn to give",
     "url": "https://leetcode.com/discuss/post/8343668/amazon-sde-1-interview-experience-2026-s-uroi",
-    "upvotes": 12,
+    "upvotes": 13,
     "comments": 12
   },
   {
@@ -3581,20 +3595,6 @@
     "summary": "Hi all!\nI’d like to share my Google interview experience in case it helps someone who’s currently preparing or going through a similar phase.\n🔹 Quick Background\nI have around 4 years of experience, primarily as a Frontend Developer working with the R",
     "url": "https://leetcode.com/discuss/post/6934898/google-sde-3-interview-experience-by-ojj-bdsm",
     "upvotes": 19,
-    "comments": 5
-  },
-  {
-    "id": 6927848,
-    "date": "2025-07-06T14:26:36.848167+00:00",
-    "company": "Google",
-    "role": "N/A",
-    "yoe": null,
-    "outcome": "reject",
-    "rounds": 4,
-    "title": "Google | Interview Experience onsite | Rejected",
-    "summary": "Recruiter reached out over Linkedin.No AssesmentRound 1:\nScreening RoundQ1: Graph find shortest path\nQ2: Follow up with obstacles addedVerdict: PassedRound 2:\nDSAQ1: Build movie recommendation with given movie graph\nhaving name and rating return list",
-    "url": "https://leetcode.com/discuss/post/6927848/google-interview-experience-onsite-rejec-cni7",
-    "upvotes": 1,
     "comments": 5
   }
 ]
