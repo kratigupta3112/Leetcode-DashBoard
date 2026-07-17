@@ -1408,25 +1408,5 @@
     "yoe": 2.4,
     "base": 3.0,
     "total": 18.5
-  },
-  {
-    "id": 7692689,
-    "date": "2026-03-25T14:57:46.673868+00:00",
-    "location": "",
-    "company": "Microsoft Compensation SDE II -",
-    "role": "L61",
-    "yoe": null,
-    "base": 29.0,
-    "total": 24.0
-  },
-  {
-    "id": 7692439,
-    "date": "2026-03-25T13:46:17.909946+00:00",
-    "location": "Hyderabad",
-    "company": "Linkedin SWE Vs Amazon",
-    "role": "SDE2",
-    "yoe": 4.7,
-    "base": 2.0,
-    "total": 40.0
   }
 ]
