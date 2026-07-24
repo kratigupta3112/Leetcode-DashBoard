@@ -1,5 +1,19 @@
 [
   {
+    "id": 8416721,
+    "date": "2026-07-24T08:39:44.765860+00:00",
+    "company": "Sap Star Program",
+    "role": "Full Stack",
+    "yoe": null,
+    "outcome": "reject",
+    "rounds": 2,
+    "title": "SAP STAR Program | Interview Experience | Technical & HR | On-Campus | Result: Rejected",
+    "summary": "Background:\nEducation: Pre-final year B.Tech CSE, Indian Institute of Information Technology (IIIT) Bhagalpur\nRole: SAP STAR Program\nPrior Experience: Training and Placement Coordinator, Active Hackathon Participant.\nCore Expertise: Full Stack (MERN)",
+    "url": "https://leetcode.com/discuss/post/8416721/sap-star-program-interview-experience-te-4j44",
+    "upvotes": 2,
+    "comments": 1
+  },
+  {
     "id": 8410024,
     "date": "2026-07-20T20:00:57.297116+00:00",
     "company": "Amber Asde",
@@ -3610,19 +3624,5 @@
     "url": "https://leetcode.com/discuss/post/6939881/paypal-interview-experience-jan-2025-ful-p8ey",
     "upvotes": 1,
     "comments": 2
-  },
-  {
-    "id": 6939698,
-    "date": "2025-07-09T15:42:21.424024+00:00",
-    "company": "Amazon",
-    "role": "N/A",
-    "yoe": null,
-    "outcome": "unknown",
-    "rounds": null,
-    "title": "Amazon Interview Experience",
-    "summary": "I interviewed with Amazon on 1st July and the interview went well. But I haven't heard back from them since then. I am a little anxious now. Can anyone help me with the email id on which I can contact or should I wait for some more time.",
-    "url": "https://leetcode.com/discuss/post/6939698/amazon-interview-experience-by-anonymous-466y",
-    "upvotes": 1,
-    "comments": 5
   }
 ]
