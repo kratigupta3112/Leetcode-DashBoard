@@ -1,5 +1,15 @@
 [
   {
+    "id": 8419542,
+    "date": "2026-07-25T15:01:28.994612+00:00",
+    "location": "Hyderabad, India",
+    "company": "Amazon",
+    "role": "Software Development Engineer Ii (Sde Ii, L5)",
+    "yoe": 3.0,
+    "base": 43.0,
+    "total": 43.0
+  },
+  {
     "id": 8417779,
     "date": "2026-07-24T18:54:17.810107+00:00",
     "location": "Bengaluru",
@@ -118,6 +128,16 @@
     "yoe": 4.0,
     "base": 4.0,
     "total": 4.0
+  },
+  {
+    "id": 8394189,
+    "date": "2026-07-13T09:26:28.310129+00:00",
+    "location": "Bengaluru",
+    "company": "Zomato",
+    "role": "Backend",
+    "yoe": 3.0,
+    "base": 38.0,
+    "total": 38.0
   },
   {
     "id": 8389503,
