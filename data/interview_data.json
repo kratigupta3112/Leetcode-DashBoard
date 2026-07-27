@@ -1,5 +1,19 @@
 [
   {
+    "id": 8423592,
+    "date": "2026-07-27T10:27:02.149072+00:00",
+    "company": "Spotnana",
+    "role": "SDE2",
+    "yoe": null,
+    "outcome": "unknown",
+    "rounds": 2,
+    "title": "Spotnana | SDE2 | Bengaluru | Interview Experience",
+    "summary": "I wanted to share my interview experience with Spotnana for the SDE2 role based out of Bengaluru.The process moved fairly quickly and consisted of three eliminatory rounds (two Technical/DSA rounds and one Hiring Manager round). Here's a detailed bre",
+    "url": "https://leetcode.com/discuss/post/8423592/spotnana-sde2-bengaluru-interview-experi-md3d",
+    "upvotes": 1,
+    "comments": 1
+  },
+  {
     "id": 8416721,
     "date": "2026-07-24T08:39:44.765860+00:00",
     "company": "Sap Star Program",
@@ -3610,19 +3624,5 @@
     "url": "https://leetcode.com/discuss/post/6940082/viduyttech-interview-experience-sde-2-ju-oftg",
     "upvotes": 1,
     "comments": 0
-  },
-  {
-    "id": 6939881,
-    "date": "2025-07-09T16:29:13.941232+00:00",
-    "company": "Paypal",
-    "role": "FullStack",
-    "yoe": null,
-    "outcome": "reject",
-    "rounds": null,
-    "title": "PayPal Interview Experience | Jan 2025 | FullStack Developer",
-    "summary": "Hello Everyone,I got reached out by recruiter via Naukri then she called me asking about basic details salary expectation, notice period , experience etc.TOE - 2.5 yrs1st Round(OA) - HackerRankTotal Duration : 105 mins\nNo. of questions : 11\nThere wer",
-    "url": "https://leetcode.com/discuss/post/6939881/paypal-interview-experience-jan-2025-ful-p8ey",
-    "upvotes": 1,
-    "comments": 2
   }
 ]
