@@ -1,5 +1,19 @@
 [
   {
+    "id": 8426628,
+    "date": "2026-07-28T16:09:58.921863+00:00",
+    "company": "[Urgent] Salesforce Smts Interview Process",
+    "role": "N/A",
+    "yoe": null,
+    "outcome": "unknown",
+    "rounds": null,
+    "title": "[URGENT] Salesforce SMTS Interview Process - Is There an HLD Round?",
+    "summary": "Hi everyone,I wanted to understand what I should prepare for the Salesforce SMTS interview process.From reading previous posts, my understanding is that the interview flow is:Online Assessment (OA)\nDSA/Coding Round\nLow-Level Design (LLD)\nManagerial R",
+    "url": "https://leetcode.com/discuss/post/8426628/urgent-salesforce-smts-interview-process-b0jh",
+    "upvotes": 1,
+    "comments": 0
+  },
+  {
     "id": 8423592,
     "date": "2026-07-27T10:27:02.149072+00:00",
     "company": "Spotnana",
@@ -3596,33 +3610,5 @@
     "url": "https://leetcode.com/discuss/post/6944015/oracle-interview-experience-march-2025-j-5aiv",
     "upvotes": 1,
     "comments": 4
-  },
-  {
-    "id": 6943130,
-    "date": "2025-07-10T13:47:06.029402+00:00",
-    "company": "💥Adobe",
-    "role": "N/A",
-    "yoe": null,
-    "outcome": "reject",
-    "rounds": 2,
-    "title": "💥Adobe Interview Experience | CS-1| Noida | ❌Rejection Wasn’t the Worst Part — 🤡The Process Was.",
-    "summary": "Some interview experiences help you grow. Others help you develop patience. This one helped me question reality.It began like any other opportunity — a call from HR for the Computer Scientist 1 role. She outlined a standard process: 4–5 technical rou",
-    "url": "https://leetcode.com/discuss/post/6943130/adobe-cs-1-noida-rejection-wasnt-the-wor-cf08",
-    "upvotes": 12,
-    "comments": 3
-  },
-  {
-    "id": 6940082,
-    "date": "2025-07-09T17:19:05.202462+00:00",
-    "company": "Viduyttech",
-    "role": "SDE",
-    "yoe": null,
-    "outcome": "reject",
-    "rounds": null,
-    "title": "Viduyttech Interview Experience | SDE-2 | June 2025",
-    "summary": "Recruiter reached out to me via Naukri.1st Round - DSA RoundIt was an easy round according to me.\nHe asked Non-Repeating subarray question. Then make stack using queue, then there was one more question I forgot.But it was easy.2nd Round - Low Level D",
-    "url": "https://leetcode.com/discuss/post/6940082/viduyttech-interview-experience-sde-2-ju-oftg",
-    "upvotes": 1,
-    "comments": 0
   }
 ]
