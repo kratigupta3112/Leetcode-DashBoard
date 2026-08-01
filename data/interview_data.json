@@ -1,5 +1,19 @@
 [
   {
+    "id": 8435114,
+    "date": "2026-08-01T16:45:27.363318+00:00",
+    "company": "The Most Unusual Coding Interview I'Ve Faced",
+    "role": "L3",
+    "yoe": null,
+    "outcome": "unknown",
+    "rounds": null,
+    "title": "The Most Unusual Coding Interview I've Faced – HackWithInfy SP L3 - 21 LPA",
+    "summary": "Hey LC Community, I recently appeared for the Infosys HackWithInfy SP L3 interview.About Me:2027 Batch – CSE Student\nCollege - Tier 3\nInterview Role – Specialist Programmer L3 (21 LPA)I recently went through the HackWithInfy hiring process, so I thou",
+    "url": "https://leetcode.com/discuss/post/8435114/the-most-unusual-coding-interview-ive-fa-allm",
+    "upvotes": 1,
+    "comments": 1
+  },
+  {
     "id": 8433973,
     "date": "2026-08-01T06:02:33.610457+00:00",
     "company": "Wayfair Software Engineer Ii",
@@ -24,7 +38,7 @@
     "title": "Free resources for recent OA (online assessment) questions for IITs and NITs ",
     "summary": "Hey everyone!I'm from one of the top 7 IITs, and my internship session is almost coming to an end. By God's grace, I also secured an internship at a top MNC.During my internship, my friends and I came across a community called Codinzhub, where studen",
     "url": "https://leetcode.com/discuss/post/8433196/free-resources-for-recent-oa-online-asse-3pma",
-    "upvotes": 3,
+    "upvotes": 4,
     "comments": 0
   },
   {
@@ -3624,19 +3638,5 @@
     "url": "https://leetcode.com/discuss/post/6948163/mindtickle-sde-1-dsa-interview-round-by-0puyn",
     "upvotes": 3,
     "comments": 0
-  },
-  {
-    "id": 6946281,
-    "date": "2025-07-11T11:03:31.735837+00:00",
-    "company": "Angular",
-    "role": "N/A",
-    "yoe": 3.0,
-    "outcome": "reject",
-    "rounds": null,
-    "title": "Angular Frontend Interview Experience (1–3 YOE)",
-    "summary": "🔹 Interview Experience: Frontend Developer (Angular) – Loyalty Juggernaut🅰️ Angular Questions\nThe interviewer evaluated core Angular knowledge with real-world examples. Topics included:\n\nDirectives: Difference between Structural and Attribute directi",
-    "url": "https://leetcode.com/discuss/post/6946281/angular-frontend-interview-experience-1-0x4zs",
-    "upvotes": 3,
-    "comments": 2
   }
 ]
