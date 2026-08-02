@@ -1,5 +1,15 @@
 [
   {
+    "id": 8436493,
+    "date": "2026-08-02T09:23:17.285437+00:00",
+    "location": "Bengaluru",
+    "company": "Cisco",
+    "role": "N/A",
+    "yoe": null,
+    "base": 21.0,
+    "total": 51.0
+  },
+  {
     "id": 8435114,
     "date": "2026-08-01T16:45:27.363318+00:00",
     "location": "",
@@ -1468,5 +1478,15 @@
     "yoe": null,
     "base": 43.0,
     "total": 43.0
+  },
+  {
+    "id": 7754949,
+    "date": "2026-04-02T16:34:10.374018+00:00",
+    "location": "",
+    "company": "Amazon",
+    "role": "L5",
+    "yoe": null,
+    "base": 5.0,
+    "total": 40.0
   }
 ]
