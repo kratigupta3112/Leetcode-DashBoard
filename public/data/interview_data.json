@@ -42,20 +42,6 @@
     "comments": 1
   },
   {
-    "id": 8433196,
-    "date": "2026-07-31T17:16:35.573633+00:00",
-    "company": "Free Resources For Recent Oa (Online Assessment)",
-    "role": "N/A",
-    "yoe": null,
-    "outcome": "unknown",
-    "rounds": null,
-    "title": "Free resources for recent OA (online assessment) questions for IITs and NITs ",
-    "summary": "Hey everyone!I'm from one of the top 7 IITs, and my internship session is almost coming to an end. By God's grace, I also secured an internship at a top MNC.During my internship, my friends and I came across a community called Codinzhub, where studen",
-    "url": "https://leetcode.com/discuss/post/8433196/free-resources-for-recent-oa-online-asse-3pma",
-    "upvotes": 4,
-    "comments": 0
-  },
-  {
     "id": 8427722,
     "date": "2026-07-29T06:47:39.008745+00:00",
     "company": "Goldman Sachs",
@@ -3638,5 +3624,19 @@
     "url": "https://leetcode.com/discuss/post/6948180/okta-sde-2-frontend-interview-experience-ex20",
     "upvotes": 15,
     "comments": 2
+  },
+  {
+    "id": 6948163,
+    "date": "2025-07-12T02:56:18.675436+00:00",
+    "company": "Mindtickle",
+    "role": "SDE",
+    "yoe": null,
+    "outcome": "unknown",
+    "rounds": null,
+    "title": "Mindtickle SDE-1 | DSA Interview Round",
+    "summary": "💼 Mindtickle SDE-1 | DSA Interview RoundThis round involved two algorithmic questions designed to assess problem-solving skills, understanding of data structures, and the ability to optimize for time and space complexity.🧗 Problem 1: Farthest Reachab",
+    "url": "https://leetcode.com/discuss/post/6948163/mindtickle-sde-1-dsa-interview-round-by-0puyn",
+    "upvotes": 3,
+    "comments": 0
   }
 ]
