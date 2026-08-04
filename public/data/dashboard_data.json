@@ -1,5 +1,15 @@
 [
   {
+    "id": 8441150,
+    "date": "2026-08-04T16:28:17.023451+00:00",
+    "location": "",
+    "company": "Jiostar",
+    "role": "SSE",
+    "yoe": 4.0,
+    "base": 4.0,
+    "total": 30.0
+  },
+  {
     "id": 8435114,
     "date": "2026-08-01T16:45:27.363318+00:00",
     "location": "",
@@ -1468,15 +1478,5 @@
     "yoe": null,
     "base": 5.0,
     "total": 40.0
-  },
-  {
-    "id": 7748592,
-    "date": "2026-04-02T08:45:08.499250+00:00",
-    "location": "Gurugram, India",
-    "company": "Sprinklr",
-    "role": "Sde-I → Sde-Ii → Senior Sde → Lead Sde",
-    "yoe": 4.0,
-    "base": 4.0,
-    "total": 3.0
   }
 ]
