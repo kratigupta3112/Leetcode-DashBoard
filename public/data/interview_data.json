@@ -1,5 +1,19 @@
 [
   {
+    "id": 8439839,
+    "date": "2026-08-04T05:33:25.723089+00:00",
+    "company": "Google Swe Intern Interview Experience (Round 1)",
+    "role": "N/A",
+    "yoe": null,
+    "outcome": "unknown",
+    "rounds": 1,
+    "title": "Google SWE Intern Interview Experience (Round 1) – Tree DP + AI Fluency",
+    "summary": "Had my Round 1 interview for the Google SWE Intern position today, so I thought I'd share my experience in case it helps others preparing.The interview lasted around 1 hour and consisted of one coding problem with a follow-up, followed by a few AI fl",
+    "url": "https://leetcode.com/discuss/post/8439839/google-swe-intern-interview-experience-r-vi40",
+    "upvotes": 6,
+    "comments": 1
+  },
+  {
     "id": 8436269,
     "date": "2026-08-02T07:28:07.712364+00:00",
     "company": "Media.Net Sre Interview Experience (Bangalore)",
@@ -346,7 +360,7 @@
     "title": "Wells Fargo || Senior Software Engineer || Selected",
     "summary": "YOE: 4.5Recently i appeared for wells fargo senior software engineer role. I applied through their career portal.\nThere were total of three interview rounds for me.First or OA round:\n90 mins hackerrank round covering java springboot backend developme",
     "url": "https://leetcode.com/discuss/post/8331139/wells-fargo-senior-software-engineer-sel-ghef",
-    "upvotes": 7,
+    "upvotes": 8,
     "comments": 2
   },
   {
@@ -3610,33 +3624,5 @@
     "url": "https://leetcode.com/discuss/post/6951560/nutanix-interview-experience-mts-1-devex-qany",
     "upvotes": 2,
     "comments": 3
-  },
-  {
-    "id": 6948180,
-    "date": "2025-07-12T03:06:43.425196+00:00",
-    "company": "Okta",
-    "role": "SDE",
-    "yoe": null,
-    "outcome": "reject",
-    "rounds": 2,
-    "title": "Okta SDE-2 || Frontend Interview Experience || Rejected",
-    "summary": "🧑‍💻 Okta SDE-2 Frontend Interview Experience (React + JavaScript + System Design)❌ Status: Rejected\n🎯 Role: Software Development Engineer 2 – Frontend\n🗓️ Interview Mode: Online (Coding + Discussion)🟢 Round 1: React + JavaScript Deep Dive🔧 React Probl",
-    "url": "https://leetcode.com/discuss/post/6948180/okta-sde-2-frontend-interview-experience-ex20",
-    "upvotes": 15,
-    "comments": 2
-  },
-  {
-    "id": 6948163,
-    "date": "2025-07-12T02:56:18.675436+00:00",
-    "company": "Mindtickle",
-    "role": "SDE",
-    "yoe": null,
-    "outcome": "unknown",
-    "rounds": null,
-    "title": "Mindtickle SDE-1 | DSA Interview Round",
-    "summary": "💼 Mindtickle SDE-1 | DSA Interview RoundThis round involved two algorithmic questions designed to assess problem-solving skills, understanding of data structures, and the ability to optimize for time and space complexity.🧗 Problem 1: Farthest Reachab",
-    "url": "https://leetcode.com/discuss/post/6948163/mindtickle-sde-1-dsa-interview-round-by-0puyn",
-    "upvotes": 3,
-    "comments": 0
   }
 ]
