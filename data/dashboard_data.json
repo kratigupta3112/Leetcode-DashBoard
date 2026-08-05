@@ -1,13 +1,23 @@
 [
   {
-    "id": 8441150,
-    "date": "2026-08-04T16:28:17.023451+00:00",
+    "id": 8442577,
+    "date": "2026-08-05T10:45:11.785057+00:00",
     "location": "",
-    "company": "Jiostar",
-    "role": "SSE",
-    "yoe": 4.0,
-    "base": 4.0,
-    "total": 30.0
+    "company": "Microsoft",
+    "role": "L61",
+    "yoe": null,
+    "base": 61.0,
+    "total": 62.0
+  },
+  {
+    "id": 8442405,
+    "date": "2026-08-05T08:46:34.017239+00:00",
+    "location": "Bangalore, India",
+    "company": "Mid Scale Startup",
+    "role": "L4",
+    "yoe": 3.1,
+    "base": 23.0,
+    "total": 24.6
   },
   {
     "id": 8435114,
