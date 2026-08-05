@@ -70,20 +70,6 @@
     "comments": 1
   },
   {
-    "id": 8427722,
-    "date": "2026-07-29T06:47:39.008745+00:00",
-    "company": "Goldman Sachs",
-    "role": "Software Engineer (Java",
-    "yoe": null,
-    "outcome": "unknown",
-    "rounds": 2,
-    "title": "Goldman Sachs | VP | 2026 | Banglore ",
-    "summary": "Thought I'd share my recent Goldman Sachs interview experience in case it helps someone preparing.Background8+ YOE\nSenior Software Engineer (Java, Spring Boot, Distributed Systems, AWS)Interview ProcessOnline Assessment (HackerRank)Binary Search prob",
-    "url": "https://leetcode.com/discuss/post/8427722/goldman-sachs-vp-2026-banglore-by-code_w-lb4x",
-    "upvotes": 7,
-    "comments": 2
-  },
-  {
     "id": 8426628,
     "date": "2026-07-28T16:09:58.921863+00:00",
     "company": "[Urgent] Salesforce Smts Interview Process",
@@ -333,7 +319,7 @@
     "summary": "From Online Assessment to Offer\nI recently completed the Amazon interview process for an SDE role and wanted to share my experience. Hopefully, this helps others preparing for Amazon interviews.\nTimeline\nNovember: Completed the Online Assessment (OA)",
     "url": "https://leetcode.com/discuss/post/8351419/amazon-sde-2-interview-experience-by-ano-b2rm",
     "upvotes": 4,
-    "comments": 6
+    "comments": 7
   },
   {
     "id": 8349868,

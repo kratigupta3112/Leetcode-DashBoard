@@ -1,5 +1,25 @@
 [
   {
+    "id": 8443025,
+    "date": "2026-08-05T15:43:01.124917+00:00",
+    "location": "",
+    "company": "Uk-based Product Company (laid Off In March Due To Restructuring)",
+    "role": "N/A",
+    "yoe": 8.0,
+    "base": 111.0,
+    "total": 111.0
+  },
+  {
+    "id": 8443004,
+    "date": "2026-08-05T15:32:44.968539+00:00",
+    "location": "Bengaluru",
+    "company": "Wells Fargo",
+    "role": "N/A",
+    "yoe": 11.0,
+    "base": 40.0,
+    "total": 40.0
+  },
+  {
     "id": 8442577,
     "date": "2026-08-05T10:45:11.785057+00:00",
     "location": "",
@@ -63,11 +83,11 @@
     "id": 8432436,
     "date": "2026-07-31T09:31:57.029896+00:00",
     "location": "Bengaluru",
-    "company": "Albertsons Companies India",
+    "company": "Albertsons Companies",
     "role": "N/A",
     "yoe": 11.0,
-    "base": 3.0,
-    "total": 11.0
+    "base": 40.0,
+    "total": 40.0
   },
   {
     "id": 8427819,
@@ -1478,15 +1498,5 @@
     "yoe": null,
     "base": 43.0,
     "total": 43.0
-  },
-  {
-    "id": 7754949,
-    "date": "2026-04-02T16:34:10.374018+00:00",
-    "location": "",
-    "company": "Amazon",
-    "role": "L5",
-    "yoe": null,
-    "base": 5.0,
-    "total": 40.0
   }
 ]
