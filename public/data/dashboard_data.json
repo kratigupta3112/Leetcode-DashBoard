@@ -10,16 +10,6 @@
     "total": 1.0
   },
   {
-    "id": 8443025,
-    "date": "2026-08-05T15:43:01.124917+00:00",
-    "location": "",
-    "company": "Uk-based Product Company (laid Off In March Due To Restructuring)",
-    "role": "N/A",
-    "yoe": 8.0,
-    "base": 111.0,
-    "total": 111.0
-  },
-  {
     "id": 8443004,
     "date": "2026-08-05T15:32:44.968539+00:00",
     "location": "Bengaluru",
@@ -1478,15 +1468,5 @@
     "yoe": null,
     "base": 49.0,
     "total": 49.0
-  },
-  {
-    "id": 7770540,
-    "date": "2026-04-03T21:24:11.353793+00:00",
-    "location": "Hyderabad",
-    "company": "Microsoft",
-    "role": "L62",
-    "yoe": null,
-    "base": 42.0,
-    "total": 42.0
   }
 ]
