@@ -1478,15 +1478,5 @@
     "yoe": null,
     "base": 42.0,
     "total": 42.0
-  },
-  {
-    "id": 7766903,
-    "date": "2026-04-03T14:30:03.666317+00:00",
-    "location": "Bangalore, India",
-    "company": "Salesforce",
-    "role": "Bangalore",
-    "yoe": 7.5,
-    "base": 53.0,
-    "total": 53.0
   }
 ]
