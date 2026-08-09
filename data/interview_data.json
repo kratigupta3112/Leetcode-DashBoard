@@ -1,5 +1,19 @@
 [
   {
+    "id": 8451287,
+    "date": "2026-08-09T17:13:50.741198+00:00",
+    "company": "Concentric Ai Oa 2026",
+    "role": "N/A",
+    "yoe": null,
+    "outcome": "unknown",
+    "rounds": null,
+    "title": "Concentric AI OA 2026 | 3 Questions | LC 1051 + Weighted Median + Bitwise OR DP",
+    "summary": "Concentric AI OA 2026 | 3 Coding Questions | Easy, Medium, HardRecently I gave the Concentric AI Online Assessment, which had 3 coding questions of increasing difficulty.Q1. Students Not in Correct Position — EasyAn array representing students' heigh",
+    "url": "https://leetcode.com/discuss/post/8451287/concentric-ai-oa-2026-3-questions-lc-105-dyt2",
+    "upvotes": 2,
+    "comments": 2
+  },
+  {
     "id": 8441416,
     "date": "2026-08-04T17:56:24.222806+00:00",
     "company": "🚀 Hackwithinfy 2026",
@@ -3596,19 +3610,5 @@
     "url": "https://leetcode.com/discuss/post/6956468/blackduck-interview-experience-sde-2-jun-5l1b",
     "upvotes": 2,
     "comments": 1
-  },
-  {
-    "id": 6954860,
-    "date": "2025-07-13T19:59:14.189128+00:00",
-    "company": "Target",
-    "role": "Software Engineer Role (Location: Bangalore",
-    "yoe": 2.0,
-    "outcome": "reject",
-    "rounds": 4,
-    "title": " Target Interview Experience – Software Engineer Role (Location: Bangalore, Year: 2025)",
-    "summary": "👨‍💻 Background\nCollege: Tier 2\nGraduation Year: 2023\nExperience: 2 years in software development\nCurrent Company: Société Générale\nTech Stack: Java, Spring Boot, Microservices, SQL, Unix, etc.\n📅 Interview Timeline\nApplied Via: Referral\nResponse Time:",
-    "url": "https://leetcode.com/discuss/post/6954860/target-interview-experience-software-eng-qlo6",
-    "upvotes": 7,
-    "comments": 2
   }
 ]
