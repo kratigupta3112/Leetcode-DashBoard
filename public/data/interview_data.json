@@ -103,10 +103,10 @@
     "company": "Spotnana",
     "role": "SDE2",
     "yoe": null,
-    "outcome": "unknown",
+    "outcome": "reject",
     "rounds": 2,
-    "title": "Spotnana | SDE2 | Bengaluru | Interview Experience",
-    "summary": "I wanted to share my interview experience with Spotnana for the SDE2 role based out of Bengaluru.The process moved fairly quickly and consisted of three eliminatory rounds (two Technical/DSA rounds and one Hiring Manager round). Here's a detailed bre",
+    "title": "Spotnana | SDE2 | Bengaluru | Interview Experience | Rejected",
+    "summary": "I wanted to share my interview experience with Spotnana for the SDE2 role based out of Bengaluru.Round 1: DSA & Problem Solving (HackerRank, 60 mins)Problem 1You are given an integer array flights, where flights[i] represents the duration of the ith",
     "url": "https://leetcode.com/discuss/post/8423592/spotnana-sde2-bengaluru-interview-experi-md3d",
     "upvotes": 1,
     "comments": 2
@@ -3596,19 +3596,5 @@
     "url": "https://leetcode.com/discuss/post/6956532/wissen-technology-sde2-face-to-face-inte-jtts",
     "upvotes": 2,
     "comments": 0
-  },
-  {
-    "id": 6956468,
-    "date": "2025-07-14T07:23:37.218289+00:00",
-    "company": "Blackduck",
-    "role": "SDE",
-    "yoe": null,
-    "outcome": "unknown",
-    "rounds": null,
-    "title": "BlackDuck Interview Experience | SDE-2 | June 2025 | F2F Interview",
-    "summary": "Hi,\nRecruiter posted about the F2F interview on her linkedIn. I mailed showing the interest to join this.1st Round - OAThis test was in the office on their laptop it was a hackerRank test. Few questions were MCQ based on Java, OOPS, there were 2 codi",
-    "url": "https://leetcode.com/discuss/post/6956468/blackduck-interview-experience-sde-2-jun-5l1b",
-    "upvotes": 2,
-    "comments": 1
   }
 ]
