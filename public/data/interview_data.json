@@ -1,5 +1,19 @@
 [
   {
+    "id": 8455829,
+    "date": "2026-08-12T03:09:21.502227+00:00",
+    "company": "Flipkart",
+    "role": "SDE",
+    "yoe": 2.5,
+    "outcome": "offer",
+    "rounds": 5,
+    "title": "Flipkart SDE-2 Interview Experience (Jan 2026) | Offline Drive | Selected",
+    "summary": "Background2.5 years of experience (non-internship) at Amadeus Software Labs.Applied for the Flipkart SDE-2 role in the first week of January. Got a call from HR shortly after, followed by an assessment link the next day.Round 1 — Online Assessment (2",
+    "url": "https://leetcode.com/discuss/post/8455829/flipkart-sde-2-interview-experience-jan-o8ngx",
+    "upvotes": 7,
+    "comments": 7
+  },
+  {
     "id": 8451287,
     "date": "2026-08-09T17:13:50.741198+00:00",
     "company": "Concentric Ai Oa 2026",
@@ -3049,7 +3063,7 @@
     "summary": "My Interview Experience at TennrRound 1 – Assessment Round\nI received a take-home assessment that needed to be completed within approximately 48 hours.\nRound 2 – Technical Interview (DSA | ~1 Hour)\nThis round focused on Data Structures and Algorithms",
     "url": "https://leetcode.com/discuss/post/7116020/tennr-implementation-engineer-interview-lc2yj",
     "upvotes": 9,
-    "comments": 5
+    "comments": 6
   },
   {
     "id": 7113665,
@@ -3582,19 +3596,5 @@
     "url": "https://leetcode.com/discuss/post/6964814/maq-software-interview-experience-f2f-in-0itl",
     "upvotes": 2,
     "comments": 1
-  },
-  {
-    "id": 6956532,
-    "date": "2025-07-14T07:37:46.966251+00:00",
-    "company": "Wissen Technology",
-    "role": "SDE2",
-    "yoe": null,
-    "outcome": "reject",
-    "rounds": null,
-    "title": "Wissen Technology | SDE2 | Face-to-Face Interview Experience",
-    "summary": "It was a Face-to-Face drive I got a call from Wissen asking with all the details on currect CTC, expected CTC etc.Then I got an invitation from recruiter to come Face-to-Face for the interview.1st Round - OAThey had some laptops where candidates can",
-    "url": "https://leetcode.com/discuss/post/6956532/wissen-technology-sde2-face-to-face-inte-jtts",
-    "upvotes": 2,
-    "comments": 0
   }
 ]
