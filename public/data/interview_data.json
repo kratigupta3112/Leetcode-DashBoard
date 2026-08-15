@@ -2534,20 +2534,6 @@
     "comments": 3
   },
   {
-    "id": 7271086,
-    "date": "2025-10-13T06:50:54.573258+00:00",
-    "company": "Amazon",
-    "role": "SDE",
-    "yoe": null,
-    "outcome": "unknown",
-    "rounds": null,
-    "title": "Amazon SDE-1 Internship Experience",
-    "summary": "Hi Everyone,I recently interviewed for the Amazon SDE-1 Internship (Jan–July 2025) — Job ID: 3057743, and I wanted to share my experience and get some thoughts.My Interview Experience (Sep 25, 2025)The interview began with the interviewer introducing",
-    "url": "https://leetcode.com/discuss/post/7271086/amazon-sde-1-internship-waitlist-experie-c9ao",
-    "upvotes": 3,
-    "comments": 2
-  },
-  {
     "id": 7269603,
     "date": "2025-10-12T15:06:44.297897+00:00",
     "company": "Expedia Ml Scientist Iii Interview Experience (S",
@@ -3554,5 +3540,19 @@
     "url": "https://leetcode.com/discuss/post/6971823/reject-oracle-interview-mts-2-15-years-e-zcq2",
     "upvotes": 2,
     "comments": 1
+  },
+  {
+    "id": 6969842,
+    "date": "2025-07-17T08:40:12.274188+00:00",
+    "company": "Tekion",
+    "role": "SSE",
+    "yoe": 8.0,
+    "outcome": "unknown",
+    "rounds": 4,
+    "title": "Tekion SSE Interview experience",
+    "summary": "Total 4 rounds, held online1)DSA\n2)LLD\n3)HLD\n3)Hiring ManagerialRound 1\nCount sub-sequences having sum of their elements equal to K\nInput: arr[] = {5, 5, 1}, K = 6\nOutput: 2\nInput: arr[] = {3, 2, 5, 1, 2, 4}, K = 5\nOutput: 5 | Explaination [3,2], [5]",
+    "url": "https://leetcode.com/discuss/post/6969842/tekion-sse-interview-experience-by-parid-s3xf",
+    "upvotes": 5,
+    "comments": 3
   }
 ]
