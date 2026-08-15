@@ -3554,47 +3554,5 @@
     "url": "https://leetcode.com/discuss/post/6971823/reject-oracle-interview-mts-2-15-years-e-zcq2",
     "upvotes": 2,
     "comments": 1
-  },
-  {
-    "id": 6969842,
-    "date": "2025-07-17T08:40:12.274188+00:00",
-    "company": "Tekion",
-    "role": "SSE",
-    "yoe": 8.0,
-    "outcome": "unknown",
-    "rounds": 4,
-    "title": "Tekion SSE Interview experience",
-    "summary": "Total 4 rounds, held online1)DSA\n2)LLD\n3)HLD\n3)Hiring ManagerialRound 1\nCount sub-sequences having sum of their elements equal to K\nInput: arr[] = {5, 5, 1}, K = 6\nOutput: 2\nInput: arr[] = {3, 2, 5, 1, 2, 4}, K = 5\nOutput: 5 | Explaination [3,2], [5]",
-    "url": "https://leetcode.com/discuss/post/6969842/tekion-sse-interview-experience-by-parid-s3xf",
-    "upvotes": 5,
-    "comments": 3
-  },
-  {
-    "id": 6964858,
-    "date": "2025-07-16T04:53:05.191907+00:00",
-    "company": "Kpmg",
-    "role": "SDE2",
-    "yoe": null,
-    "outcome": "reject",
-    "rounds": 3,
-    "title": "KPMG | SDE2 | March 2025",
-    "summary": "I was reached out by recruiter through Naukri. They have sent one OA test which needs to be completed within the timeline.Round 1 - OA\nThere were a lot of questions and difficulty was also high according to what they were offering. Anyways I was able",
-    "url": "https://leetcode.com/discuss/post/6964858/kpmg-sde2-march-2025-by-anonymous_user-y3vv",
-    "upvotes": 2,
-    "comments": 0
-  },
-  {
-    "id": 6964814,
-    "date": "2025-07-16T04:43:23.518328+00:00",
-    "company": "Maq Software",
-    "role": "N/A",
-    "yoe": null,
-    "outcome": "unknown",
-    "rounds": 2,
-    "title": "MAQ Software Interview Experience | F2F Interview | 12 July 2025",
-    "summary": "There was a form floating around LinkedIn so I registered on the form. After few days I got invite on my mail for this to be held in Hyderabad,Noida, Mumbai location.I chose Hyderabad.Round 1 - Technical RoundQ1. Write a code to check whether this is",
-    "url": "https://leetcode.com/discuss/post/6964814/maq-software-interview-experience-f2f-in-0itl",
-    "upvotes": 2,
-    "comments": 1
   }
 ]
