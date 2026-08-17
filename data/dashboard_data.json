@@ -40,16 +40,6 @@
     "total": 2.0
   },
   {
-    "id": 8457353,
-    "date": "2026-08-12T17:37:49.556838+00:00",
-    "location": "",
-    "company": "Top PBC",
-    "role": "L62",
-    "yoe": 5.0,
-    "base": 38.0,
-    "total": 66.0
-  },
-  {
     "id": 8457320,
     "date": "2026-08-12T17:25:12.027801+00:00",
     "location": "",
@@ -1488,5 +1478,25 @@
     "yoe": null,
     "base": 23.0,
     "total": 23.0
+  },
+  {
+    "id": 7845735,
+    "date": "2026-04-09T15:17:04.301802+00:00",
+    "location": "",
+    "company": "Both Are",
+    "role": "SDE2",
+    "yoe": null,
+    "base": 23.0,
+    "total": 2.8
+  },
+  {
+    "id": 7840961,
+    "date": "2026-04-09T10:29:50.798055+00:00",
+    "location": "Hyderabad",
+    "company": "SMTS",
+    "role": "- Smts In Well Known Giant Product Company",
+    "yoe": 9.0,
+    "base": 3.0,
+    "total": 6.0
   }
 ]
