@@ -1,5 +1,19 @@
 [
   {
+    "id": 8466893,
+    "date": "2026-08-17T18:52:15.629877+00:00",
+    "company": "[Interview Experience] The Hardest Graph/Dp Prob",
+    "role": "Software Engineering role and got hit with what",
+    "yoe": null,
+    "outcome": "unknown",
+    "rounds": null,
+    "title": "[Interview Experience] The Hardest Graph/DP Problem I Was Ever Asked (Quant / SWE)",
+    "summary": "Hey LeetCode community,I recently had a technical interview for a Software Engineering role and got hit with what genuinely feels like one of the hardest problems I've encountered so far. I wanted to share it here to see how you all would approach it",
+    "url": "https://leetcode.com/discuss/post/8466893/interview-experience-the-hardest-graphdp-31vl",
+    "upvotes": 2,
+    "comments": 2
+  },
+  {
     "id": 8455829,
     "date": "2026-08-12T03:09:21.502227+00:00",
     "company": "Flipkart",
@@ -3540,19 +3554,5 @@
     "url": "https://leetcode.com/discuss/post/6971823/reject-oracle-interview-mts-2-15-years-e-zcq2",
     "upvotes": 2,
     "comments": 1
-  },
-  {
-    "id": 6969842,
-    "date": "2025-07-17T08:40:12.274188+00:00",
-    "company": "Tekion",
-    "role": "SSE",
-    "yoe": 8.0,
-    "outcome": "unknown",
-    "rounds": 4,
-    "title": "Tekion SSE Interview experience",
-    "summary": "Total 4 rounds, held online1)DSA\n2)LLD\n3)HLD\n3)Hiring ManagerialRound 1\nCount sub-sequences having sum of their elements equal to K\nInput: arr[] = {5, 5, 1}, K = 6\nOutput: 2\nInput: arr[] = {3, 2, 5, 1, 2, 4}, K = 5\nOutput: 5 | Explaination [3,2], [5]",
-    "url": "https://leetcode.com/discuss/post/6969842/tekion-sse-interview-experience-by-parid-s3xf",
-    "upvotes": 5,
-    "comments": 3
   }
 ]
