@@ -1,5 +1,33 @@
 [
   {
+    "id": 8469882,
+    "date": "2026-08-19T09:23:16.671469+00:00",
+    "company": "Goldman Sachs Associate Interview Results",
+    "role": "Software Engineering principle round",
+    "yoe": null,
+    "outcome": "offer",
+    "rounds": 5,
+    "title": "Goldman Sachs Associate Interview Results",
+    "summary": "Hi Community,I completed all my rounds in Goldman Sachs for the associate role in their GBM GSET team.These are the rounds:-\nCoderpad round\nDSA round\nSoftware Engineering principle round\nSystem Design round\nHiring Manager round.\nOverall, the rounds w",
+    "url": "https://leetcode.com/discuss/post/8469882/goldman-sachs-associate-interview-result-70nh",
+    "upvotes": 2,
+    "comments": 1
+  },
+  {
+    "id": 8469613,
+    "date": "2026-08-19T06:48:03.022432+00:00",
+    "company": "6Sense Senior Software Engineer",
+    "role": "Software Engineer",
+    "yoe": null,
+    "outcome": "reject",
+    "rounds": 4,
+    "title": "6Sense Senior Software Engineer | AUG 2026 | Bangalore",
+    "summary": "6Sense SSE Interview ExperienceBelow is the interview experience with 6Sense for the SSE role.Round 1 (DSA & Coding)Problem Statement: Boat ConnectionsYou are given two rows of boats anchored at fixed positions:You want to connect boats from Row A to",
+    "url": "https://leetcode.com/discuss/post/8469613/sse-interview-experience-with-6sense-by-h237d",
+    "upvotes": 1,
+    "comments": 1
+  },
+  {
     "id": 8467479,
     "date": "2026-08-18T06:17:51.597825+00:00",
     "company": "Airtel Digital",
@@ -3540,19 +3568,5 @@
     "url": "https://leetcode.com/discuss/post/6980883/is-interview-happen-for-job-id-3015604-a-u2m1",
     "upvotes": 2,
     "comments": 0
-  },
-  {
-    "id": 6974811,
-    "date": "2025-07-18T15:33:02.395802+00:00",
-    "company": "[Offer] [Hiring Freeze]",
-    "role": "SSE",
-    "yoe": 1.5,
-    "outcome": "offer",
-    "rounds": 3,
-    "title": "[Offer] [Hiring freeze] - Conflunt SSE - India Interview experience",
-    "summary": "Company: Confluent\nRole: SSE\nYears of experience: 1.5\ntime: April 2025My friend referred me at confluent and got a callback from the recruiter within 2 hours of being referred.The interview was scheduled after 3 days and it has 3 technical round + 1",
-    "url": "https://leetcode.com/discuss/post/6974811/offer-hiring-freeze-conflunt-sse-india-i-6rd9",
-    "upvotes": 5,
-    "comments": 6
   }
 ]
