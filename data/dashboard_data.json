@@ -1,5 +1,15 @@
 [
   {
+    "id": 8472236,
+    "date": "2026-08-20T11:44:54.820303+00:00",
+    "location": "Wfh, India",
+    "company": "I Got An Offer For",
+    "role": "SSE",
+    "yoe": 4.5,
+    "base": 72.0,
+    "total": 72.0
+  },
+  {
     "id": 8471508,
     "date": "2026-08-20T05:01:01.741236+00:00",
     "location": "",
@@ -1518,25 +1528,5 @@
     "yoe": 3.8,
     "base": 44.0,
     "total": 44.0
-  },
-  {
-    "id": 7877753,
-    "date": "2026-04-12T05:52:41.596183+00:00",
-    "location": "",
-    "company": "Senior Associate Technology",
-    "role": "L1",
-    "yoe": null,
-    "base": 1.0,
-    "total": 5.0
-  },
-  {
-    "id": 7875182,
-    "date": "2026-04-11T19:04:31.662422+00:00",
-    "location": "",
-    "company": "Frontend",
-    "role": "1 Yoe",
-    "yoe": null,
-    "base": 23.0,
-    "total": 23.0
   }
 ]
