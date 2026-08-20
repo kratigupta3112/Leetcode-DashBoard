@@ -1,5 +1,25 @@
 [
   {
+    "id": 8472997,
+    "date": "2026-08-20T18:21:47.273212+00:00",
+    "location": "",
+    "company": "How Much Can I Expect For",
+    "role": "SDE 2",
+    "yoe": 4.0,
+    "base": 2.0,
+    "total": 4.0
+  },
+  {
+    "id": 8472427,
+    "date": "2026-08-20T13:39:44.610074+00:00",
+    "location": "",
+    "company": "Starting Again As An",
+    "role": "SDE1",
+    "yoe": null,
+    "base": 1.0,
+    "total": 2.0
+  },
+  {
     "id": 8472236,
     "date": "2026-08-20T11:44:54.820303+00:00",
     "location": "Wfh, India",
@@ -1518,15 +1538,5 @@
     "yoe": 4.0,
     "base": 30.0,
     "total": 54.0
-  },
-  {
-    "id": 7878487,
-    "date": "2026-04-12T07:18:32.030657+00:00",
-    "location": "",
-    "company": "Amazon",
-    "role": "SDE2",
-    "yoe": 3.8,
-    "base": 44.0,
-    "total": 44.0
   }
 ]
