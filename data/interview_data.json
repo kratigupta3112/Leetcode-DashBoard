@@ -1,5 +1,19 @@
 [
   {
+    "id": 8473741,
+    "date": "2026-08-21T07:14:51.184219+00:00",
+    "company": "Nykaa",
+    "role": "SDE",
+    "yoe": 4.0,
+    "outcome": "unknown",
+    "rounds": 3,
+    "title": "Nykaa SDE-II Android Interview Experience and Compensation",
+    "summary": "Company: Nykaa\nRole: Android (SDE-2)\nExperience: 4 years\nLocation: Gurugram (Onsite)\nResult: Offer Received ✅Interview Process (3 Rounds)Round 1 — Android Fundamentals + AI (60 mins)\nTopics: Architecture patterns (MVC→MVVM journey), ViewModel interna",
+    "url": "https://leetcode.com/discuss/post/8473741/nykaa-sde-ii-android-interview-experienc-v8yv",
+    "upvotes": 0,
+    "comments": 2
+  },
+  {
     "id": 8469882,
     "date": "2026-08-19T09:23:16.671469+00:00",
     "company": "Goldman Sachs Associate Interview Results",
@@ -11,7 +25,7 @@
     "summary": "Hi Community,I completed all my rounds in Goldman Sachs for the associate role in their GBM GSET team.These are the rounds:-\nCoderpad round\nDSA round\nSoftware Engineering principle round\nSystem Design round\nHiring Manager round.\nOverall, the rounds w",
     "url": "https://leetcode.com/discuss/post/8469882/goldman-sachs-associate-interview-result-70nh",
     "upvotes": 3,
-    "comments": 2
+    "comments": 3
   },
   {
     "id": 8469613,
@@ -3540,19 +3554,5 @@
     "url": "https://leetcode.com/discuss/post/6991433/offer-declined-intuit-interview-experien-3pub",
     "upvotes": 29,
     "comments": 12
-  },
-  {
-    "id": 6990017,
-    "date": "2025-07-22T10:15:21.098964+00:00",
-    "company": "Atlassian",
-    "role": "SDE",
-    "yoe": null,
-    "outcome": "unknown",
-    "rounds": 5,
-    "title": "Atlassian Interview Experience | Interview Experience |  SDE-2 backend | Reject",
-    "summary": "Round Screening Karat (5 system design + 2 dsa question (solved one completely))\nVerdit - hire\nRound 1 Code Design - Snake Game\nVerdict - Strong hire\nRound 2 - DSA - Stock price fluctuation\nVerdict - Strong hire\nRound 3 - System design - Standard ta",
-    "url": "https://leetcode.com/discuss/post/6990017/atlassian-interview-experience-interview-7pi3",
-    "upvotes": 6,
-    "comments": 11
   }
 ]

@@ -1,5 +1,25 @@
 [
   {
+    "id": 8473980,
+    "date": "2026-08-21T10:08:19.935248+00:00",
+    "location": "",
+    "company": "Ebay",
+    "role": "Sde-2",
+    "yoe": 2.0,
+    "base": 25.0,
+    "total": 22.5
+  },
+  {
+    "id": 8473741,
+    "date": "2026-08-21T07:14:51.184219+00:00",
+    "location": "Gurugram (Onsite)",
+    "company": "Nykaa",
+    "role": "Android (Sde-2)",
+    "yoe": 4.0,
+    "base": 22.0,
+    "total": 22.0
+  },
+  {
     "id": 8473524,
     "date": "2026-08-21T05:13:59.913570+00:00",
     "location": "Bengaluru",
