@@ -1568,5 +1568,15 @@
     "yoe": 4.0,
     "base": 29.0,
     "total": 75.0
+  },
+  {
+    "id": 7910016,
+    "date": "2026-04-14T15:17:52.196588+00:00",
+    "location": "",
+    "company": "Amazon",
+    "role": "SDE2",
+    "yoe": null,
+    "base": 46.0,
+    "total": 46.0
   }
 ]
