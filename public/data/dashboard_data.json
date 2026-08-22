@@ -1,5 +1,15 @@
 [
   {
+    "id": 8474565,
+    "date": "2026-08-21T16:28:51.023142+00:00",
+    "location": "",
+    "company": "Zepto",
+    "role": "Software Engineer (P3)",
+    "yoe": 4.5,
+    "base": 52.0,
+    "total": 52.0
+  },
+  {
     "id": 8473980,
     "date": "2026-08-21T10:08:19.935248+00:00",
     "location": "",
@@ -1568,15 +1578,5 @@
     "yoe": null,
     "base": 46.0,
     "total": 46.0
-  },
-  {
-    "id": 7901539,
-    "date": "2026-04-14T07:17:54.105689+00:00",
-    "location": "",
-    "company": "Recruiter Gave Me The Rough Numbers For",
-    "role": "SSE",
-    "yoe": 4.0,
-    "base": 30.0,
-    "total": 54.0
   }
 ]
