@@ -80,6 +80,16 @@
     "total": 72.0
   },
   {
+    "id": 8471884,
+    "date": "2026-08-20T08:21:35.302461+00:00",
+    "location": "Bengaluru",
+    "company": "Omnissa",
+    "role": "N/A",
+    "yoe": 7.0,
+    "base": 7.0,
+    "total": 60.0
+  },
+  {
     "id": 8471508,
     "date": "2026-08-20T05:01:01.741236+00:00",
     "location": "",
@@ -1558,25 +1568,5 @@
     "yoe": 2.9,
     "base": 2.0,
     "total": 2.0
-  },
-  {
-    "id": 7911311,
-    "date": "2026-04-14T16:41:22.451366+00:00",
-    "location": "Bengaluru",
-    "company": "Linkedin",
-    "role": "N/A",
-    "yoe": 4.0,
-    "base": 29.0,
-    "total": 75.0
-  },
-  {
-    "id": 7910016,
-    "date": "2026-04-14T15:17:52.196588+00:00",
-    "location": "",
-    "company": "Amazon",
-    "role": "SDE2",
-    "yoe": null,
-    "base": 46.0,
-    "total": 46.0
   }
 ]
