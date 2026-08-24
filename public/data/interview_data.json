@@ -1,5 +1,33 @@
 [
   {
+    "id": 8479770,
+    "date": "2026-08-24T10:11:42.397267+00:00",
+    "company": "Goldman Sachs Interview Experience: Assosciate",
+    "role": "N/A",
+    "yoe": 3.0,
+    "outcome": "ongoing",
+    "rounds": 1,
+    "title": "Goldman Sachs Interview Experience: Assosciate",
+    "summary": "Company: Goldman Sachs\nYOE: 3+\nLocation: BangaloreOnline AssessmentHackerrank Platform\n3 Questions: 1 easy, 2 mediumCleared and got mail in ~1 week for interviews.Round 1 (Technical DSA ~1 hour)Asked 2 DSA questions (coding on shared editor):Problem",
+    "url": "https://leetcode.com/discuss/post/8479770/goldman-sachs-interview-experience-assos-c2pi",
+    "upvotes": 0,
+    "comments": 0
+  },
+  {
+    "id": 8479651,
+    "date": "2026-08-24T08:41:27.025598+00:00",
+    "company": "Avathon Interview Experience",
+    "role": "SDE2",
+    "yoe": null,
+    "outcome": "unknown",
+    "rounds": 2,
+    "title": "Avathon Interview Experience SDE2",
+    "summary": "Status: 3 YOE\nPosition: SDE2\nLocation: Bangalore\nCompany: AvathonRound 1:This round was mainly focused on funsamental knowledge testing around DSA and react, javascript. There were two interviewers.Questions:\nDSA: You are given an integer array weigh",
+    "url": "https://leetcode.com/discuss/post/8479651/avathon-interview-experience-sde2-by-ano-eamm",
+    "upvotes": 0,
+    "comments": 1
+  },
+  {
     "id": 8473741,
     "date": "2026-08-21T07:14:51.184219+00:00",
     "company": "Nykaa",
@@ -3540,19 +3568,5 @@
     "url": "https://leetcode.com/discuss/post/6991440/interview-experience-at-lg-ad-solutions-df22r",
     "upvotes": 1,
     "comments": 2
-  },
-  {
-    "id": 6991433,
-    "date": "2025-07-22T16:19:38.249532+00:00",
-    "company": "[Offer] [Declined]",
-    "role": "SDE 2",
-    "yoe": 2.0,
-    "outcome": "ongoing",
-    "rounds": 4,
-    "title": "[Offer] [Declined] - Intuit interview Experience - SDE 2",
-    "summary": "Comapny: Intuit\nRole: SDE 2\nYears of experience: 2\nTimeline: June 2025My friend referred me for the role at intuit. After around 3 weeks i got a call from the recruiter, where she gave me a brief on compensation, expectation and told me about the eli",
-    "url": "https://leetcode.com/discuss/post/6991433/offer-declined-intuit-interview-experien-3pub",
-    "upvotes": 29,
-    "comments": 12
   }
 ]
