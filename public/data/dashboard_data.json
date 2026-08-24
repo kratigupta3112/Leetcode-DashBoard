@@ -1,5 +1,25 @@
 [
   {
+    "id": 8480620,
+    "date": "2026-08-24T18:26:12.170775+00:00",
+    "location": "",
+    "company": "Microsoft",
+    "role": "Microsoft L61, 4.5 Yoe, ₹88 Lpa — What Would You Do Next?",
+    "yoe": null,
+    "base": 61.0,
+    "total": 88.0
+  },
+  {
+    "id": 8480301,
+    "date": "2026-08-24T15:47:11.214172+00:00",
+    "location": "",
+    "company": "Oolka",
+    "role": "Senior Software Engineer",
+    "yoe": null,
+    "base": 36.0,
+    "total": 36.0
+  },
+  {
     "id": 8479792,
     "date": "2026-08-24T10:21:42.194219+00:00",
     "location": "- Bengaluru",
