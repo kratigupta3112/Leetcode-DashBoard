@@ -90,16 +90,6 @@
     "total": 60.0
   },
   {
-    "id": 8471508,
-    "date": "2026-08-20T05:01:01.741236+00:00",
-    "location": "",
-    "company": "2026 Graduate Fresher",
-    "role": "Compensation",
-    "yoe": null,
-    "base": 38.0,
-    "total": 72.74
-  },
-  {
     "id": 8470178,
     "date": "2026-08-19T12:36:04.081598+00:00",
     "location": "",
@@ -1568,5 +1558,15 @@
     "yoe": 2.9,
     "base": 2.0,
     "total": 2.0
+  },
+  {
+    "id": 7911311,
+    "date": "2026-04-14T16:41:22.451366+00:00",
+    "location": "Bengaluru",
+    "company": "Linkedin",
+    "role": "N/A",
+    "yoe": 4.0,
+    "base": 29.0,
+    "total": 75.0
   }
 ]
