@@ -1,5 +1,19 @@
 [
   {
+    "id": 8482394,
+    "date": "2026-08-25T15:05:01.605654+00:00",
+    "company": "Atlassian",
+    "role": "N/A",
+    "yoe": 4.0,
+    "outcome": "ongoing",
+    "rounds": 7,
+    "title": "Atlassian | Infrastructure Engineer | Interview Experience |",
+    "summary": "In continuation to my initial round experience mentioned here, below is the experience for further roundIn the mid june, I got callback from recruiter for further process, since the role was not pure backend role but a mix one, so they need an additi",
+    "url": "https://leetcode.com/discuss/post/8482394/atlassian-infrastructure-engineer-interv-cnkg",
+    "upvotes": 4,
+    "comments": 0
+  },
+  {
     "id": 8479770,
     "date": "2026-08-24T10:11:42.397267+00:00",
     "company": "Goldman Sachs Interview Experience: Assosciate",
@@ -3554,19 +3568,5 @@
     "url": "https://leetcode.com/discuss/post/6992607/meta-e5infra-reject-by-anonymous_user-izkg",
     "upvotes": 10,
     "comments": 9
-  },
-  {
-    "id": 6991440,
-    "date": "2025-07-22T16:21:40.657831+00:00",
-    "company": "💼 Interview Experience At Lg Ad Solutions Former",
-    "role": "Software Engineer II Role",
-    "yoe": null,
-    "outcome": "reject",
-    "rounds": null,
-    "title": "💼 Interview Experience at LG Ad Solutions formerly Alphonso — Software Engineer II Role",
-    "summary": "🗓️ Timeline\nApplication Submitted: Through Referral from Friend.\nInterview Rounds: 2\nFinal Outcome: Rejected\n📜 Background\nCurrent role at Société Générale as a Software Engineer\nCollege : Tier-II\nYears of experience and tech stack: 2.5 Yrs in Java Ba",
-    "url": "https://leetcode.com/discuss/post/6991440/interview-experience-at-lg-ad-solutions-df22r",
-    "upvotes": 1,
-    "comments": 2
   }
 ]
