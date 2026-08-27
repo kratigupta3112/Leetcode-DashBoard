@@ -1,5 +1,19 @@
 [
   {
+    "id": 8485838,
+    "date": "2026-08-27T10:29:08.782981+00:00",
+    "company": "🚀 My Google Software Engineer (L3) Interview Jou",
+    "role": "Software Engineer (L3) Interview Journey",
+    "yoe": null,
+    "outcome": "ongoing",
+    "rounds": 3,
+    "title": "🚀 My Google Software Engineer (L3) Interview Journey | Awaiting Team Match",
+    "summary": "A few months ago, I had the opportunity to interview with Google for a Software Engineer (L3) role. It was one of the most challenging and rewarding interview experiences I have had.The process went beyond just coding—it evaluated problem-solving, co",
+    "url": "https://leetcode.com/discuss/post/8485838/my-google-software-engineer-l3-interview-0lpb",
+    "upvotes": 2,
+    "comments": 4
+  },
+  {
     "id": 8482394,
     "date": "2026-08-25T15:05:01.605654+00:00",
     "company": "Atlassian",
@@ -3540,33 +3554,5 @@
     "url": "https://leetcode.com/discuss/post/7007373/akamai-interview-by-muskan9625sharma-tgk2",
     "upvotes": 2,
     "comments": 2
-  },
-  {
-    "id": 6999129,
-    "date": "2025-07-24T13:57:07.103329+00:00",
-    "company": "[Declined]",
-    "role": "MTS 2",
-    "yoe": null,
-    "outcome": "unknown",
-    "rounds": 3,
-    "title": "[Declined] - Adobe interview experience",
-    "summary": "I applied for bunch of roles at adobe, mostly MTS 2.\nI got a callback from recruiter after around a month that they have a vacancy and scheduling my interview.\nAt adobe there are many rounds, and you only progress to next round if and only if you cle",
-    "url": "https://leetcode.com/discuss/post/6999129/declined-adobe-interview-experience-by-a-tl6n",
-    "upvotes": 8,
-    "comments": 4
-  },
-  {
-    "id": 6992607,
-    "date": "2025-07-23T00:47:07.069385+00:00",
-    "company": "Meta E5(Infra)",
-    "role": "N/A",
-    "yoe": null,
-    "outcome": "unknown",
-    "rounds": null,
-    "title": "Meta E5(Infra)- Reject",
-    "summary": "Thanks to the community for all the help and wanted to give back.\nHope you guys make itScreening:1: Merge sorted arrays(Easy) : Small enhancements, no m and n is given, I think I lost points here2:  Random pointer question(As it is)**Onsite / Full Lo",
-    "url": "https://leetcode.com/discuss/post/6992607/meta-e5infra-reject-by-anonymous_user-izkg",
-    "upvotes": 10,
-    "comments": 9
   }
 ]
