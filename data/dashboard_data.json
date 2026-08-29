@@ -1,5 +1,15 @@
 [
   {
+    "id": 8488761,
+    "date": "2026-08-29T08:54:51.680791+00:00",
+    "location": "",
+    "company": "Mid-sized Product-based Company",
+    "role": "SDE 2",
+    "yoe": 4.0,
+    "base": 2.0,
+    "total": 13.3
+  },
+  {
     "id": 8488107,
     "date": "2026-08-28T19:37:08.457794+00:00",
     "location": "",
@@ -1568,35 +1578,5 @@
     "yoe": 3.0,
     "base": 2.0,
     "total": 16.5
-  },
-  {
-    "id": 7980642,
-    "date": "2026-04-18T12:38:09.504459+00:00",
-    "location": "",
-    "company": "Cisco",
-    "role": "N/A",
-    "yoe": null,
-    "base": 1.9,
-    "total": 2.0
-  },
-  {
-    "id": 7969222,
-    "date": "2026-04-17T19:15:18.494923+00:00",
-    "location": "Bengaluru",
-    "company": "Gurugram-based Fintech Startup (laid Off In January)",
-    "role": "Software Development Engineer (2)",
-    "yoe": 7.0,
-    "base": 2.0,
-    "total": 3.0
-  },
-  {
-    "id": 7968573,
-    "date": "2026-04-17T18:23:32.333983+00:00",
-    "location": "",
-    "company": "Banking Enterprise Setup",
-    "role": "N/A",
-    "yoe": 4.5,
-    "base": 2.0,
-    "total": 3.0
   }
 ]
