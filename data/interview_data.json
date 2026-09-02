@@ -1,5 +1,19 @@
 [
   {
+    "id": 8496901,
+    "date": "2026-09-02T07:26:46.492343+00:00",
+    "company": "Abnormal Ai",
+    "role": "Software Engineer II",
+    "yoe": null,
+    "outcome": "reject",
+    "rounds": null,
+    "title": "Abnormal AI | Software Engineer II | Interview Experience",
+    "summary": "Sharing my recent interview experience with Abnormal AI in case it helps anyone preparing for the process. Overall, it was a good experience, and the recruiter was communicative and helpful throughout.Interview ProcessThe process consisted of the fol",
+    "url": "https://leetcode.com/discuss/post/8496901/abnormal-ai-software-engineer-ii-intervi-2bg2",
+    "upvotes": 0,
+    "comments": 0
+  },
+  {
     "id": 8487700,
     "date": "2026-08-28T14:44:38.955044+00:00",
     "company": "Agoda",
@@ -10,7 +24,7 @@
     "title": "Agoda | Staff Software Engineer | Bangkok | MAY 2026",
     "summary": "Staff Software Engineer Interview ExperienceBelow is the interview experience for the role of Staff Software Engineer.Round 1 (DSA & Coding)Problem Statement: Minimum Daily Reading LimitYou are given an array of integers where each element represents",
     "url": "https://leetcode.com/discuss/post/8487700/agoda-staff-software-engineer-bangkok-ma-a69h",
-    "upvotes": 13,
+    "upvotes": 14,
     "comments": 4
   },
   {
@@ -3526,19 +3540,5 @@
     "url": "https://leetcode.com/discuss/post/7009986/google-university-graduate-2026-all-roun-zpje",
     "upvotes": 5,
     "comments": 7
-  },
-  {
-    "id": 7008397,
-    "date": "2025-07-26T17:28:22.716998+00:00",
-    "company": "Application Engineer",
-    "role": "N/A",
-    "yoe": null,
-    "outcome": "unknown",
-    "rounds": null,
-    "title": "Application Engineer || 10 LPA || SwissRe || Online Assessment",
-    "summary": "Hi everyone,\nJust wanted to share my interview experience for the Application Engineer role.Applied through career portal📝 Assessment Details\nDuration: 75 minutes\nMode: Online Assessment\nCompany: Swiss Re (Reinsurance, Financial Services)\n🔹 Section 1",
-    "url": "https://leetcode.com/discuss/post/7008397/swissre-application-engineer-10-lpa-onli-8sh1",
-    "upvotes": 3,
-    "comments": 3
   }
 ]
