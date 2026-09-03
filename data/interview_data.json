@@ -1,5 +1,19 @@
 [
   {
+    "id": 8499098,
+    "date": "2026-09-03T08:20:43.911404+00:00",
+    "company": "Amazon",
+    "role": "SDE",
+    "yoe": null,
+    "outcome": "ongoing",
+    "rounds": null,
+    "title": "Amazon SDE-II Interview — Logical & Maintainable Round",
+    "summary": "Amazon SDE-II — Logical & Maintainable Round + Interview Loop PreparationI have my Amazon SDE-II interview loop coming up, with the 1st round scheduled for next week. The first round is Logical & Maintainable Code.I understand this round is generally",
+    "url": "https://leetcode.com/discuss/post/8499098/amazon-sde-ii-interview-logical-maintain-uds6",
+    "upvotes": 0,
+    "comments": 0
+  },
+  {
     "id": 8496901,
     "date": "2026-09-02T07:26:46.492343+00:00",
     "company": "Abnormal Ai",
@@ -123,7 +137,7 @@
     "summary": "Airtel Digital SDE-1 Interview ExperienceCompany: Airtel Digital\nRole: SDE-1\nLocation: Gurugram\nExperience: 1 Year\nInterview Date: July 6\nInterview Mode: Virtual\nCompensation: 12lpa - 14lpaInitial Screening\nIntroduce yourself.\nTell me about your curr",
     "url": "https://leetcode.com/discuss/post/8467479/airtel-digital-sde-1-interview-experienc-4lzq",
     "upvotes": 0,
-    "comments": 1
+    "comments": 2
   },
   {
     "id": 8466893,

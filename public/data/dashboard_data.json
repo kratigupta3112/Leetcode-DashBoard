@@ -1,5 +1,15 @@
 [
   {
+    "id": 8498766,
+    "date": "2026-09-03T05:10:46.161151+00:00",
+    "location": "Hyderabad, India",
+    "company": "Amazon",
+    "role": "Software Development Engineer Ii (Sde Ii, L5)",
+    "yoe": 3.0,
+    "base": 43.0,
+    "total": 43.0
+  },
+  {
     "id": 8495982,
     "date": "2026-09-01T18:41:42.219265+00:00",
     "location": "",
@@ -1578,5 +1588,15 @@
     "yoe": null,
     "base": 2.0,
     "total": 1.5
+  },
+  {
+    "id": 8015907,
+    "date": "2026-04-20T16:40:28.600890+00:00",
+    "location": "",
+    "company": "Support Role At Faang",
+    "role": "SDE 2",
+    "yoe": 2.0,
+    "base": 29.0,
+    "total": 29.0
   }
 ]
