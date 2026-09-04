@@ -1618,15 +1618,5 @@
     "yoe": 7.8,
     "base": 9.0,
     "total": 7.8
-  },
-  {
-    "id": 8030174,
-    "date": "2026-04-21T11:40:09.552687+00:00",
-    "location": "",
-    "company": "Microsoft",
-    "role": "SDE 2",
-    "yoe": null,
-    "base": 2.0,
-    "total": 27.0
   }
 ]
