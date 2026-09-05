@@ -1,5 +1,15 @@
 [
   {
+    "id": 8503496,
+    "date": "2026-09-05T11:37:34.421657+00:00",
+    "location": "Bengaluru",
+    "company": "Staff Software Engineer",
+    "role": "Staff Software Engineer",
+    "yoe": 8.0,
+    "base": 60.0,
+    "total": 60.0
+  },
+  {
     "id": 8500900,
     "date": "2026-09-04T06:12:24.758188+00:00",
     "location": "Bangalore, India",
