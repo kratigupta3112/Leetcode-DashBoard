@@ -1,5 +1,15 @@
 [
   {
+    "id": 8508228,
+    "date": "2026-09-07T20:05:18.942460+00:00",
+    "location": "Bengaluru",
+    "company": "Commerceiq",
+    "role": "Sde-1",
+    "yoe": 1.6,
+    "base": 29.5,
+    "total": 29.5
+  },
+  {
     "id": 8507349,
     "date": "2026-09-07T11:23:20.933308+00:00",
     "location": "",
@@ -1648,15 +1658,5 @@
     "yoe": null,
     "base": 21.0,
     "total": 21.0
-  },
-  {
-    "id": 8088654,
-    "date": "2026-04-24T05:58:45.577683+00:00",
-    "location": "",
-    "company": "1.5 Months",
-    "role": "N/A",
-    "yoe": null,
-    "base": 42.27,
-    "total": 51.0
   }
 ]
