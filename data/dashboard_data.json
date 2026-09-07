@@ -1,5 +1,35 @@
 [
   {
+    "id": 8507349,
+    "date": "2026-09-07T11:23:20.933308+00:00",
+    "location": "",
+    "company": "Amazon India(banglore)",
+    "role": "L62",
+    "yoe": 5.0,
+    "base": 44.0,
+    "total": 44.0
+  },
+  {
+    "id": 8507131,
+    "date": "2026-09-07T09:16:36.074872+00:00",
+    "location": "Bengaluru",
+    "company": "Microsoft",
+    "role": "L62",
+    "yoe": 4.0,
+    "base": 62.0,
+    "total": 2.0
+  },
+  {
+    "id": 8506987,
+    "date": "2026-09-07T07:41:20.187596+00:00",
+    "location": "",
+    "company": "65L A Lowball For Google",
+    "role": "L4",
+    "yoe": null,
+    "base": 60.0,
+    "total": 60.0
+  },
+  {
     "id": 8506180,
     "date": "2026-09-06T17:42:11.640595+00:00",
     "location": "",
