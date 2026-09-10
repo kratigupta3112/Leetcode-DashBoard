@@ -1,5 +1,19 @@
 [
   {
+    "id": 8514672,
+    "date": "2026-09-10T19:33:11.974208+00:00",
+    "company": "Amazon",
+    "role": "SDE1",
+    "yoe": null,
+    "outcome": "ongoing",
+    "rounds": 4,
+    "title": "Amazon SDE1 Interview Loop India 2026 – Round Numbering / Possibility of Round 4",
+    "summary": "Hi everyone, I’m going through the Amazon SDE1 hiring process in India through an AUTA hiring drive, and I’m a little confused about how the interview rounds are numbered and process happened so far..My process so far:\nAug 21 – onsite: I had 2 interv",
+    "url": "https://leetcode.com/discuss/post/8514672/amazon-sde1-india-2026-round-numbering-p-h55h",
+    "upvotes": 1,
+    "comments": 0
+  },
+  {
     "id": 8499098,
     "date": "2026-09-03T08:20:43.911404+00:00",
     "company": "Amazon",
@@ -3512,19 +3526,5 @@
     "url": "https://leetcode.com/discuss/post/7027722/ebay-onsite-interview-2-4-aug-need-guida-jslq",
     "upvotes": 6,
     "comments": 3
-  },
-  {
-    "id": 7027366,
-    "date": "2025-07-31T07:51:55.944633+00:00",
-    "company": "Amazon",
-    "role": "SDE",
-    "yoe": 2.0,
-    "outcome": "offer",
-    "rounds": 4,
-    "title": "Amazon | SDE-2 Interview Experience | 2YOE | Hyderabad",
-    "summary": "Background: 2 years experience at Fintech as a Full Stack DeveloperBack in February, I applied for an SDE-2 position at Amazon Hyderabad through a referral. I completed the online assessment (OA). While I don’t remember the exact questions, they were",
-    "url": "https://leetcode.com/discuss/post/7027366/amazon-sde-2-interview-experience-2yoe-h-ynf0",
-    "upvotes": 16,
-    "comments": 9
   }
 ]
