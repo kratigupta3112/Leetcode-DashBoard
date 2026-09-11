@@ -1,19 +1,5 @@
 [
   {
-    "id": 8514672,
-    "date": "2026-09-10T19:33:11.974208+00:00",
-    "company": "Amazon",
-    "role": "SDE1",
-    "yoe": null,
-    "outcome": "ongoing",
-    "rounds": 4,
-    "title": "Amazon SDE1 Interview Loop India 2026 – Round Numbering / Possibility of Round 4",
-    "summary": "Hi everyone, I’m going through the Amazon SDE1 hiring process in India through an AUTA hiring drive, and I’m a little confused about how the interview rounds are numbered and process happened so far..My process so far:\nAug 21 – onsite: I had 2 interv",
-    "url": "https://leetcode.com/discuss/post/8514672/amazon-sde1-india-2026-round-numbering-p-h55h",
-    "upvotes": 2,
-    "comments": 3
-  },
-  {
     "id": 8499098,
     "date": "2026-09-03T08:20:43.911404+00:00",
     "company": "Amazon",
@@ -3512,5 +3498,19 @@
     "url": "https://leetcode.com/discuss/post/7034980/ebay-onsite-2-4-aug-hiring-drive-by-anon-6wf5",
     "upvotes": 2,
     "comments": 1
+  },
+  {
+    "id": 7027722,
+    "date": "2025-07-31T09:36:15.684157+00:00",
+    "company": "Ebay Onsite Interview (2",
+    "role": "N/A",
+    "yoe": null,
+    "outcome": "ongoing",
+    "rounds": null,
+    "title": "eBay Onsite Interview (2–4 Aug) – Need Guidance",
+    "summary": "Hi everyone,\nI have an onsite interview at eBay scheduled between 2nd to 4th August. I’d really appreciate it if anyone could share their recent interview experience.Specifically looking for:DSA questions (especially mediums/hard)System design rounds",
+    "url": "https://leetcode.com/discuss/post/7027722/ebay-onsite-interview-2-4-aug-need-guida-jslq",
+    "upvotes": 6,
+    "comments": 3
   }
 ]
