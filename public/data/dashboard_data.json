@@ -1,5 +1,35 @@
 [
   {
+    "id": 8518195,
+    "date": "2026-09-12T19:42:52.096447+00:00",
+    "location": "",
+    "company": "SDE 2",
+    "role": "Sde2 (Backend)",
+    "yoe": 2.0,
+    "base": 51.5,
+    "total": 51.5
+  },
+  {
+    "id": 8518111,
+    "date": "2026-09-12T18:51:20.561089+00:00",
+    "location": "Banglore",
+    "company": "Sandisk",
+    "role": "Firmware Engineer Role - Graduate Level",
+    "yoe": 0.0,
+    "base": 21.0,
+    "total": 35.0
+  },
+  {
+    "id": 8517962,
+    "date": "2026-09-12T17:33:25.476620+00:00",
+    "location": "Bangalore, India",
+    "company": "Cisco",
+    "role": "N/A",
+    "yoe": 10.0,
+    "base": 10.0,
+    "total": 10.0
+  },
+  {
     "id": 8517153,
     "date": "2026-09-12T09:36:42.003674+00:00",
     "location": "",
