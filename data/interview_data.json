@@ -1,5 +1,19 @@
 [
   {
+    "id": 8521671,
+    "date": "2026-09-14T18:02:14.016942+00:00",
+    "company": "Stripe",
+    "role": "N/A",
+    "yoe": null,
+    "outcome": "unknown",
+    "rounds": null,
+    "title": "Stripe | OA Aug'2026",
+    "summary": "Hello FolksI was laid off around a couple of months back, and have been trying since.Finally, I have received an OA hackerrank link for Stripe. If someone has given any rounds/OA of stripe, and can help with the questions (or the pattern of questions",
+    "url": "https://leetcode.com/discuss/post/8521671/stripe-oa-aug2026-by-anonymous_user-5q06",
+    "upvotes": 0,
+    "comments": 0
+  },
+  {
     "id": 8499098,
     "date": "2026-09-03T08:20:43.911404+00:00",
     "company": "Amazon",
@@ -3498,19 +3512,5 @@
     "url": "https://leetcode.com/discuss/post/7034980/ebay-onsite-2-4-aug-hiring-drive-by-anon-6wf5",
     "upvotes": 2,
     "comments": 1
-  },
-  {
-    "id": 7027722,
-    "date": "2025-07-31T09:36:15.684157+00:00",
-    "company": "Ebay Onsite Interview (2",
-    "role": "N/A",
-    "yoe": null,
-    "outcome": "ongoing",
-    "rounds": null,
-    "title": "eBay Onsite Interview (2–4 Aug) – Need Guidance",
-    "summary": "Hi everyone,\nI have an onsite interview at eBay scheduled between 2nd to 4th August. I’d really appreciate it if anyone could share their recent interview experience.Specifically looking for:DSA questions (especially mediums/hard)System design rounds",
-    "url": "https://leetcode.com/discuss/post/7027722/ebay-onsite-interview-2-4-aug-need-guida-jslq",
-    "upvotes": 6,
-    "comments": 3
   }
 ]

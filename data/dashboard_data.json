@@ -1,5 +1,25 @@
 [
   {
+    "id": 8521794,
+    "date": "2026-09-14T19:16:10.959032+00:00",
+    "location": "Bengaluru",
+    "company": "Microsoft",
+    "role": "Offer",
+    "yoe": 6.0,
+    "base": 45.0,
+    "total": 75.0
+  },
+  {
+    "id": 8521771,
+    "date": "2026-09-14T18:57:56.137542+00:00",
+    "location": "Bengaluru",
+    "company": "Stripe",
+    "role": "N/A",
+    "yoe": 6.0,
+    "base": 2.0,
+    "total": 6.0
+  },
+  {
     "id": 8521277,
     "date": "2026-09-14T14:20:38.465239+00:00",
     "location": "",
@@ -1718,15 +1738,5 @@
     "yoe": null,
     "base": 2.0,
     "total": 2.0
-  },
-  {
-    "id": 8114232,
-    "date": "2026-04-29T17:12:30.246359+00:00",
-    "location": "",
-    "company": "EU Based Product Based MNC",
-    "role": "Data Engineer",
-    "yoe": 2.8,
-    "base": 2.8,
-    "total": 3.0
   }
 ]
