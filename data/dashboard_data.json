@@ -1,5 +1,15 @@
 [
   {
+    "id": 8521277,
+    "date": "2026-09-14T14:20:38.465239+00:00",
+    "location": "",
+    "company": "Salesforce",
+    "role": "SDE 2",
+    "yoe": 5.0,
+    "base": 45.0,
+    "total": 45.0
+  },
+  {
     "id": 8520344,
     "date": "2026-09-14T04:35:02.560702+00:00",
     "location": "Bengaluru",
@@ -1718,15 +1728,5 @@
     "yoe": 2.8,
     "base": 2.8,
     "total": 3.0
-  },
-  {
-    "id": 8112539,
-    "date": "2026-04-29T11:01:49.137186+00:00",
-    "location": "",
-    "company": "How Does This Compare With Typical",
-    "role": "SDE2",
-    "yoe": 4.0,
-    "base": 18.0,
-    "total": 32.0
   }
 ]
