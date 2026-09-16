@@ -1,5 +1,19 @@
 [
   {
+    "id": 8523912,
+    "date": "2026-09-16T05:25:03.018340+00:00",
+    "company": "Amazon",
+    "role": "SDE",
+    "yoe": null,
+    "outcome": "unknown",
+    "rounds": 4,
+    "title": "Amazon SDE-2 Interview Experience",
+    "summary": "Hi folks, i recently went through the full amazon interview experienceRound 1 -> DSAwas asked two questionshttps://leetcode.com/problems/longest-consecutive-sequence/description/https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/des",
+    "url": "https://leetcode.com/discuss/post/8523912/amazon-sde-2-interview-experience-by-ano-2sxp",
+    "upvotes": 4,
+    "comments": 0
+  },
+  {
     "id": 8521671,
     "date": "2026-09-14T18:02:14.016942+00:00",
     "company": "Stripe",
@@ -3034,7 +3048,7 @@
     "title": "Netapp Interview Round1",
     "summary": "Cant really find good resources for netapp interviews. Can anyone suggest some topics?Update\nDid a long discussion on docker and kubernetes, then went ahead with\nFind prime numbers till given number n, all this went around for 15minutes, then gave a",
     "url": "https://leetcode.com/discuss/post/7176200/any-tips-for-netapp-interview-round1-by-ve3fi",
-    "upvotes": 2,
+    "upvotes": 3,
     "comments": 0
   },
   {
@@ -3498,19 +3512,5 @@
     "url": "https://leetcode.com/discuss/post/7043175/uber-l5a-sse-interview-experience-by-nik-qpdr",
     "upvotes": 42,
     "comments": 10
-  },
-  {
-    "id": 7034980,
-    "date": "2025-08-02T07:27:56.059988+00:00",
-    "company": "Ebay Onsite 2",
-    "role": "N/A",
-    "yoe": null,
-    "outcome": "ongoing",
-    "rounds": null,
-    "title": "eBay onsite 2-4 aug hiring drive ",
-    "summary": "Hi everyone,\nI have an onsite interview at eBay scheduled between 2nd to 4th August. I’d really appreciate it if anyone could share their recent interview experience.Specifically looking for:DSA questions (especially mediums/hard)System design rounds",
-    "url": "https://leetcode.com/discuss/post/7034980/ebay-onsite-2-4-aug-hiring-drive-by-anon-6wf5",
-    "upvotes": 2,
-    "comments": 1
   }
 ]
