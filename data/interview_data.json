@@ -1,5 +1,19 @@
 [
   {
+    "id": 8524816,
+    "date": "2026-09-16T16:00:42.945307+00:00",
+    "company": "Amazon",
+    "role": "SDE",
+    "yoe": null,
+    "outcome": "unknown",
+    "rounds": null,
+    "title": "Amazon SDE-1 | Interview Loop Completed",
+    "summary": "For people who have recently completed the full Amazon SDE-1 interview loop, how long did it take to hear back with the final decision?Also, if there are any Amazon employees/recruiters/hiring team members here, what is the usual timeline after the f",
+    "url": "https://leetcode.com/discuss/post/8524816/amazon-sde-1-interview-loop-completed-by-xaxx",
+    "upvotes": 1,
+    "comments": 0
+  },
+  {
     "id": 8523912,
     "date": "2026-09-16T05:25:03.018340+00:00",
     "company": "Amazon",
@@ -11,7 +25,7 @@
     "summary": "Hi folks, i recently went through the full amazon interview experienceRound 1 -> DSAwas asked two questionshttps://leetcode.com/problems/longest-consecutive-sequence/description/https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/des",
     "url": "https://leetcode.com/discuss/post/8523912/amazon-sde-2-interview-experience-by-ano-2sxp",
     "upvotes": 4,
-    "comments": 0
+    "comments": 1
   },
   {
     "id": 8521671,
