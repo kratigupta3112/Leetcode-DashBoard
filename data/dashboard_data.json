@@ -1,5 +1,15 @@
 [
   {
+    "id": 8525804,
+    "date": "2026-09-17T07:19:46.616969+00:00",
+    "location": "",
+    "company": "8 YOE",
+    "role": "Senior Java Dev",
+    "yoe": null,
+    "base": 8.0,
+    "total": 3.0
+  },
+  {
     "id": 8525162,
     "date": "2026-09-16T19:24:00.961245+00:00",
     "location": "Noida, India",
@@ -118,16 +128,6 @@
     "yoe": 0.0,
     "base": 21.0,
     "total": 35.0
-  },
-  {
-    "id": 8517153,
-    "date": "2026-09-12T09:36:42.003674+00:00",
-    "location": "",
-    "company": "M Currently Working At Microsoft As",
-    "role": "Swe 3 ( Equivalent Of Sde2)",
-    "yoe": null,
-    "base": 42.0,
-    "total": 56.0
   },
   {
     "id": 8516608,
@@ -768,16 +768,6 @@
     "yoe": 3.0,
     "base": 27.0,
     "total": 27.0
-  },
-  {
-    "id": 8416805,
-    "date": "2026-07-24T09:32:01.268684+00:00",
-    "location": "Bengaluru, India",
-    "company": "Jpmorgan Chase (jpmc)",
-    "role": "N/A",
-    "yoe": 8.0,
-    "base": 3.0,
-    "total": 2.0
   },
   {
     "id": 8403766,
