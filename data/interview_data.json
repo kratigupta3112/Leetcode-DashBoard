@@ -1,17 +1,31 @@
 [
   {
-    "id": 8524816,
-    "date": "2026-09-16T16:00:42.945307+00:00",
-    "company": "Amazon",
-    "role": "SDE",
+    "id": 8527382,
+    "date": "2026-09-18T06:12:17.212641+00:00",
+    "company": "Google Swe Ii (L3)",
+    "role": "L3",
     "yoe": null,
-    "outcome": "unknown",
+    "outcome": "ongoing",
     "rounds": null,
-    "title": "Amazon SDE-1 | Interview Loop Completed",
-    "summary": "For people who have recently completed the full Amazon SDE-1 interview loop, how long did it take to hear back with the final decision?Also, if there are any Amazon employees/recruiters/hiring team members here, what is the usual timeline after the f",
-    "url": "https://leetcode.com/discuss/post/8524816/amazon-sde-1-interview-loop-completed-by-xaxx",
-    "upvotes": 1,
-    "comments": 0
+    "title": "Google SWE II (L3) Interview Experience - India | 2026",
+    "summary": "Google Hiring Assessment (GHA)\nThe GHA had multiple situational questions around work style, decision-making under pressure, and mindset at work.\nI went through a few YouTube videos beforehand to better understand the type of questions and how to app",
+    "url": "https://leetcode.com/discuss/post/8527382/google-swe-ii-l3-interview-experience-in-hkeb",
+    "upvotes": 3,
+    "comments": 3
+  },
+  {
+    "id": 8527332,
+    "date": "2026-09-18T05:40:31.386618+00:00",
+    "company": "Amazon",
+    "role": "SDE1",
+    "yoe": null,
+    "outcome": "ongoing",
+    "rounds": 3,
+    "title": "Amazon SDE1 India 2026 – 4-Round Loop Experience | Final Result Timeline & Chances? ",
+    "summary": "Hi everyone,I’m a 2026 graduate (from Tier 1 engineering institute, having 6 month intership experience at product based company)going through the Amazon SDE1 hiring process in India through an AUTA hiring drive. I’ve now completed all 4 rounds and w",
+    "url": "https://leetcode.com/discuss/post/8527332/amazon-sde1-india-2026-4-round-loop-expe-sfeu",
+    "upvotes": 6,
+    "comments": 3
   },
   {
     "id": 8523912,
@@ -3512,19 +3526,5 @@
     "url": "https://leetcode.com/discuss/post/7064059/jfrog-interview-experience-sde2-bangalor-4znk",
     "upvotes": 3,
     "comments": 0
-  },
-  {
-    "id": 7043175,
-    "date": "2025-08-04T12:31:23.136016+00:00",
-    "company": "[Uber",
-    "role": "SSE",
-    "yoe": null,
-    "outcome": "offer",
-    "rounds": null,
-    "title": "[Uber - L5A] SSE interview experience",
-    "summary": "Reposting the experience as earlier one got flagged as I used names of interview prep resourcesRound -1:\nI appeared for Uber hiring drive around mid-May. The round was called 'screening' but seemed like a proper DSA round in which I was expected to g",
-    "url": "https://leetcode.com/discuss/post/7043175/uber-l5a-sse-interview-experience-by-nik-qpdr",
-    "upvotes": 42,
-    "comments": 10
   }
 ]
