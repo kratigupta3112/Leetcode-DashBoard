@@ -1,35 +1,5 @@
 [
   {
-    "id": 8529221,
-    "date": "2026-09-19T09:59:57.087530+00:00",
-    "location": "",
-    "company": "Capgemini",
-    "role": "N/A",
-    "yoe": null,
-    "base": 5.8,
-    "total": 6.74
-  },
-  {
-    "id": 8528863,
-    "date": "2026-09-19T05:28:25.006482+00:00",
-    "location": "Hyderabad, India",
-    "company": "Amazon",
-    "role": "Software Development Engineer Ii (Sde Ii, L5)",
-    "yoe": 3.0,
-    "base": 43.0,
-    "total": 43.0
-  },
-  {
-    "id": 8528767,
-    "date": "2026-09-19T03:46:03.051380+00:00",
-    "location": "Noida, India",
-    "company": "Adobe",
-    "role": "Computer Scientist 1 (Cs1)",
-    "yoe": 5.0,
-    "base": 35.0,
-    "total": 35.0
-  },
-  {
     "id": 8525804,
     "date": "2026-09-17T07:19:46.616969+00:00",
     "location": "",
