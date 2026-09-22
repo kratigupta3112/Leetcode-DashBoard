@@ -1,5 +1,15 @@
 [
   {
+    "id": 8534411,
+    "date": "2026-09-22T11:27:55.558059+00:00",
+    "location": "",
+    "company": "Software Engineer",
+    "role": "SDE1",
+    "yoe": null,
+    "base": 1.0,
+    "total": 64.2
+  },
+  {
     "id": 8534216,
     "date": "2026-09-22T08:55:19.061431+00:00",
     "location": "",
@@ -1788,15 +1798,5 @@
     "yoe": null,
     "base": 24.0,
     "total": 17.0
-  },
-  {
-    "id": 8137362,
-    "date": "2026-05-04T10:08:21.061314+00:00",
-    "location": "Bangalore, India",
-    "company": "Arm",
-    "role": "N/A",
-    "yoe": 3.1,
-    "base": 30.0,
-    "total": 30.0
   }
 ]
