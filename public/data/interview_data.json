@@ -1,5 +1,47 @@
 [
   {
+    "id": 8536004,
+    "date": "2026-09-23T09:58:19.225488+00:00",
+    "company": "Coupa Pune",
+    "role": "Software Engineer",
+    "yoe": 3.0,
+    "outcome": "ongoing",
+    "rounds": 3,
+    "title": "Coupa Pune | Senior Software Engineer | Interview Experience",
+    "summary": "I recently joined Coupa as a Senior Software Engineer for a Java + Python role. Despite having 3 years of experience applying for a position that required 5+ years, I managed to clear the process.💡 Key Takeaways & Screen Filtering Advice\nVolume & Spe",
+    "url": "https://leetcode.com/discuss/post/8536004/coupa-pune-senior-software-engineer-inte-u3zl",
+    "upvotes": 2,
+    "comments": 1
+  },
+  {
+    "id": 8535545,
+    "date": "2026-09-23T04:58:54.692375+00:00",
+    "company": "Interview Experience —",
+    "role": "SDE2",
+    "yoe": null,
+    "outcome": "offer",
+    "rounds": 3,
+    "title": "Interview Experience — SDE2 Angel one",
+    "summary": "Round 1: DSA\nKoko Eating Bananas\nLongest Palindromic Substring\nDecoding Number String to A-Z Characters — DPSolved all 3 problems.Result: ClearedRound 2: HLDDesign a Payment ServiceThe round went on for 1+ hour with several deep dives, including:Data",
+    "url": "https://leetcode.com/discuss/post/8535545/interview-experience-sde2-angel-one-by-t-lpfz",
+    "upvotes": 2,
+    "comments": 3
+  },
+  {
+    "id": 8535500,
+    "date": "2026-09-23T04:23:01.916139+00:00",
+    "company": "Amazon : Swe New Grad 2026 Usa:",
+    "role": "SDE1",
+    "yoe": null,
+    "outcome": "reject",
+    "rounds": 4,
+    "title": "Amazon : SWE New Grad 2026 USA: Interview Experience",
+    "summary": "Role: SDE1, S3 Glacier (AWS)\nLocation: Onsite, Seattle HQ\nDate: August 2026\nOutcome: RejectedFour rounds, each an hour, each split the same way: behavioural first, then technical.Round 1 (Bar Raiser). Leadership Principles the whole hour. No code.Rou",
+    "url": "https://leetcode.com/discuss/post/8535500/amazon-swe-new-grad-2026-usa-interview-e-oqe0",
+    "upvotes": 5,
+    "comments": 1
+  },
+  {
     "id": 8532961,
     "date": "2026-09-21T12:16:51.021157+00:00",
     "company": "Kotak",
@@ -81,7 +123,7 @@
     "summary": "Hello FolksI was laid off around a couple of months back, and have been trying since.Finally, I have received an OA hackerrank link for Stripe. If someone has given any rounds/OA of stripe, and can help with the questions (or the pattern of questions",
     "url": "https://leetcode.com/discuss/post/8521671/stripe-oa-aug2026-by-anonymous_user-5q06",
     "upvotes": 3,
-    "comments": 2
+    "comments": 3
   },
   {
     "id": 8499098,
@@ -3526,33 +3568,5 @@
     "url": "https://leetcode.com/discuss/post/7071489/senior-software-engineer-m2p-fintech-int-zyzd",
     "upvotes": 0,
     "comments": 1
-  },
-  {
-    "id": 7064331,
-    "date": "2025-08-10T11:14:17.691217+00:00",
-    "company": "I'Ve Got It Guys! Concentric Ai (Sde",
-    "role": "SDE",
-    "yoe": null,
-    "outcome": "reject",
-    "rounds": null,
-    "title": "I've got it guys! Concentric AI (SDE-1) interview experience",
-    "summary": "On Friday, I had my on-campus interview of Concentric AI who had come for an SDE role in Bangalore, India, offering  6-months internship + FTE. We might have to work with GenAI depending on the project that is assigned. Nevetheless, I'm here to talk",
-    "url": "https://leetcode.com/discuss/post/7064331/ive-got-it-guys-concentric-ai-sde-1-inte-lf3y",
-    "upvotes": 30,
-    "comments": 12
-  },
-  {
-    "id": 7064059,
-    "date": "2025-08-10T09:48:27.042304+00:00",
-    "company": "Jfrog",
-    "role": "SDE2",
-    "yoe": 2.5,
-    "outcome": "reject",
-    "rounds": 1,
-    "title": "JFrog Interview Experience | SDE2 | Bangalore | July 2025",
-    "summary": "Hi , I got this opportunity from referal.YOE - 2.5 years\nCurrent Company - Service BasedRound 1: DSA RoundDesign Blocking Queue.\n2 DSA questions Interviwer clearly mentioned he want optimal approach only.\nGiven an array return square of all the numbe",
-    "url": "https://leetcode.com/discuss/post/7064059/jfrog-interview-experience-sde2-bangalor-4znk",
-    "upvotes": 3,
-    "comments": 0
   }
 ]
