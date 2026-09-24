@@ -1,5 +1,15 @@
 [
   {
+    "id": 8538152,
+    "date": "2026-09-24T14:43:51.304879+00:00",
+    "location": "",
+    "company": "Future Standard",
+    "role": "Analyst, Software Development Joining As Fresher",
+    "yoe": null,
+    "base": 17.0,
+    "total": 17.0
+  },
+  {
     "id": 8537668,
     "date": "2026-09-24T09:29:39.252322+00:00",
     "location": "",
@@ -1788,35 +1798,5 @@
     "yoe": null,
     "base": 2.0,
     "total": 29.0
-  },
-  {
-    "id": 8154463,
-    "date": "2026-05-06T17:24:14.022543+00:00",
-    "location": "Bengaluru",
-    "company": "Product Based MNC",
-    "role": "L3",
-    "yoe": 1.0,
-    "base": 3.0,
-    "total": 4.0
-  },
-  {
-    "id": 8154343,
-    "date": "2026-05-06T17:01:28.183161+00:00",
-    "location": "",
-    "company": "US Based Product Company",
-    "role": "N/A",
-    "yoe": 3.8,
-    "base": 23.0,
-    "total": 23.0
-  },
-  {
-    "id": 8147790,
-    "date": "2026-05-05T17:52:59.937674+00:00",
-    "location": "",
-    "company": "Paytm",
-    "role": "SSE",
-    "yoe": null,
-    "base": 24.0,
-    "total": 17.0
   }
 ]
