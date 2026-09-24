@@ -1,5 +1,19 @@
 [
   {
+    "id": 8537018,
+    "date": "2026-09-24T01:15:18.563821+00:00",
+    "company": "Deepinfra ( Series B",
+    "role": "Software Engineering",
+    "yoe": null,
+    "outcome": "reject",
+    "rounds": 5,
+    "title": "DeepInfra ( Series B - AI Inference )  : SWE 2026 USA : Interview Experience",
+    "summary": "Company: DeepInfra (Series B, AI inference)\nRole: SWE, Software Engineering, Inference\nLocation: Rounds 1 to 3 remote, rounds 4 and 5 onsite in Palo Alto, CA\nDate: April 2026\nHow it started: Cold application\nOutcome: Rejected, with feedbackThe loopRo",
+    "url": "https://leetcode.com/discuss/post/8537018/deepinfra-series-b-ai-inference-swe-2026-l6pw",
+    "upvotes": 1,
+    "comments": 0
+  },
+  {
     "id": 8536603,
     "date": "2026-09-23T16:31:26.629560+00:00",
     "company": "Sedemac",
@@ -25,7 +39,7 @@
     "summary": "1st round (Coding / DSA)\n2nd Round (code review)\n3 Round (System design)\n4 Round (HM - Culture fit)Can someone recently went through this loop and can share what was asked in System Design round?#OKTA",
     "url": "https://leetcode.com/discuss/post/8536527/okta-sse-round-by-anonymous_user-ff69",
     "upvotes": 0,
-    "comments": 1
+    "comments": 2
   },
   {
     "id": 8536485,
@@ -94,7 +108,7 @@
     "title": "Amazon Hackon (SDE-Intern 10490515)",
     "summary": "Hello Everyone,I would like to share my experience of the interview process.So, we didn't qualify the hackon round, but I passed all the test cases.29 july:- received the interest form\n3 Aug:- recieved the Oa link\n4 Aug:- Completed the Oa, in 1st q a",
     "url": "https://leetcode.com/discuss/post/8536167/amazon-hackon-sde-intern-10490515-by-nik-gq8o",
-    "upvotes": 4,
+    "upvotes": 5,
     "comments": 2
   },
   {
@@ -780,7 +794,7 @@
     "title": "Wells Fargo || Senior Software Engineer || Selected",
     "summary": "YOE: 4.5Recently i appeared for wells fargo senior software engineer role. I applied through their career portal.\nThere were total of three interview rounds for me.First or OA round:\n90 mins hackerrank round covering java springboot backend developme",
     "url": "https://leetcode.com/discuss/post/8331139/wells-fargo-senior-software-engineer-sel-ghef",
-    "upvotes": 13,
+    "upvotes": 14,
     "comments": 2
   },
   {
