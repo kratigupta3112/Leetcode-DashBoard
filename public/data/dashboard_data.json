@@ -1,5 +1,15 @@
 [
   {
+    "id": 8539984,
+    "date": "2026-09-25T17:05:19.223505+00:00",
+    "location": "",
+    "company": "Product Based",
+    "role": "N/A",
+    "yoe": null,
+    "base": 1.0,
+    "total": 60.0
+  },
+  {
     "id": 8539072,
     "date": "2026-09-25T05:28:37.439156+00:00",
     "location": "Gurgaon,India",
@@ -1798,15 +1808,5 @@
     "yoe": 10.0,
     "base": 60.0,
     "total": 60.0
-  },
-  {
-    "id": 8170184,
-    "date": "2026-05-08T12:13:05.451145+00:00",
-    "location": "",
-    "company": "Goldman Sachs",
-    "role": "Analyst",
-    "yoe": 1.8,
-    "base": 26.0,
-    "total": 32.85
   }
 ]
