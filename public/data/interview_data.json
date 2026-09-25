@@ -1,5 +1,47 @@
 [
   {
+    "id": 8539138,
+    "date": "2026-09-25T06:22:59.130755+00:00",
+    "company": "Odoo Dubai",
+    "role": "Software Engineer",
+    "yoe": null,
+    "outcome": "reject",
+    "rounds": 3,
+    "title": "Odoo Dubai Interview Experience | Software Engineer | 5 YOE",
+    "summary": "I recently went through the interview process for a Software Engineer position at Odoo Dubai and wanted to share my experience, particularly the technical rounds, for candidates preparing for similar roles.I applied directly through the Odoo careers",
+    "url": "https://leetcode.com/discuss/post/8539138/odoo-dubai-interview-experience-software-xy1z",
+    "upvotes": 0,
+    "comments": 2
+  },
+  {
+    "id": 8539052,
+    "date": "2026-09-25T05:08:23.474201+00:00",
+    "company": "Moveworks (Service Now)",
+    "role": "Software Engineer",
+    "yoe": null,
+    "outcome": "unknown",
+    "rounds": 4,
+    "title": "Moveworks (Service Now) | Staff Software Engineer | Bangalore | JUNE 2026",
+    "summary": "Staff Software Engineer Interview ExperienceBelow is the interview experience for the role of Staff Software Engineer.Round 1 (DSA & Coding)Similar Leetcode problem : https://leetcode.com/problems/shortest-uncommon-substring-in-an-array/description/A",
+    "url": "https://leetcode.com/discuss/post/8539052/moveworks-service-now-staff-software-eng-fem0",
+    "upvotes": 3,
+    "comments": 0
+  },
+  {
+    "id": 8539011,
+    "date": "2026-09-25T04:38:47.833004+00:00",
+    "company": "Adobe : Swe Internship (Summer 2025) & New Grad",
+    "role": "Software Engineer Intern",
+    "yoe": null,
+    "outcome": "unknown",
+    "rounds": 4,
+    "title": "Adobe : SWE Internship (Summer 2025) & New Grad (Summer 2026) USA : Interview Experience",
+    "summary": "Company: Adobe\nTeam: Workfront, Reviews & Approvals\nRole: Software Engineer Intern\nLocation: Salt Lake City, UT. Virtual loop\nDate: November 2024\nHow it started: Cold application\nOutcome: Offer. AcceptedPosting this now because Adobe has just opened",
+    "url": "https://leetcode.com/discuss/post/8539011/adobe-swe-internship-summer-2025-new-gra-xf8n",
+    "upvotes": 2,
+    "comments": 0
+  },
+  {
     "id": 8537018,
     "date": "2026-09-24T01:15:18.563821+00:00",
     "company": "Deepinfra ( Series B",
@@ -109,7 +151,7 @@
     "summary": "Hello Everyone,I would like to share my experience of the interview process.So, we didn't qualify the hackon round, but I passed all the test cases.29 july:- received the interest form\n3 Aug:- recieved the Oa link\n4 Aug:- Completed the Oa, in 1st q a",
     "url": "https://leetcode.com/discuss/post/8536167/amazon-hackon-sde-intern-10490515-by-nik-gq8o",
     "upvotes": 6,
-    "comments": 2
+    "comments": 3
   },
   {
     "id": 8536004,
@@ -151,7 +193,7 @@
     "summary": "Role: SDE1, S3 Glacier (AWS)\nLocation: Onsite, Seattle HQ\nDate: August 2026\nOutcome: RejectedFour rounds, each an hour, each split the same way: behavioural first, then technical.Round 1 (Bar Raiser). Leadership Principles the whole hour. No code.Rou",
     "url": "https://leetcode.com/discuss/post/8535500/amazon-swe-new-grad-2026-usa-interview-e-oqe0",
     "upvotes": 5,
-    "comments": 1
+    "comments": 2
   },
   {
     "id": 8532961,
@@ -3554,19 +3596,5 @@
     "url": "https://leetcode.com/discuss/post/7102596/meta-e4-interview-experience-by-d5dlpvar-53v4",
     "upvotes": 6,
     "comments": 3
-  },
-  {
-    "id": 7094706,
-    "date": "2025-08-18T08:13:30.042309+00:00",
-    "company": "Google University Grad 2026",
-    "role": "N/A",
-    "yoe": null,
-    "outcome": "unknown",
-    "rounds": 3,
-    "title": "Google university grad 2026 ",
-    "summary": "Hi everyone,\nI recently completed my Google onsite and wanted to get some advice on my chances of moving forward.Round 1: Went really well (felt like a strong hire).Round 2: Asked a DP problem. I solved it with a time complexity of O(k^2 * n). The in",
-    "url": "https://leetcode.com/discuss/post/7094706/google-university-grad-2026-by-minrik_7-1ht8",
-    "upvotes": 2,
-    "comments": 7
   }
 ]
