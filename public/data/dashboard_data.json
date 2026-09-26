@@ -1808,5 +1808,15 @@
     "yoe": null,
     "base": 29.0,
     "total": 29.0
+  },
+  {
+    "id": 8173950,
+    "date": "2026-05-08T21:09:19.549083+00:00",
+    "location": "",
+    "company": "Uniphore",
+    "role": "N/A",
+    "yoe": 10.0,
+    "base": 60.0,
+    "total": 60.0
   }
 ]
