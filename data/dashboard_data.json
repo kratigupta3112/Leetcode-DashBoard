@@ -1,5 +1,15 @@
 [
   {
+    "id": 8540807,
+    "date": "2026-09-26T08:28:32.379841+00:00",
+    "location": "Bengaluru",
+    "company": "Oracle Cerner Healthcare Solutions India Pvt. Ltd. (oracle Health)",
+    "role": "Application Software Engineer 2",
+    "yoe": 1.0,
+    "base": 1.0,
+    "total": 22.0
+  },
+  {
     "id": 8539984,
     "date": "2026-09-25T17:05:19.223505+00:00",
     "location": "",
@@ -7,7 +17,7 @@
     "role": "N/A",
     "yoe": null,
     "base": 1.0,
-    "total": 60.0
+    "total": 7.0
   },
   {
     "id": 8539072,
@@ -1798,15 +1808,5 @@
     "yoe": null,
     "base": 29.0,
     "total": 29.0
-  },
-  {
-    "id": 8173950,
-    "date": "2026-05-08T21:09:19.549083+00:00",
-    "location": "",
-    "company": "Uniphore",
-    "role": "N/A",
-    "yoe": 10.0,
-    "base": 60.0,
-    "total": 60.0
   }
 ]
