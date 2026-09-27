@@ -1,5 +1,19 @@
 [
   {
+    "id": 8542365,
+    "date": "2026-09-27T05:05:51.305722+00:00",
+    "company": "Amazon",
+    "role": "SDE",
+    "yoe": null,
+    "outcome": "offer",
+    "rounds": 4,
+    "title": "Amazon SDE-1 Interview Experience ( TCS -> Amazon ,2YOE) — Timeline, Preparation & Offer",
+    "summary": "I recently completed the Amazon SDE-1 interview process and received the offer on September 21, 2026.I am sharing this detailed timeline and experience because reading community discussions helped me immensely during my preparation. I know how confus",
+    "url": "https://leetcode.com/discuss/post/8542365/amazon-sde-1-interview-experience-tcs-am-8dyr",
+    "upvotes": 19,
+    "comments": 9
+  },
+  {
     "id": 8539138,
     "date": "2026-09-25T06:22:59.130755+00:00",
     "company": "Odoo Dubai",
@@ -24,8 +38,8 @@
     "title": "Moveworks (Service Now) | Staff Software Engineer | Bangalore | JUNE 2026",
     "summary": "Staff Software Engineer Interview ExperienceBelow is the interview experience for the role of Staff Software Engineer.Round 1 (DSA & Coding)Similar Leetcode problem : https://leetcode.com/problems/shortest-uncommon-substring-in-an-array/description/A",
     "url": "https://leetcode.com/discuss/post/8539052/moveworks-service-now-staff-software-eng-fem0",
-    "upvotes": 3,
-    "comments": 0
+    "upvotes": 4,
+    "comments": 1
   },
   {
     "id": 8539011,
