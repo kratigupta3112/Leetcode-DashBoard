@@ -1,5 +1,15 @@
 [
   {
+    "id": 8545710,
+    "date": "2026-09-28T20:25:00.477469+00:00",
+    "location": "Bengaluru",
+    "company": "Henkel Adhesives Technologies India Pvt. Ltd.",
+    "role": "L1",
+    "yoe": null,
+    "base": 22.0,
+    "total": 22.0
+  },
+  {
     "id": 8542827,
     "date": "2026-09-27T10:11:48.036451+00:00",
     "location": "Hyderabad, India",
@@ -1808,25 +1818,5 @@
     "yoe": 4.0,
     "base": 2.0,
     "total": 5.0
-  },
-  {
-    "id": 8179144,
-    "date": "2026-05-09T15:42:29.007836+00:00",
-    "location": "",
-    "company": "Walmart",
-    "role": "N/A",
-    "yoe": null,
-    "base": 29.0,
-    "total": 29.0
-  },
-  {
-    "id": 8173950,
-    "date": "2026-05-08T21:09:19.549083+00:00",
-    "location": "",
-    "company": "Uniphore",
-    "role": "N/A",
-    "yoe": 10.0,
-    "base": 60.0,
-    "total": 60.0
   }
 ]
