@@ -1,5 +1,19 @@
 [
   {
+    "id": 8554414,
+    "date": "2026-10-04T01:22:09.236945+00:00",
+    "company": "Servicenow : Swe Internship (Summer 2025) Usa :",
+    "role": "Software Engineer Intern",
+    "yoe": null,
+    "outcome": "unknown",
+    "rounds": 4,
+    "title": "ServiceNow : SWE Internship (Summer 2025) USA : Interview Experience",
+    "summary": "Company: ServiceNow\nTeam: Developer Productivity\nRole: Software Engineer Intern\nLocation: San Diego, CA. Virtual loop\nDate: October to December 2024\nHow it started: Cold application\nOutcome: Withdrew. Results were delayed, and I had accepted Adobe in",
+    "url": "https://leetcode.com/discuss/post/8554414/servicenow-swe-internship-summer-2025-us-nvyi",
+    "upvotes": 1,
+    "comments": 0
+  },
+  {
     "id": 8552648,
     "date": "2026-10-02T21:12:34.248775+00:00",
     "company": "Dell Technologies : Software Engineer Internship",
@@ -159,7 +173,7 @@
     "company": "Amazon",
     "role": "SDE",
     "yoe": null,
-    "outcome": "unknown",
+    "outcome": "offer",
     "rounds": 2,
     "title": "Amazon SDE Intern Interview Experience | On-Campus | ₹1.3 Lakh/Month | 6M + PPO",
     "summary": "Stipend: ₹1.3 Lakh/monthOAThe Online Assessment consisted of:\n1 DSA question — Medium difficulty\n1 Code Repository-based question\nBehavioral questions\nWork Style Assessment\nInterview ProcessRound 1 — TechnicalThe round consisted of:2 DSA questions\nBF",
@@ -3582,19 +3596,5 @@
     "url": "https://leetcode.com/discuss/post/7111250/amazon-sde-interview-expierence-2025-bat-kqh9",
     "upvotes": 33,
     "comments": 17
-  },
-  {
-    "id": 7107159,
-    "date": "2025-08-21T16:41:14.042538+00:00",
-    "company": "Nvidia",
-    "role": "N/A",
-    "yoe": null,
-    "outcome": "unknown",
-    "rounds": null,
-    "title": "NVIDIA |  Recevied OA link for this week",
-    "summary": "Hi Guys,Today i have recevied OA for Automation and Tools Development Engineer role,if anyone had this OA round(hackerrank) and next interview rounds for this role, tell me some insights what i can expect in this round?which are grilled concepts and",
-    "url": "https://leetcode.com/discuss/post/7107159/nvidia-recevied-oa-link-for-this-week-by-j1h1",
-    "upvotes": 0,
-    "comments": 5
   }
 ]
