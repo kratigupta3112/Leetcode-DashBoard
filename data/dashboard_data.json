@@ -870,6 +870,16 @@
     "total": 27.0
   },
   {
+    "id": 8432617,
+    "date": "2026-07-31T11:27:01.695608+00:00",
+    "location": "",
+    "company": "Google",
+    "role": "Offer",
+    "yoe": null,
+    "base": 35.2,
+    "total": 45.0
+  },
+  {
     "id": 8432436,
     "date": "2026-07-31T09:31:57.029896+00:00",
     "location": "Bengaluru",
@@ -1798,15 +1808,5 @@
     "yoe": 7.5,
     "base": 41.0,
     "total": 50.0
-  },
-  {
-    "id": 8234198,
-    "date": "2026-05-15T06:21:39.358391+00:00",
-    "location": "Noida, India (Hybrid)",
-    "company": "Microsoft",
-    "role": "Software Engineer - 2 (L61)",
-    "yoe": 5.0,
-    "base": 63.0,
-    "total": 63.0
   }
 ]

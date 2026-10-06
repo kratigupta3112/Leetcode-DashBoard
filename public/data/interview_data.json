@@ -1,5 +1,19 @@
 [
   {
+    "id": 8559932,
+    "date": "2026-10-06T20:13:32.719554+00:00",
+    "company": "# Teradata Cloud Ai Engineer",
+    "role": "N/A",
+    "yoe": 2.0,
+    "outcome": "reject",
+    "rounds": 4,
+    "title": "# Teradata Cloud AI Engineer Interview Experience | 2 Years Experience | Rejected",
+    "summary": "Hi everyone,I recently interviewed for the Cloud AI Engineer position at Teradata. I have approximately two years of software development experience.Round 1: Technical and DSAThe discussion covered:\nMy professional experience and projects\nDSA: Task S",
+    "url": "https://leetcode.com/discuss/post/8559932/teradata-cloud-ai-engineer-interview-exp-ic79",
+    "upvotes": 1,
+    "comments": 0
+  },
+  {
     "id": 8554414,
     "date": "2026-10-04T01:22:09.236945+00:00",
     "company": "Servicenow : Swe Internship (Summer 2025) Usa :",
@@ -66,8 +80,8 @@
     "title": "Amazon SDE-1 Interview Experience ( TCS -> Amazon ,2YOE) — Timeline, Preparation & Offer",
     "summary": "I recently completed the Amazon SDE-1 interview process and received the offer on September 21, 2026.I am sharing this detailed timeline and experience because reading community discussions helped me immensely during my preparation. I know how confus",
     "url": "https://leetcode.com/discuss/post/8542365/amazon-sde-1-interview-experience-tcs-am-8dyr",
-    "upvotes": 94,
-    "comments": 35
+    "upvotes": 98,
+    "comments": 36
   },
   {
     "id": 8539138,
@@ -234,7 +248,7 @@
     "title": "Coupa Pune | Senior Software Engineer | Interview Experience",
     "summary": "I recently joined Coupa as a Senior Software Engineer for a Java + Python role. Despite having 3 years of experience applying for a position that required 5+ years, I managed to clear the process.💡 Key Takeaways & Screen Filtering Advice\nVolume & Spe",
     "url": "https://leetcode.com/discuss/post/8536004/coupa-pune-senior-software-engineer-inte-u3zl",
-    "upvotes": 7,
+    "upvotes": 8,
     "comments": 2
   },
   {
@@ -3582,19 +3596,5 @@
     "url": "https://leetcode.com/discuss/post/7113665/paytm-interview-experience-sde-2-f2f-by-dtiwy",
     "upvotes": 9,
     "comments": 2
-  },
-  {
-    "id": 7111250,
-    "date": "2025-08-22T18:29:36.055803+00:00",
-    "company": "Amazon",
-    "role": "SDE",
-    "yoe": null,
-    "outcome": "offer",
-    "rounds": 3,
-    "title": "Amazon SDE Interview Expierence - 2025 Batch | Verdict - SELECTED ✅ ",
-    "summary": "Hey LeetCoders! Just wanted to share my Amazon interview experience as it might help someone preparing for similar roles.\nI’m a 2025 pass-out from a Tier-3 college, and I recently cracked Amazon SDE role off-campus.Timeline & Detailed Process:Applica",
-    "url": "https://leetcode.com/discuss/post/7111250/amazon-sde-interview-expierence-2025-bat-kqh9",
-    "upvotes": 33,
-    "comments": 17
   }
 ]
