@@ -1,5 +1,15 @@
 [
   {
+    "id": 8561173,
+    "date": "2026-10-07T15:09:07.886267+00:00",
+    "location": "Bangalore/Hyderabad/Mohali/Pune",
+    "company": "Zscaler",
+    "role": "Software Development Engineer Intern",
+    "yoe": null,
+    "base": 2.0,
+    "total": 2.0
+  },
+  {
     "id": 8560214,
     "date": "2026-10-07T04:09:39.977560+00:00",
     "location": "",
@@ -1798,15 +1808,5 @@
     "yoe": null,
     "base": 3.0,
     "total": 17.0
-  },
-  {
-    "id": 8245638,
-    "date": "2026-05-16T04:47:04.137146+00:00",
-    "location": "Bangalore (4 Days Wfo)",
-    "company": "JP Morgan Chase",
-    "role": "Sde 2 (Grade 601)",
-    "yoe": 4.0,
-    "base": 29.0,
-    "total": 32.0
   }
 ]
