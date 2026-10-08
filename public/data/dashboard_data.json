@@ -1,5 +1,15 @@
 [
   {
+    "id": 8562604,
+    "date": "2026-10-08T11:24:24.797308+00:00",
+    "location": "Gurgaon, India",
+    "company": "Zomato",
+    "role": "Gurgaon",
+    "yoe": 1.0,
+    "base": 27.0,
+    "total": 27.0
+  },
+  {
     "id": 8561949,
     "date": "2026-10-08T03:39:29.774479+00:00",
     "location": "Gurgaon, India",
@@ -1808,15 +1818,5 @@
     "yoe": 3.0,
     "base": 3.0,
     "total": 8.0
-  },
-  {
-    "id": 8249205,
-    "date": "2026-05-16T10:41:41.306419+00:00",
-    "location": "",
-    "company": "Startup",
-    "role": "Senior Ai Engineer",
-    "yoe": null,
-    "base": 3.0,
-    "total": 17.0
   }
 ]
