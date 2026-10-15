@@ -108,7 +108,7 @@
     "title": "Amazon SDE-1 Interview Experience ( TCS -> Amazon ,2YOE) — Timeline, Preparation & Offer",
     "summary": "I recently completed the Amazon SDE-1 interview process and received the offer on September 21, 2026.I am sharing this detailed timeline and experience because reading community discussions helped me immensely during my preparation. I know how confus",
     "url": "https://leetcode.com/discuss/post/8542365/amazon-sde-1-interview-experience-tcs-am-8dyr",
-    "upvotes": 120,
+    "upvotes": 121,
     "comments": 43
   },
   {
@@ -360,7 +360,7 @@
     "title": "Amazon SDE1 India 2026 – 4-Round Loop Experience | Final Result Timeline & Chances? ",
     "summary": "Hi everyone,I’m a 2026 graduate (from Tier 1 engineering institute, having 6 month intership experience at product based company)going through the Amazon SDE1 hiring process in India through an AUTA hiring drive. I’ve now completed all 4 rounds and w",
     "url": "https://leetcode.com/discuss/post/8527332/amazon-sde1-india-2026-4-round-loop-expe-sfeu",
-    "upvotes": 8,
+    "upvotes": 9,
     "comments": 4
   },
   {
@@ -3610,19 +3610,5 @@
     "url": "https://leetcode.com/discuss/post/7116020/tennr-implementation-engineer-interview-lc2yj",
     "upvotes": 9,
     "comments": 6
-  },
-  {
-    "id": 7113665,
-    "date": "2025-08-23T15:12:03.318343+00:00",
-    "company": "Paytm Interview Experience [Sde",
-    "role": "SDE",
-    "yoe": null,
-    "outcome": "offer",
-    "rounds": 2,
-    "title": "Paytm Interview Experience [SDE-2] (F2F)",
-    "summary": "Paytm Interview Experience [SDE-2] (F2F)Round 0: Online Assessment (HackerRank)\nDuration: 63 minutes\nFormat:\n\n2 Coding Questions (Easy–Medium level):\n\nFind the number of common subsequences which are substrings of one of the strings.\nFind the maximum",
-    "url": "https://leetcode.com/discuss/post/7113665/paytm-interview-experience-sde-2-f2f-by-dtiwy",
-    "upvotes": 9,
-    "comments": 2
   }
 ]
