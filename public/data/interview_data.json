@@ -1,5 +1,19 @@
 [
   {
+    "id": 8574315,
+    "date": "2026-10-15T17:57:52.266934+00:00",
+    "company": "4Th Rejection",
+    "role": "N/A",
+    "yoe": null,
+    "outcome": "reject",
+    "rounds": null,
+    "title": "4th Rejection -> EverNorth HealthCare - 18CTC",
+    "summary": "Another rejectionHad 2 rounds in the interview process:\nTechnical Round: An easy LeetCode palindrome problem, along with questions on RAG, Generative AI, LangChain, Agentic AI, LLM tokenization, and friend classes in OOP.\nHR Round: A positive and chi",
+    "url": "https://leetcode.com/discuss/post/8574315/4th-rejection-evernorth-healthcare-18ctc-qfx7",
+    "upvotes": 3,
+    "comments": 1
+  },
+  {
     "id": 8572804,
     "date": "2026-10-14T18:03:48.257457+00:00",
     "company": "Sap Labs (Via. Ntt Data Business Solutions)",
@@ -3595,20 +3609,6 @@
     "summary": "Amazon SDE I Offer Details:Education: B.Tech (IT) from private College ( 2025 batch)Date of the Offer: August/2025\nCompany: Amazon\nTitle/Level: Software Development Engineer I (SDE I)\nLocation: Bangalore, IndiaCompensation\nBase Salary: ₹19,17,000 per",
     "url": "https://leetcode.com/discuss/post/7116237/amazon-sde1-compensation-by-ritika-22-d7si",
     "upvotes": 12,
-    "comments": 6
-  },
-  {
-    "id": 7116020,
-    "date": "2025-08-24T07:19:37.456980+00:00",
-    "company": "Tennr",
-    "role": "N/A",
-    "yoe": null,
-    "outcome": "reject",
-    "rounds": 4,
-    "title": "Tennr | Implementation Engineer | Interview Experience | Remote",
-    "summary": "My Interview Experience at TennrRound 1 – Assessment Round\nI received a take-home assessment that needed to be completed within approximately 48 hours.\nRound 2 – Technical Interview (DSA | ~1 Hour)\nThis round focused on Data Structures and Algorithms",
-    "url": "https://leetcode.com/discuss/post/7116020/tennr-implementation-engineer-interview-lc2yj",
-    "upvotes": 9,
     "comments": 6
   }
 ]
