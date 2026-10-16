@@ -20,16 +20,6 @@
     "total": 18.0
   },
   {
-    "id": 8566330,
-    "date": "2026-10-10T22:16:51.786338+00:00",
-    "location": "",
-    "company": "Recently Interviewed For",
-    "role": "L4",
-    "yoe": null,
-    "base": 40.0,
-    "total": 40.0
-  },
-  {
     "id": 8564727,
     "date": "2026-10-09T17:26:37.432360+00:00",
     "location": "",
@@ -1838,5 +1828,15 @@
     "yoe": 7.0,
     "base": 38.0,
     "total": 45.0
+  },
+  {
+    "id": 8278327,
+    "date": "2026-05-19T16:35:34.538838+00:00",
+    "location": "Bengaluru",
+    "company": "Rippling",
+    "role": "N/A",
+    "yoe": 2.5,
+    "base": 63.0,
+    "total": 63.0
   }
 ]
