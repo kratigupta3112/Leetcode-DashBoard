@@ -1,5 +1,19 @@
 [
   {
+    "id": 8577055,
+    "date": "2026-10-17T22:07:57.633872+00:00",
+    "company": "Agoda",
+    "role": "software engineer",
+    "yoe": null,
+    "outcome": "reject",
+    "rounds": 2,
+    "title": "Agoda interview experience | Staff software engineer",
+    "summary": "Four major rounds are there (with 1 HR call)Round 1: DSA round live coding on Hackerrank with interviewer | 60 minutesThe interviewer doesn't really ask anything, apart from basic questions, this just about solving the DSA problems fully.\nTwo problem",
+    "url": "https://leetcode.com/discuss/post/8577055/agoda-interview-experience-staff-softwar-2rqj",
+    "upvotes": 0,
+    "comments": 0
+  },
+  {
     "id": 8574315,
     "date": "2026-10-15T17:57:52.266934+00:00",
     "company": "4Th Rejection",
@@ -3595,20 +3609,6 @@
     "summary": "Hi everyone,\nI recently finished my final round at Google, but they scheduled an extra round for me. In that extra round, I was able to solve the problem fully and also explained the time and space complexity. The interviewer was mostly unresponsive",
     "url": "https://leetcode.com/discuss/post/7123692/google-university-grad-2026-interview-ex-f45n",
     "upvotes": 2,
-    "comments": 6
-  },
-  {
-    "id": 7116237,
-    "date": "2025-08-24T08:25:29.538129+00:00",
-    "company": "Amazon",
-    "role": "SDE1",
-    "yoe": 0.0,
-    "outcome": "unknown",
-    "rounds": null,
-    "title": "Amazon SDE1 Compensation ",
-    "summary": "Amazon SDE I Offer Details:Education: B.Tech (IT) from private College ( 2025 batch)Date of the Offer: August/2025\nCompany: Amazon\nTitle/Level: Software Development Engineer I (SDE I)\nLocation: Bangalore, IndiaCompensation\nBase Salary: ₹19,17,000 per",
-    "url": "https://leetcode.com/discuss/post/7116237/amazon-sde1-compensation-by-ritika-22-d7si",
-    "upvotes": 12,
     "comments": 6
   }
 ]
