@@ -1,5 +1,15 @@
 [
   {
+    "id": 8579709,
+    "date": "2026-10-19T15:02:06.397511+00:00",
+    "location": "",
+    "company": "Nokia",
+    "role": "Software Engineer 2",
+    "yoe": 3.5,
+    "base": 19.0,
+    "total": 20.0
+  },
+  {
     "id": 8579285,
     "date": "2026-10-19T09:58:21.394820+00:00",
     "location": "",
@@ -1838,15 +1848,5 @@
     "yoe": null,
     "base": 3.0,
     "total": 6.5
-  },
-  {
-    "id": 8286166,
-    "date": "2026-05-22T11:16:30.141798+00:00",
-    "location": "",
-    "company": "Searce",
-    "role": "Machine Learning Engineer",
-    "yoe": null,
-    "base": 23.0,
-    "total": 4.0
   }
 ]
