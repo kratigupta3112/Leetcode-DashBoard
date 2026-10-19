@@ -1848,15 +1848,5 @@
     "yoe": null,
     "base": 23.0,
     "total": 4.0
-  },
-  {
-    "id": 8284627,
-    "date": "2026-05-21T17:22:11.343922+00:00",
-    "location": "Bengaluru",
-    "company": "Product Base",
-    "role": "MTS",
-    "yoe": 2.0,
-    "base": 27.4,
-    "total": 41.4
   }
 ]
