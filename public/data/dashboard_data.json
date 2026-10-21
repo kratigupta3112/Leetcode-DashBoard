@@ -1,5 +1,15 @@
 [
   {
+    "id": 8582208,
+    "date": "2026-10-21T10:22:01.950013+00:00",
+    "location": "",
+    "company": "Senior Software Engineer",
+    "role": "India",
+    "yoe": null,
+    "base": 3.0,
+    "total": 12.0
+  },
+  {
     "id": 8581834,
     "date": "2026-10-21T05:41:12.641328+00:00",
     "location": "",
@@ -1848,15 +1858,5 @@
     "yoe": 3.0,
     "base": 18.0,
     "total": 18.0
-  },
-  {
-    "id": 8292668,
-    "date": "2026-05-25T11:50:58.787434+00:00",
-    "location": "",
-    "company": "Ier 1 College And Currently Working As A",
-    "role": "SDE2",
-    "yoe": null,
-    "base": 3.0,
-    "total": 6.5
   }
 ]
