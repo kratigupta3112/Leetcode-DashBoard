@@ -60,16 +60,6 @@
     "total": 19.5
   },
   {
-    "id": 8580791,
-    "date": "2026-10-20T10:30:59.953755+00:00",
-    "location": "- Hyd",
-    "company": "- Quantium",
-    "role": "- Senior Ds",
-    "yoe": null,
-    "base": 27.0,
-    "total": 27.0
-  },
-  {
     "id": 8579709,
     "date": "2026-10-19T15:02:06.397511+00:00",
     "location": "",
@@ -1878,5 +1868,15 @@
     "yoe": null,
     "base": 62.0,
     "total": 62.0
+  },
+  {
+    "id": 8295640,
+    "date": "2026-05-26T18:31:17.982837+00:00",
+    "location": "Bengaluru",
+    "company": "Titan (directi)",
+    "role": "N/A",
+    "yoe": 0.0,
+    "base": 1.0,
+    "total": 22.0
   }
 ]
