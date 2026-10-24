@@ -1,5 +1,19 @@
 [
   {
+    "id": 8586447,
+    "date": "2026-10-24T10:41:38.961040+00:00",
+    "company": "Amazon",
+    "role": "SDE",
+    "yoe": null,
+    "outcome": "unknown",
+    "rounds": 2,
+    "title": "Amazon | SDE Intern | Round 2 | Full Interview Breakdown",
+    "summary": "Round AttributeDetailsCompany & RoleAmazon — SDE InternRoundTechnical Round 2 (60 Minutes)Core TopicsGreedy / Priority Queue, LLM Reliability in Production, Design Patterns, SOLID, Behavioral (STAR)Part 1: DSA Coding QuestionProblem StatementGiven a",
+    "url": "https://leetcode.com/discuss/post/8586447/amazon-sde-intern-round-2-full-interview-h0ao",
+    "upvotes": 5,
+    "comments": 2
+  },
+  {
     "id": 8585902,
     "date": "2026-10-24T03:31:09.025111+00:00",
     "company": "Amazon",
@@ -11,7 +25,7 @@
     "summary": "Location: Hyederabad, India\nYears of Experience: 5\nCurrent: PBCAmazon SDE2 Interview Experience | DSA + LLD + HLDRound 1: DSAQuestion: Similar to Rotten Oranges (LeetCode 994)\nThe round went very well, was able to easily code and explain end to end.",
     "url": "https://leetcode.com/discuss/post/8585902/amazon-sde2-interview-experience-by-anon-o9t8",
     "upvotes": 3,
-    "comments": 5
+    "comments": 6
   },
   {
     "id": 8585008,
@@ -206,7 +220,7 @@
     "title": "Amazon SDE-1 Interview Experience ( TCS -> Amazon ,2YOE) — Timeline, Preparation & Offer",
     "summary": "I recently completed the Amazon SDE-1 interview process and received the offer on September 21, 2026.I am sharing this detailed timeline and experience because reading community discussions helped me immensely during my preparation. I know how confus",
     "url": "https://leetcode.com/discuss/post/8542365/amazon-sde-1-interview-experience-tcs-am-8dyr",
-    "upvotes": 129,
+    "upvotes": 130,
     "comments": 45
   },
   {
