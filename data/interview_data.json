@@ -1,5 +1,19 @@
 [
   {
+    "id": 8589696,
+    "date": "2026-10-26T11:31:43.846750+00:00",
+    "company": "Pelatro Software Engineer Interview Experience (",
+    "role": "Software Engineer Interview Experience (",
+    "yoe": null,
+    "outcome": "offer",
+    "rounds": 4,
+    "title": "Pelatro Software Engineer Interview Experience (September 2026)",
+    "summary": "I recently interviewed for the Engineer - Development role at Pelatro, Bengaluru. The process consisted of four rounds covering Core Java, problem-solving, SQL, debugging, project experience, and behavioral questions.Interview Timeline\nDay 1 - Onsite",
+    "url": "https://leetcode.com/discuss/post/8589696/pelatro-software-engineer-interview-expe-a6xp",
+    "upvotes": 0,
+    "comments": 0
+  },
+  {
     "id": 8589058,
     "date": "2026-10-26T01:55:23.388597+00:00",
     "company": "Cohesity",
@@ -11,7 +25,7 @@
     "summary": "Base:36LPA\nBonus: 8% of base salary\nStock Unit: 2200 unit for 3 year worth 17lakhs per year\nRecruiter Told me its the max range for Mts-2\nRejected this OfferCohesity Interview Experience: https://leetcode.com/discuss/post/8584602/cohesity-mts-2-role-",
     "url": "https://leetcode.com/discuss/post/8589058/cohesity-mts-2-compensation-by-vj_t-8o3f",
     "upvotes": 0,
-    "comments": 0
+    "comments": 3
   },
   {
     "id": 8586447,
@@ -24,7 +38,7 @@
     "title": "Amazon | SDE Intern | Round 2 | Full Interview Breakdown",
     "summary": "Round AttributeDetailsCompany & RoleAmazon — SDE InternRoundTechnical Round 2 (60 Minutes)Core TopicsGreedy / Priority Queue, LLM Reliability in Production, Design Patterns, SOLID, Behavioral (STAR)Part 1: DSA Coding QuestionProblem StatementGiven a",
     "url": "https://leetcode.com/discuss/post/8586447/amazon-sde-intern-round-2-full-interview-h0ao",
-    "upvotes": 8,
+    "upvotes": 9,
     "comments": 4
   },
   {
@@ -39,7 +53,7 @@
     "summary": "Location: Hyederabad, India\nYears of Experience: 5\nCurrent: PBCAmazon SDE2 Interview Experience | DSA + LLD + HLDRound 1: DSAQuestion: Similar to Rotten Oranges (LeetCode 994)\nThe round went very well, was able to easily code and explain end to end.",
     "url": "https://leetcode.com/discuss/post/8585902/amazon-sde2-interview-experience-by-anon-o9t8",
     "upvotes": 4,
-    "comments": 7
+    "comments": 8
   },
   {
     "id": 8585008,
@@ -67,7 +81,7 @@
     "summary": "My interview experience with Cohesity:\nRound 1: DSA — LRU Cache\nDesign and implement a key-value store using an LRU (Least Recently Used) eviction policy.\nRound 2: LLD + HLD — Key-Value Store\nDesign a key-value storage system and implement consistent",
     "url": "https://leetcode.com/discuss/post/8584602/cohesity-mts-2-role-interview-experience-f4az",
     "upvotes": 2,
-    "comments": 2
+    "comments": 3
   },
   {
     "id": 8582631,
@@ -263,7 +277,7 @@
     "summary": "Staff Software Engineer Interview ExperienceBelow is the interview experience for the role of Staff Software Engineer.Round 1 (DSA & Coding)Similar Leetcode problem : https://leetcode.com/problems/shortest-uncommon-substring-in-an-array/description/A",
     "url": "https://leetcode.com/discuss/post/8539052/moveworks-service-now-staff-software-eng-fem0",
     "upvotes": 5,
-    "comments": 1
+    "comments": 2
   },
   {
     "id": 8539011,
@@ -543,7 +557,7 @@
     "summary": "Sharing my recent interview experience with Abnormal AI in case it helps anyone preparing for the process. Overall, it was a good experience, and the recruiter was communicative and helpful throughout.Interview ProcessThe process consisted of the fol",
     "url": "https://leetcode.com/discuss/post/8496901/abnormal-ai-software-engineer-ii-intervi-2bg2",
     "upvotes": 4,
-    "comments": 4
+    "comments": 5
   },
   {
     "id": 8487700,
