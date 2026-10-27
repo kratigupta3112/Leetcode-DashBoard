@@ -1,5 +1,15 @@
 [
   {
+    "id": 8591103,
+    "date": "2026-10-27T10:38:08.704571+00:00",
+    "location": "",
+    "company": "Fintech (world's Largest Derivatives Exchange)",
+    "role": "Engineer 4",
+    "yoe": 3.4,
+    "base": 28.0,
+    "total": 28.0
+  },
+  {
     "id": 8588962,
     "date": "2026-10-25T21:32:31.931337+00:00",
     "location": "",
@@ -1848,15 +1858,5 @@
     "yoe": 8.5,
     "base": 4.0,
     "total": 2.0
-  },
-  {
-    "id": 8299107,
-    "date": "2026-05-28T13:38:35.614735+00:00",
-    "location": "",
-    "company": "Silicon Engineering",
-    "role": "L3",
-    "yoe": null,
-    "base": 1.0,
-    "total": 25.0
   }
 ]
