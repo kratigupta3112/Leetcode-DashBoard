@@ -1,5 +1,19 @@
 [
   {
+    "id": 8593024,
+    "date": "2026-10-28T18:15:27.145067+00:00",
+    "company": "Amazon",
+    "role": "SDE",
+    "yoe": null,
+    "outcome": "unknown",
+    "rounds": 1,
+    "title": "Amazon SDE I Intern Interview Experience | Round 1 — Technical Interview ",
+    "summary": "Amazon SDE I Intern | Round 1 — Technical InterviewHi everyone!I recently appeared for the Amazon SDE I Intern interview. I am sharing my Round 1 interview experience to help other students preparing for Amazon SDE internship interviews.Interview Det",
+    "url": "https://leetcode.com/discuss/post/8593024/amazon-sde-i-intern-interview-experience-9z06",
+    "upvotes": 0,
+    "comments": 0
+  },
+  {
     "id": 8589696,
     "date": "2026-10-26T11:31:43.846750+00:00",
     "company": "Pelatro Software Engineer Interview Experience (",
@@ -67,7 +81,7 @@
     "summary": "Hi friends, I have 9+ years of experience and i have been applying for #Tesco from last couple of years. Never got a call from them. Today suddenly I got a call from them and they scheduled my coding and design rounds. I have around a week time. I re",
     "url": "https://leetcode.com/discuss/post/8585008/need-guidance-for-the-sde-3-upcoming-int-yyva",
     "upvotes": 0,
-    "comments": 0
+    "comments": 1
   },
   {
     "id": 8584602,
@@ -82,20 +96,6 @@
     "url": "https://leetcode.com/discuss/post/8584602/cohesity-mts-2-role-interview-experience-f4az",
     "upvotes": 3,
     "comments": 3
-  },
-  {
-    "id": 8582631,
-    "date": "2026-10-21T15:52:51.482874+00:00",
-    "company": "Amazon",
-    "role": "SDE 2",
-    "yoe": 4.5,
-    "outcome": "reject",
-    "rounds": null,
-    "title": "Amazon SDE 2 (L5) Interview experience | India | Bengaluru | Rejected ",
-    "summary": "My experience :\n4.5+ YOE, Currently working at a product base company.Application - I applied through Amazon Job portal directly(May 2026) and Got the OA after a month(June 2026)OA experience - There was One standard amazon OA DSA problem followed by",
-    "url": "https://leetcode.com/discuss/post/8582631/amazon-sde-2-l5-interview-experience-ind-t72m",
-    "upvotes": 30,
-    "comments": 10
   },
   {
     "id": 8578946,
