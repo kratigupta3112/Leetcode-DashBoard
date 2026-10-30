@@ -1,5 +1,19 @@
 [
   {
+    "id": 8594346,
+    "date": "2026-10-29T23:22:47.801906+00:00",
+    "company": "Goldman Sachs London",
+    "role": "Frontend Engineer",
+    "yoe": null,
+    "outcome": "ongoing",
+    "rounds": null,
+    "title": "Goldman Sachs London Frontend Engineer Onsite Interview – Software Design, React & SDLC Preparation",
+    "summary": "Hi everyone,I have an upcoming onsite panel interview with Goldman Sachs in London for a Frontend Engineer position (Analyst/Associate/VP level).The interview is structured into three rounds:\n\nSoftware Design (1 hour) – Software architecture, system",
+    "url": "https://leetcode.com/discuss/post/8594346/goldman-sachs-london-frontend-engineer-o-igge",
+    "upvotes": 1,
+    "comments": 0
+  },
+  {
     "id": 8593024,
     "date": "2026-10-28T18:15:27.145067+00:00",
     "company": "Amazon",
@@ -332,7 +346,7 @@
     "title": "Groww SDE Intern Interview Experience",
     "summary": "Recently appeared for the Groww on-campus interviewRole: SDE (backend)\nCollege : VIT-AP\nThe interview process had 3 rounds:\nRound 1 - DSA\nRound 2 - Projects + Core Subjects\nRound 3 - HR + System Design\nHere’s how each round went.Round 1 - DSADuration",
     "url": "https://leetcode.com/discuss/post/8536485/groww-on-campus-interview-experience-by-irbv4",
-    "upvotes": 4,
+    "upvotes": 5,
     "comments": 1
   },
   {
@@ -542,7 +556,7 @@
     "title": "Abnormal AI | Software Engineer II | Interview Experience",
     "summary": "Sharing my recent interview experience with Abnormal AI in case it helps anyone preparing for the process. Overall, it was a good experience, and the recruiter was communicative and helpful throughout.Interview ProcessThe process consisted of the fol",
     "url": "https://leetcode.com/discuss/post/8496901/abnormal-ai-software-engineer-ii-intervi-2bg2",
-    "upvotes": 4,
+    "upvotes": 5,
     "comments": 5
   },
   {
