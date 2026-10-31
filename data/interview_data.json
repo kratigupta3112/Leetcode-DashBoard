@@ -1,5 +1,19 @@
 [
   {
+    "id": 8595891,
+    "date": "2026-10-31T09:32:46.074708+00:00",
+    "company": "Broccoli Ai",
+    "role": "N/A",
+    "yoe": null,
+    "outcome": "reject",
+    "rounds": 2,
+    "title": "Broccoli AI  Interview Experience",
+    "summary": "Broccoli AI — Interview ExperienceRound 1: Resume Discussion — 30 minutesThe interviewer discussed my resume and asked me to explain a project in detail, followed by questions about the implementation and design decisions. Be prepared to discuss any",
+    "url": "https://leetcode.com/discuss/post/8595891/broccoli-ai-interview-experience-by-vj_t-805q",
+    "upvotes": 1,
+    "comments": 0
+  },
+  {
     "id": 8594346,
     "date": "2026-10-29T23:22:47.801906+00:00",
     "company": "Goldman Sachs London",
@@ -248,7 +262,7 @@
     "title": "Amazon SDE-1 Interview Experience ( TCS -> Amazon ,2YOE) — Timeline, Preparation & Offer",
     "summary": "I recently completed the Amazon SDE-1 interview process and received the offer on September 21, 2026.I am sharing this detailed timeline and experience because reading community discussions helped me immensely during my preparation. I know how confus",
     "url": "https://leetcode.com/discuss/post/8542365/amazon-sde-1-interview-experience-tcs-am-8dyr",
-    "upvotes": 132,
+    "upvotes": 133,
     "comments": 45
   },
   {
@@ -3623,20 +3637,6 @@
     "summary": "Hi , Has anyone recently attended Oracle Health Coding Loop round, i have my interview this week .Really appreciate your help if you could share interview exp.\nI can exchange the experience for apple/gm if you can DM me",
     "url": "https://leetcode.com/discuss/post/7149850/oracle-coding-round-by-fitz6xt3nb-ldvh",
     "upvotes": 5,
-    "comments": 6
-  },
-  {
-    "id": 7148077,
-    "date": "2025-09-02T12:38:30.592303+00:00",
-    "company": "Got Call From Hr For Amazon",
-    "role": "SDE",
-    "yoe": null,
-    "outcome": "unknown",
-    "rounds": null,
-    "title": "Got call from HR for Amazon SDE-1 Onsite | Update ....",
-    "summary": "I noticed that everytime Amazon HR usually sends interview invites for virtual rounds only.Has anyone else received an onsite interview invite for the Hyderabad location for SDE-1?Just before writing this, I got a call from HR asking about my availab",
-    "url": "https://leetcode.com/discuss/post/7148077/got-call-from-hr-for-amazon-sde-1-onsite-fedv",
-    "upvotes": 3,
     "comments": 6
   }
 ]
