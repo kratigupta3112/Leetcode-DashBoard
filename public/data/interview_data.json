@@ -1,5 +1,19 @@
 [
   {
+    "id": 8596242,
+    "date": "2026-10-31T15:49:06.274244+00:00",
+    "company": "My Salesforce",
+    "role": "MTS",
+    "yoe": 2.0,
+    "outcome": "offer",
+    "rounds": 3,
+    "title": "My Salesforce MTS Interview Experience",
+    "summary": "Background\nRole: Member of Technical Staff (MTS)\nLocation: Bangalore\nExperience: ~2 years, backend-focused (Java, Spring Boot, Kafka, Postgres, some React)\nEducation: DTU, 2024\nResult: Selected ✅\nReading experiences here helped me a lot while prepari",
+    "url": "https://leetcode.com/discuss/post/8596242/my-salesforce-mts-interview-experience-b-kgeh",
+    "upvotes": 4,
+    "comments": 0
+  },
+  {
     "id": 8595891,
     "date": "2026-10-31T09:32:46.074708+00:00",
     "company": "Broccoli Ai",
@@ -10,8 +24,8 @@
     "title": "Broccoli AI  Interview Experience",
     "summary": "Broccoli AI — Interview ExperienceRound 1: Resume Discussion — 30 minutesThe interviewer discussed my resume and asked me to explain a project in detail, followed by questions about the implementation and design decisions. Be prepared to discuss any",
     "url": "https://leetcode.com/discuss/post/8595891/broccoli-ai-interview-experience-by-vj_t-805q",
-    "upvotes": 1,
-    "comments": 0
+    "upvotes": 2,
+    "comments": 1
   },
   {
     "id": 8594346,
