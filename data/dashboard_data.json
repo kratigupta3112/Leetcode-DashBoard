@@ -1,5 +1,15 @@
 [
   {
+    "id": 8601839,
+    "date": "2026-11-04T17:33:11.300167+00:00",
+    "location": "",
+    "company": "Netapp",
+    "role": "SDE 3",
+    "yoe": null,
+    "base": 3.0,
+    "total": 7.0
+  },
+  {
     "id": 8598912,
     "date": "2026-11-02T13:00:36.625029+00:00",
     "location": "Remote",
@@ -128,16 +138,6 @@
     "yoe": null,
     "base": 2.0,
     "total": 1.5
-  },
-  {
-    "id": 8582208,
-    "date": "2026-10-21T10:22:01.950013+00:00",
-    "location": "",
-    "company": "Group",
-    "role": "Software Engineer, ~Faang, India",
-    "yoe": 3.0,
-    "base": 33.0,
-    "total": 33.0
   },
   {
     "id": 8581834,
