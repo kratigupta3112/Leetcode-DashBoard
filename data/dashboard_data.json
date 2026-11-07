@@ -1,5 +1,15 @@
 [
   {
+    "id": 8605087,
+    "date": "2026-11-07T20:24:45.360463+00:00",
+    "location": "",
+    "company": "Slice",
+    "role": "Sde-1 At A Startup",
+    "yoe": null,
+    "base": 2.0,
+    "total": 3.0
+  },
+  {
     "id": 8601839,
     "date": "2026-11-04T17:33:11.300167+00:00",
     "location": "",
@@ -1858,15 +1868,5 @@
     "yoe": null,
     "base": 2.5,
     "total": 2.5
-  },
-  {
-    "id": 8308534,
-    "date": "2026-06-02T09:45:23.311289+00:00",
-    "location": "Bengaluru",
-    "company": "Mcafee",
-    "role": "SSE",
-    "yoe": 9.0,
-    "base": 41.5,
-    "total": 41.5
   }
 ]

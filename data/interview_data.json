@@ -1,5 +1,19 @@
 [
   {
+    "id": 8605041,
+    "date": "2026-11-07T19:31:31.675128+00:00",
+    "company": "Cohesity",
+    "role": "MTS",
+    "yoe": null,
+    "outcome": "offer",
+    "rounds": 3,
+    "title": "Cohesity MTS-3 Interview Experience",
+    "summary": "Cohesity MTS-3 Interview Experience | Bengaluru | Selected 🎉Recently interviewed for the MTS-3 (Member of Technical Staff 3) role at Cohesity and received a positive outcome. Sharing my experience to help others preparing for similar opportunities.In",
+    "url": "https://leetcode.com/discuss/post/8605041/cohesity-mts-3-interview-experience-by-v-r3np",
+    "upvotes": 0,
+    "comments": 0
+  },
+  {
     "id": 8596242,
     "date": "2026-10-31T15:49:06.274244+00:00",
     "company": "My Salesforce",
@@ -3638,19 +3652,5 @@
     "url": "https://leetcode.com/discuss/post/7160467/godaddy-interview-experience-2025-by-ano-fn9t",
     "upvotes": 6,
     "comments": 3
-  },
-  {
-    "id": 7149850,
-    "date": "2025-09-03T02:52:49.549462+00:00",
-    "company": "Oracle Health Coding Loop Round",
-    "role": "N/A",
-    "yoe": null,
-    "outcome": "unknown",
-    "rounds": null,
-    "title": "Oracle Health Coding Loop round",
-    "summary": "Hi , Has anyone recently attended Oracle Health Coding Loop round, i have my interview this week .Really appreciate your help if you could share interview exp.\nI can exchange the experience for apple/gm if you can DM me",
-    "url": "https://leetcode.com/discuss/post/7149850/oracle-coding-round-by-fitz6xt3nb-ldvh",
-    "upvotes": 5,
-    "comments": 6
   }
 ]
