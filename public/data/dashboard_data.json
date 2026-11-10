@@ -1,5 +1,15 @@
 [
   {
+    "id": 8607426,
+    "date": "2026-11-10T03:43:40.422644+00:00",
+    "location": "Bangkok, Thailand",
+    "company": "Agoda",
+    "role": "Senior Software Engineer (Sde-2)",
+    "yoe": 4.0,
+    "base": 2.0,
+    "total": 2.0
+  },
+  {
     "id": 8601839,
     "date": "2026-11-04T17:33:11.300167+00:00",
     "location": "",
@@ -1818,25 +1828,5 @@
     "yoe": null,
     "base": 38.0,
     "total": 25.0
-  },
-  {
-    "id": 8310876,
-    "date": "2026-06-03T10:24:11.852897+00:00",
-    "location": "",
-    "company": "Interviewed For",
-    "role": "L24",
-    "yoe": 4.8,
-    "base": 26.0,
-    "total": 26.0
-  },
-  {
-    "id": 8310664,
-    "date": "2026-06-03T08:42:00.777667+00:00",
-    "location": "Remote (India)",
-    "company": "Twilio",
-    "role": "Data Engineer (L3)",
-    "yoe": 6.0,
-    "base": 42.0,
-    "total": 58.0
   }
 ]
