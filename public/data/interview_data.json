@@ -1,5 +1,19 @@
 [
   {
+    "id": 8609663,
+    "date": "2026-11-11T19:59:18.331892+00:00",
+    "company": "Walmart Hackerrank Assesment",
+    "role": "N/A",
+    "yoe": null,
+    "outcome": "unknown",
+    "rounds": null,
+    "title": "Walmart HackerRank assesment - Anyone taken recently?",
+    "summary": "Hi Everyone,I recently received a Walmart HackerRank assessment with a duration of 120 minutes. It also asks to select a preferred tech stack, such as Node.js or React.The assessment format is as follows:Test Format (1 Section – 3 Questions)Software",
+    "url": "https://leetcode.com/discuss/post/8609663/walmart-hackerrank-assesment-anyone-take-ml65",
+    "upvotes": 0,
+    "comments": 0
+  },
+  {
     "id": 8605041,
     "date": "2026-11-07T19:31:31.675128+00:00",
     "company": "Cohesity",
@@ -109,7 +123,7 @@
     "summary": "Location: Hyederabad, India\nYears of Experience: 5\nCurrent: PBCAmazon SDE2 Interview Experience | DSA + LLD + HLDRound 1: DSAQuestion: Similar to Rotten Oranges (LeetCode 994)\nThe round went very well, was able to easily code and explain end to end.",
     "url": "https://leetcode.com/discuss/post/8585902/amazon-sde2-interview-experience-by-anon-o9t8",
     "upvotes": 6,
-    "comments": 8
+    "comments": 9
   },
   {
     "id": 8585008,
@@ -290,7 +304,7 @@
     "title": "Amazon SDE-1 Interview Experience ( TCS -> Amazon ,2YOE) — Timeline, Preparation & Offer",
     "summary": "I recently completed the Amazon SDE-1 interview process and received the offer on September 21, 2026.I am sharing this detailed timeline and experience because reading community discussions helped me immensely during my preparation. I know how confus",
     "url": "https://leetcode.com/discuss/post/8542365/amazon-sde-1-interview-experience-tcs-am-8dyr",
-    "upvotes": 133,
+    "upvotes": 134,
     "comments": 45
   },
   {
@@ -3638,19 +3652,5 @@
     "url": "https://leetcode.com/discuss/post/7160827/amazon-interview-experience-2025-by-anon-goxi",
     "upvotes": 4,
     "comments": 4
-  },
-  {
-    "id": 7160467,
-    "date": "2025-09-06T06:46:26.673292+00:00",
-    "company": "Godaddy",
-    "role": "N/A",
-    "yoe": null,
-    "outcome": "reject",
-    "rounds": 3,
-    "title": "GoDaddy interview experience|| SWE-1|| 2025",
-    "summary": "Stage 1: OA1.first question on SQL : 5minutes timer\n2 coding question: medium.\none of them was dp questions\nquestion on array. we had to look for a pattern, then it was easy.\n3.5 aptitude questions.\nthe OA was of 1hr, i was done in 30 minutes\nStatus:",
-    "url": "https://leetcode.com/discuss/post/7160467/godaddy-interview-experience-2025-by-ano-fn9t",
-    "upvotes": 6,
-    "comments": 3
   }
 ]
