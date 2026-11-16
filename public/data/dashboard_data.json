@@ -1828,5 +1828,15 @@
     "yoe": null,
     "base": 2.0,
     "total": 2.0
+  },
+  {
+    "id": 8314799,
+    "date": "2026-06-05T06:52:15.715717+00:00",
+    "location": "Bengaluru, India",
+    "company": "Swiggy",
+    "role": "N/A",
+    "yoe": null,
+    "base": 38.0,
+    "total": 25.0
   }
 ]
