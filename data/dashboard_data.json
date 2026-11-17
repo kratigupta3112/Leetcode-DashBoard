@@ -1,5 +1,15 @@
 [
   {
+    "id": 8615175,
+    "date": "2026-11-16T19:16:23.604768+00:00",
+    "location": "",
+    "company": "An Offer From Walmart Global Tech For An",
+    "role": "SSE",
+    "yoe": null,
+    "base": 44.0,
+    "total": 44.0
+  },
+  {
     "id": 8615170,
     "date": "2026-11-16T19:07:11.540028+00:00",
     "location": "",
@@ -1818,25 +1828,5 @@
     "yoe": 2.0,
     "base": 25.0,
     "total": 25.0
-  },
-  {
-    "id": 8316935,
-    "date": "2026-06-06T08:12:09.145873+00:00",
-    "location": "",
-    "company": "Amazon",
-    "role": "L5",
-    "yoe": 5.0,
-    "base": 45.0,
-    "total": 45.0
-  },
-  {
-    "id": 8315883,
-    "date": "2026-06-05T17:44:54.113008+00:00",
-    "location": "",
-    "company": "Amazon",
-    "role": "SDE 2",
-    "yoe": null,
-    "base": 2.0,
-    "total": 2.0
   }
 ]
