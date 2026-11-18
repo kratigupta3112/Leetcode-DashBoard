@@ -1,5 +1,19 @@
 [
   {
+    "id": 8616474,
+    "date": "2026-11-18T04:19:32.578618+00:00",
+    "company": "Charta Health",
+    "role": "Software Engineer role at Charta Health. The",
+    "yoe": null,
+    "outcome": "unknown",
+    "rounds": 2,
+    "title": "Charta Health - Senior SWE Interview Experience | Aug 2026",
+    "summary": "I just recently completed the full interview loop for the Senior Software Engineer role at Charta Health. The full loop took about a month but I unfortunately did not get an offer from them.Round 1: Virtual CodingThey asked me to solve Insert Delete",
+    "url": "https://leetcode.com/discuss/post/8616474/charta-health-senior-swe-interview-exper-h8f4",
+    "upvotes": 2,
+    "comments": 1
+  },
+  {
     "id": 8609663,
     "date": "2026-11-11T19:59:18.331892+00:00",
     "company": "Walmart Hackerrank Assesment",
@@ -10,8 +24,8 @@
     "title": "Walmart HackerRank assesment - Anyone taken recently?",
     "summary": "Hi Everyone,I recently received a Walmart HackerRank assessment with a duration of 120 minutes. It also asks to select a preferred tech stack, such as Node.js or React.The assessment format is as follows:Test Format (1 Section – 3 Questions)Software",
     "url": "https://leetcode.com/discuss/post/8609663/walmart-hackerrank-assesment-anyone-take-ml65",
-    "upvotes": 1,
-    "comments": 1
+    "upvotes": 2,
+    "comments": 2
   },
   {
     "id": 8605041,
@@ -3638,19 +3652,5 @@
     "url": "https://leetcode.com/discuss/post/7166247/ey-interview-experience-sde2-bangalore-j-v1jn",
     "upvotes": 2,
     "comments": 2
-  },
-  {
-    "id": 7160827,
-    "date": "2025-09-06T09:14:54.429410+00:00",
-    "company": "Amazon",
-    "role": "N/A",
-    "yoe": null,
-    "outcome": "unknown",
-    "rounds": 1,
-    "title": "Amazon Interview Experience || 2025",
-    "summary": "Round: Online assesment.\nthe test was divided into three parts, first coding questions then hr question and third segment i dont remember.there were two questions in Oa both were medium, one of them was done using priority queeue even sorting would h",
-    "url": "https://leetcode.com/discuss/post/7160827/amazon-interview-experience-2025-by-anon-goxi",
-    "upvotes": 4,
-    "comments": 4
   }
 ]

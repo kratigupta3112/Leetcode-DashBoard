@@ -1,5 +1,15 @@
 [
   {
+    "id": 8616431,
+    "date": "2026-11-18T03:22:39.959832+00:00",
+    "location": "",
+    "company": "Dublin",
+    "role": "SDE 1",
+    "yoe": null,
+    "base": 80.0,
+    "total": 80.0
+  },
+  {
     "id": 8616120,
     "date": "2026-11-17T17:16:50.666660+00:00",
     "location": "Hyderabad",
@@ -1828,15 +1838,5 @@
     "yoe": null,
     "base": 45.0,
     "total": 45.0
-  },
-  {
-    "id": 8318206,
-    "date": "2026-06-06T18:44:21.672984+00:00",
-    "location": "",
-    "company": "Semiconductor MNC",
-    "role": "T2",
-    "yoe": 2.0,
-    "base": 25.0,
-    "total": 25.0
   }
 ]
