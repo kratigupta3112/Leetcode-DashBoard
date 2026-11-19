@@ -1,5 +1,35 @@
 [
   {
+    "id": 8617824,
+    "date": "2026-11-19T08:52:48.355438+00:00",
+    "location": "",
+    "company": "SMTS",
+    "role": "Bengaluru",
+    "yoe": null,
+    "base": 3.0,
+    "total": 6.0
+  },
+  {
+    "id": 8617823,
+    "date": "2026-11-19T08:52:40.510085+00:00",
+    "location": "",
+    "company": "3Y At Faang As",
+    "role": "SDE 1",
+    "yoe": null,
+    "base": 60.0,
+    "total": 60.0
+  },
+  {
+    "id": 8617809,
+    "date": "2026-11-19T08:39:07.149472+00:00",
+    "location": "",
+    "company": "SDE Google",
+    "role": "L4",
+    "yoe": 4.0,
+    "base": 4.0,
+    "total": 3.0
+  },
+  {
     "id": 8616120,
     "date": "2026-11-17T17:16:50.666660+00:00",
     "location": "Hyderabad",
@@ -1798,35 +1828,5 @@
     "yoe": null,
     "base": 46.5,
     "total": 46.5
-  },
-  {
-    "id": 8319045,
-    "date": "2026-06-07T07:42:35.399976+00:00",
-    "location": "",
-    "company": "Stealth Startup",
-    "role": "N/A",
-    "yoe": 5.0,
-    "base": 65.0,
-    "total": 73.75
-  },
-  {
-    "id": 8319029,
-    "date": "2026-06-07T07:35:14.744230+00:00",
-    "location": "",
-    "company": "Google",
-    "role": "L4",
-    "yoe": null,
-    "base": 45.0,
-    "total": 45.0
-  },
-  {
-    "id": 8318206,
-    "date": "2026-06-06T18:44:21.672984+00:00",
-    "location": "",
-    "company": "Semiconductor MNC",
-    "role": "T2",
-    "yoe": 2.0,
-    "base": 25.0,
-    "total": 25.0
   }
 ]
