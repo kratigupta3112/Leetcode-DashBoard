@@ -1,5 +1,33 @@
 [
   {
+    "id": 8623917,
+    "date": "2026-11-24T21:13:42.600907+00:00",
+    "company": "Bilt Rewards",
+    "role": "N/A",
+    "yoe": null,
+    "outcome": "unknown",
+    "rounds": null,
+    "title": "Bilt Rewards - Senior SWE Interview Experience | June 2026",
+    "summary": "I did not get an offer from Bilt but here was the complete interview loop.Technical ScreenThey gave me a Coderpad link with some starter code. The code would read a CSV file of transactions, parse each row of transaction data, calculate the rewards p",
+    "url": "https://leetcode.com/discuss/post/8623917/bilt-rewards-senior-swe-interview-experi-47ho",
+    "upvotes": 0,
+    "comments": 0
+  },
+  {
+    "id": 8623775,
+    "date": "2026-11-24T17:44:33.315542+00:00",
+    "company": "Gusto",
+    "role": "Software Engineer Interview Experience",
+    "yoe": null,
+    "outcome": "unknown",
+    "rounds": null,
+    "title": "Gusto - Senior Software Engineer Interview Experience | July 2026",
+    "summary": "Initial Recruiter ScreenPretty casual conversation with the recruiter about the interview process, the role, and the compensation. No behavioral questions.Technical ScreenThey gave me the same money distribution problem mentioned in Gusto SWE Tech Sc",
+    "url": "https://leetcode.com/discuss/post/8623775/gusto-senior-software-engineer-interview-79g6",
+    "upvotes": 0,
+    "comments": 0
+  },
+  {
     "id": 8617166,
     "date": "2026-11-18T16:38:33.538929+00:00",
     "company": "Atlassian Fde (Forward Deployed Engineer)",
