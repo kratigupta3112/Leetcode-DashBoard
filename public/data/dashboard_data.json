@@ -442,7 +442,7 @@
   {
     "id": 8538152,
     "date": "2026-09-24T14:43:51.304879+00:00",
-    "location": "",
+    "location": "Bengaluru",
     "company": "Future Standard",
     "role": "Analyst, Software Development Joining As Fresher",
     "yoe": null,
@@ -1848,15 +1848,5 @@
     "yoe": 2.0,
     "base": 16.0,
     "total": 16.0
-  },
-  {
-    "id": 8323366,
-    "date": "2026-06-09T08:24:26.059862+00:00",
-    "location": "",
-    "company": "Moengage",
-    "role": "SSE",
-    "yoe": null,
-    "base": 30.0,
-    "total": 30.0
   }
 ]

@@ -1,5 +1,19 @@
 [
   {
+    "id": 8625482,
+    "date": "2026-11-26T09:36:18.365383+00:00",
+    "company": "Wellsfargo",
+    "role": "SSE",
+    "yoe": null,
+    "outcome": "unknown",
+    "rounds": null,
+    "title": "WellsFargo Interview | SSE | Java ",
+    "summary": "Hi everyone,Has anyone appeared for Wells Fargo interviews recently? If so, could you please share your interview experience, the overall interview process, and what to expect in each round?Any insights regarding the DSA, LLD, HLD, and technical disc",
+    "url": "https://leetcode.com/discuss/post/8625482/wellsfargo-interview-sse-java-by-anonymo-p5cr",
+    "upvotes": 0,
+    "comments": 1
+  },
+  {
     "id": 8623917,
     "date": "2026-11-24T21:13:42.600907+00:00",
     "company": "Bilt Rewards",
@@ -3666,19 +3680,5 @@
     "url": "https://leetcode.com/discuss/post/7176200/any-tips-for-netapp-interview-round1-by-ve3fi",
     "upvotes": 3,
     "comments": 0
-  },
-  {
-    "id": 7176045,
-    "date": "2025-09-10T16:40:35.735800+00:00",
-    "company": "Amazon",
-    "role": "SDE",
-    "yoe": 3.1,
-    "outcome": "reject",
-    "rounds": 4,
-    "title": "Amazon SDE-2 | Chennai | Rejected",
-    "summary": "Amazon SDE-2 Interview ExperienceLocation : Chennai\nExperience : 3.1 Years\nOverall Time Period : Last week of June and First week of September\nStatus : Rejected\nTeam : Amazon Kindle\nCurrent company : PBC MNC\nRole : MTS (Backend)Leetcode Stats : 1128",
-    "url": "https://leetcode.com/discuss/post/7176045/amazon-sde-2-chennai-rejected-by-anonymo-txfr",
-    "upvotes": 27,
-    "comments": 10
   }
 ]
