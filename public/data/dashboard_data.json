@@ -1,5 +1,15 @@
 [
   {
+    "id": 8624851,
+    "date": "2026-11-25T20:00:53.566584+00:00",
+    "location": "Bengaluru",
+    "company": "Amazon India",
+    "role": "L5",
+    "yoe": 5.0,
+    "base": 39.0,
+    "total": 39.0
+  },
+  {
     "id": 8623020,
     "date": "2026-11-24T05:29:22.962007+00:00",
     "location": "",
