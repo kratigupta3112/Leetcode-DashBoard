@@ -1,5 +1,25 @@
 [
   {
+    "id": 8626811,
+    "date": "2026-11-27T15:23:52.608470+00:00",
+    "location": "Wfh",
+    "company": "Oracle",
+    "role": "N/A",
+    "yoe": 6.0,
+    "base": 42.0,
+    "total": 40.0
+  },
+  {
+    "id": 8626431,
+    "date": "2026-11-27T06:51:32.578286+00:00",
+    "location": "",
+    "company": "New Relic",
+    "role": "SDE 2",
+    "yoe": null,
+    "base": 2.0,
+    "total": 5.0
+  },
+  {
     "id": 8624851,
     "date": "2026-11-25T20:00:53.566584+00:00",
     "location": "Bengaluru",
@@ -1838,15 +1858,5 @@
     "yoe": null,
     "base": 2.0,
     "total": 2.0
-  },
-  {
-    "id": 8325515,
-    "date": "2026-06-10T08:12:19.093780+00:00",
-    "location": "",
-    "company": "Infosys",
-    "role": "Specialist Programmer L2",
-    "yoe": 2.0,
-    "base": 16.0,
-    "total": 16.0
   }
 ]
